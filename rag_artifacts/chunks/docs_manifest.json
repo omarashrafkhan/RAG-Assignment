@@ -1,0 +1,7275 @@
+[
+  {
+    "doc_id": "bbc_health_001",
+    "source_file": "bbc_health_001.txt",
+    "title": "bbc_health_001",
+    "category": "unknown",
+    "doc_word_count": 1411
+  },
+  {
+    "doc_id": "bbc_health_002",
+    "source_file": "bbc_health_002.txt",
+    "title": "bbc_health_002",
+    "category": "unknown",
+    "doc_word_count": 1615
+  },
+  {
+    "doc_id": "bbc_health_003",
+    "source_file": "bbc_health_003.txt",
+    "title": "دس ماہ کی بچی جس نے اپنے اعضا عطیہ کر کے پانچ لوگوں کی زندگیاں بچا لیں",
+    "category": "،تصویر کا ذریعہAmrita institute of medical sciences, Kochi",
+    "doc_word_count": 899
+  },
+  {
+    "doc_id": "bbc_health_004",
+    "source_file": "bbc_health_004.txt",
+    "title": "پکانے سے پہلے مرغی دھونا درست ہے یا خطرناک؟",
+    "category": "کیا مرغی کو پکانے سے پہلے دھونا چاہیے یا نہیں یہ وہ سوال ہے کہ جب بھی ہوتا ہے سوشل میڈیا پر ایک نئی بحث کو جنم دیتا ہے۔",
+    "doc_word_count": 1621
+  },
+  {
+    "doc_id": "bbc_health_005",
+    "source_file": "bbc_health_005.txt",
+    "title": "bbc_health_005",
+    "category": "unknown",
+    "doc_word_count": 865
+  },
+  {
+    "doc_id": "bbc_health_006",
+    "source_file": "bbc_health_006.txt",
+    "title": "bbc_health_006",
+    "category": "unknown",
+    "doc_word_count": 1318
+  },
+  {
+    "doc_id": "bbc_health_007",
+    "source_file": "bbc_health_007.txt",
+    "title": "’فائیو سٹار ہوٹل میں نہیں، 50 روپے والے کمروں میں رہے‘: جب 17 برس چھوٹے نوجوان سے ملاقات نے برطانوی نرس کی زندگی بدل دی",
+    "category": "محبت کا تعلق، ہراساں کرنے والا شخص، اچانک پرتشدد واقعہ۔۔۔ یہ تجربات کسی کے ساتھ ہوں تو وہ ہل کر رہ جائے۔",
+    "doc_word_count": 1446
+  },
+  {
+    "doc_id": "bbc_health_008",
+    "source_file": "bbc_health_008.txt",
+    "title": "bbc_health_008",
+    "category": "unknown",
+    "doc_word_count": 1460
+  },
+  {
+    "doc_id": "bbc_health_009",
+    "source_file": "bbc_health_009.txt",
+    "title": "bbc_health_009",
+    "category": "unknown",
+    "doc_word_count": 1620
+  },
+  {
+    "doc_id": "bbc_health_010",
+    "source_file": "bbc_health_010.txt",
+    "title": "bbc_health_010",
+    "category": "unknown",
+    "doc_word_count": 1363
+  },
+  {
+    "doc_id": "bbc_health_011",
+    "source_file": "bbc_health_011.txt",
+    "title": "وہ شخص جس کی زندگی ’40 منٹ کی موت‘ اور ایک معجزے نے بدل دی",
+    "category": "موت کے بعد عام طور پر کسی انسان کو دنیا میں نئی زندگی ملنے کا تصور موجود نہیں لیکن ایک شخص کے ساتھ بلکل ایسا ہی ہوا۔",
+    "doc_word_count": 784
+  },
+  {
+    "doc_id": "bbc_health_012",
+    "source_file": "bbc_health_012.txt",
+    "title": "مردہ عورت کی بچہ دانی کے ذریعے پیدائش کا ’معجزہ‘",
+    "category": "برطانیہ میں پہلی بار ایک ایسے بچے نے جنم لیا ہے جو ایک مردہ ڈونر کی بچہ دانی کے ٹرانسپلانٹ کے ذریعے پیدا ہوا۔",
+    "doc_word_count": 1169
+  },
+  {
+    "doc_id": "bbc_health_013",
+    "source_file": "bbc_health_013.txt",
+    "title": "bbc_health_013",
+    "category": "unknown",
+    "doc_word_count": 643
+  },
+  {
+    "doc_id": "bbc_health_014",
+    "source_file": "bbc_health_014.txt",
+    "title": "bbc_health_014",
+    "category": "unknown",
+    "doc_word_count": 852
+  },
+  {
+    "doc_id": "bbc_health_015",
+    "source_file": "bbc_health_015.txt",
+    "title": "bbc_health_015",
+    "category": "unknown",
+    "doc_word_count": 2532
+  },
+  {
+    "doc_id": "bbc_health_016",
+    "source_file": "bbc_health_016.txt",
+    "title": "bbc_health_016",
+    "category": "unknown",
+    "doc_word_count": 607
+  },
+  {
+    "doc_id": "bbc_health_017",
+    "source_file": "bbc_health_017.txt",
+    "title": "پاکستان اور دنیا بھر کے ہسپتالوں میں لاکھوں نرسز کی مانگ: نرس کیسے بنا جا سکتا ہے اور اس شعبے میں ترقی کے کتنے مواقع ہیں؟",
+    "category": "درد سے تڑپتا کوئی مریض جب ہسپتال میں داخل ہوتا ہے تو جس چہرے پر سب سے پہلے نظر پڑتی ہے وہ کسی نرس کا ہی ہوتا ہے۔",
+    "doc_word_count": 1793
+  },
+  {
+    "doc_id": "bbc_health_018",
+    "source_file": "bbc_health_018.txt",
+    "title": "bbc_health_018",
+    "category": "unknown",
+    "doc_word_count": 718
+  },
+  {
+    "doc_id": "bbc_health_019",
+    "source_file": "bbc_health_019.txt",
+    "title": "کیا یہ چاکلیٹ سونے میں آپ کی مدد کر سکتی ہے؟",
+    "category": "مشروم چاکلیٹ کے ایک برانڈ ایلس نے تین سال پہلے اپنی لانچ سے لے کر اب تک وسیع پیمانے پر مقبولیت حاصل کر لی ہے۔",
+    "doc_word_count": 1318
+  },
+  {
+    "doc_id": "bbc_health_020",
+    "source_file": "bbc_health_020.txt",
+    "title": "bbc_health_020",
+    "category": "unknown",
+    "doc_word_count": 1709
+  },
+  {
+    "doc_id": "bbc_health_021",
+    "source_file": "bbc_health_021.txt",
+    "title": "bbc_health_021",
+    "category": "unknown",
+    "doc_word_count": 1586
+  },
+  {
+    "doc_id": "bbc_health_022",
+    "source_file": "bbc_health_022.txt",
+    "title": "bbc_health_022",
+    "category": "unknown",
+    "doc_word_count": 1935
+  },
+  {
+    "doc_id": "bbc_health_023",
+    "source_file": "bbc_health_023.txt",
+    "title": "bbc_health_023",
+    "category": "unknown",
+    "doc_word_count": 3133
+  },
+  {
+    "doc_id": "bbc_health_024",
+    "source_file": "bbc_health_024.txt",
+    "title": "bbc_health_024",
+    "category": "unknown",
+    "doc_word_count": 653
+  },
+  {
+    "doc_id": "express_health_001",
+    "source_file": "express_health_001.txt",
+    "title": "express_health_001",
+    "category": "unknown",
+    "doc_word_count": 1336
+  },
+  {
+    "doc_id": "express_health_002",
+    "source_file": "express_health_002.txt",
+    "title": "express_health_002",
+    "category": "unknown",
+    "doc_word_count": 1630
+  },
+  {
+    "doc_id": "express_health_003",
+    "source_file": "express_health_003.txt",
+    "title": "express_health_003",
+    "category": "unknown",
+    "doc_word_count": 1684
+  },
+  {
+    "doc_id": "express_health_004",
+    "source_file": "express_health_004.txt",
+    "title": "express_health_004",
+    "category": "unknown",
+    "doc_word_count": 1817
+  },
+  {
+    "doc_id": "express_health_005",
+    "source_file": "express_health_005.txt",
+    "title": "express_health_005",
+    "category": "unknown",
+    "doc_word_count": 1083
+  },
+  {
+    "doc_id": "express_health_006",
+    "source_file": "express_health_006.txt",
+    "title": "express_health_006",
+    "category": "unknown",
+    "doc_word_count": 2234
+  },
+  {
+    "doc_id": "express_health_007",
+    "source_file": "express_health_007.txt",
+    "title": "express_health_007",
+    "category": "unknown",
+    "doc_word_count": 7379
+  },
+  {
+    "doc_id": "express_health_008",
+    "source_file": "express_health_008.txt",
+    "title": "express_health_008",
+    "category": "unknown",
+    "doc_word_count": 7502
+  },
+  {
+    "doc_id": "express_health_009",
+    "source_file": "express_health_009.txt",
+    "title": "express_health_009",
+    "category": "unknown",
+    "doc_word_count": 1232
+  },
+  {
+    "doc_id": "express_health_010",
+    "source_file": "express_health_010.txt",
+    "title": "express_health_010",
+    "category": "unknown",
+    "doc_word_count": 4304
+  },
+  {
+    "doc_id": "express_health_011",
+    "source_file": "express_health_011.txt",
+    "title": "express_health_011",
+    "category": "unknown",
+    "doc_word_count": 5202
+  },
+  {
+    "doc_id": "express_health_012",
+    "source_file": "express_health_012.txt",
+    "title": "express_health_012",
+    "category": "unknown",
+    "doc_word_count": 4941
+  },
+  {
+    "doc_id": "express_health_013",
+    "source_file": "express_health_013.txt",
+    "title": "express_health_013",
+    "category": "unknown",
+    "doc_word_count": 1668
+  },
+  {
+    "doc_id": "express_health_014",
+    "source_file": "express_health_014.txt",
+    "title": "express_health_014",
+    "category": "unknown",
+    "doc_word_count": 6966
+  },
+  {
+    "doc_id": "express_health_015",
+    "source_file": "express_health_015.txt",
+    "title": "express_health_015",
+    "category": "unknown",
+    "doc_word_count": 4454
+  },
+  {
+    "doc_id": "wiki_health_001",
+    "source_file": "wiki_health_001.txt",
+    "title": "صحت",
+    "category": "صحت",
+    "doc_word_count": 489
+  },
+  {
+    "doc_id": "wiki_health_002",
+    "source_file": "wiki_health_002.txt",
+    "title": "طب",
+    "category": "طب",
+    "doc_word_count": 351
+  },
+  {
+    "doc_id": "wiki_health_003",
+    "source_file": "wiki_health_003.txt",
+    "title": "خارج النشتر جراحی",
+    "category": "طب",
+    "doc_word_count": 57
+  },
+  {
+    "doc_id": "wiki_health_004",
+    "source_file": "wiki_health_004.txt",
+    "title": "وراثی معالجہ",
+    "category": "طبی تحقیق",
+    "doc_word_count": 539
+  },
+  {
+    "doc_id": "wiki_health_005",
+    "source_file": "wiki_health_005.txt",
+    "title": "جینیات",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 271
+  },
+  {
+    "doc_id": "wiki_health_006",
+    "source_file": "wiki_health_006.txt",
+    "title": "اسٹیم سیل",
+    "category": "طبی تحقیق",
+    "doc_word_count": 796
+  },
+  {
+    "doc_id": "wiki_health_007",
+    "source_file": "wiki_health_007.txt",
+    "title": "سکتہ",
+    "category": "اعصابیاتی امراض",
+    "doc_word_count": 364
+  },
+  {
+    "doc_id": "wiki_health_008",
+    "source_file": "wiki_health_008.txt",
+    "title": "شیزوفرینیا",
+    "category": "طب",
+    "doc_word_count": 1798
+  },
+  {
+    "doc_id": "wiki_health_009",
+    "source_file": "wiki_health_009.txt",
+    "title": "انسانی ورم حلیمی وائرس",
+    "category": "جنسی منقولہ امراض",
+    "doc_word_count": 359
+  },
+  {
+    "doc_id": "wiki_health_010",
+    "source_file": "wiki_health_010.txt",
+    "title": "وائرس",
+    "category": "وائرس",
+    "doc_word_count": 229
+  },
+  {
+    "doc_id": "wiki_health_011",
+    "source_file": "wiki_health_011.txt",
+    "title": "قلب",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 894
+  },
+  {
+    "doc_id": "wiki_health_012",
+    "source_file": "wiki_health_012.txt",
+    "title": "آنکھ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 325
+  },
+  {
+    "doc_id": "wiki_health_013",
+    "source_file": "wiki_health_013.txt",
+    "title": "علم تشریح",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 779
+  },
+  {
+    "doc_id": "wiki_health_014",
+    "source_file": "wiki_health_014.txt",
+    "title": "اگاروز",
+    "category": "طبی پودے",
+    "doc_word_count": 70
+  },
+  {
+    "doc_id": "wiki_health_015",
+    "source_file": "wiki_health_015.txt",
+    "title": "خردوبینی حیاتیات",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 84
+  },
+  {
+    "doc_id": "wiki_health_016",
+    "source_file": "wiki_health_016.txt",
+    "title": "وائرولوجی",
+    "category": "وائرس",
+    "doc_word_count": 751
+  },
+  {
+    "doc_id": "wiki_health_017",
+    "source_file": "wiki_health_017.txt",
+    "title": "مرض سیلیئک",
+    "category": "طب",
+    "doc_word_count": 333
+  },
+  {
+    "doc_id": "wiki_health_018",
+    "source_file": "wiki_health_018.txt",
+    "title": "کلوننگ",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 153
+  },
+  {
+    "doc_id": "wiki_health_019",
+    "source_file": "wiki_health_019.txt",
+    "title": "برڈ فلو",
+    "category": "متعدی امراض",
+    "doc_word_count": 1374
+  },
+  {
+    "doc_id": "wiki_health_020",
+    "source_file": "wiki_health_020.txt",
+    "title": "جارانفی",
+    "category": "طب",
+    "doc_word_count": 101
+  },
+  {
+    "doc_id": "wiki_health_021",
+    "source_file": "wiki_health_021.txt",
+    "title": "حیاتی کیمیا",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 244
+  },
+  {
+    "doc_id": "wiki_health_022",
+    "source_file": "wiki_health_022.txt",
+    "title": "جنسی منقولہ امراض",
+    "category": "جنسی منقولہ امراض",
+    "doc_word_count": 609
+  },
+  {
+    "doc_id": "wiki_health_023",
+    "source_file": "wiki_health_023.txt",
+    "title": "الکحولی التہاب جگر",
+    "category": "امراض جگر",
+    "doc_word_count": 638
+  },
+  {
+    "doc_id": "wiki_health_024",
+    "source_file": "wiki_health_024.txt",
+    "title": "جذام",
+    "category": "متعدی امراض",
+    "doc_word_count": 1550
+  },
+  {
+    "doc_id": "wiki_health_025",
+    "source_file": "wiki_health_025.txt",
+    "title": "ویکسین",
+    "category": "ویکسین",
+    "doc_word_count": 400
+  },
+  {
+    "doc_id": "wiki_health_026",
+    "source_file": "wiki_health_026.txt",
+    "title": "ایچ آئی وی/ایڈز",
+    "category": "آفات صحت",
+    "doc_word_count": 1301
+  },
+  {
+    "doc_id": "wiki_health_027",
+    "source_file": "wiki_health_027.txt",
+    "title": "سل",
+    "category": "افریقا میں صحت",
+    "doc_word_count": 345
+  },
+  {
+    "doc_id": "wiki_health_028",
+    "source_file": "wiki_health_028.txt",
+    "title": "رازی",
+    "category": "روایتی ایرانی طب",
+    "doc_word_count": 751
+  },
+  {
+    "doc_id": "wiki_health_029",
+    "source_file": "wiki_health_029.txt",
+    "title": "ابن سینا",
+    "category": "اسلامی طب و حکمت",
+    "doc_word_count": 1208
+  },
+  {
+    "doc_id": "wiki_health_030",
+    "source_file": "wiki_health_030.txt",
+    "title": "حکیم محمد سعید",
+    "category": "پاکستانی طبی محققین",
+    "doc_word_count": 502
+  },
+  {
+    "doc_id": "wiki_health_031",
+    "source_file": "wiki_health_031.txt",
+    "title": "سرطان عنقی",
+    "category": "وائرسی امراض",
+    "doc_word_count": 731
+  },
+  {
+    "doc_id": "wiki_health_032",
+    "source_file": "wiki_health_032.txt",
+    "title": "طب یونانی",
+    "category": "طب یونانی",
+    "doc_word_count": 1207
+  },
+  {
+    "doc_id": "wiki_health_033",
+    "source_file": "wiki_health_033.txt",
+    "title": "بلند اختطار",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 80
+  },
+  {
+    "doc_id": "wiki_health_034",
+    "source_file": "wiki_health_034.txt",
+    "title": "پست اختطار",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_035",
+    "source_file": "wiki_health_035.txt",
+    "title": "بقراط",
+    "category": "طب",
+    "doc_word_count": 602
+  },
+  {
+    "doc_id": "wiki_health_036",
+    "source_file": "wiki_health_036.txt",
+    "title": "آئی سس",
+    "category": "صحت کی دیویاں",
+    "doc_word_count": 167
+  },
+  {
+    "doc_id": "wiki_health_037",
+    "source_file": "wiki_health_037.txt",
+    "title": "معالجہ بالید",
+    "category": "علاج",
+    "doc_word_count": 86
+  },
+  {
+    "doc_id": "wiki_health_038",
+    "source_file": "wiki_health_038.txt",
+    "title": "ہومیوپیتھی",
+    "category": "متبادل طبی نظام",
+    "doc_word_count": 348
+  },
+  {
+    "doc_id": "wiki_health_039",
+    "source_file": "wiki_health_039.txt",
+    "title": "ابن طفیل",
+    "category": "اسلامی طب و حکمت",
+    "doc_word_count": 222
+  },
+  {
+    "doc_id": "wiki_health_040",
+    "source_file": "wiki_health_040.txt",
+    "title": "سرطان جگر",
+    "category": "جگر کے امراض",
+    "doc_word_count": 140
+  },
+  {
+    "doc_id": "wiki_health_041",
+    "source_file": "wiki_health_041.txt",
+    "title": "جابر بن حیان",
+    "category": "روایتی ایرانی طب",
+    "doc_word_count": 1811
+  },
+  {
+    "doc_id": "wiki_health_042",
+    "source_file": "wiki_health_042.txt",
+    "title": "ہنری ہیولاک ایلس",
+    "category": "جنسی رجحان اور طب",
+    "doc_word_count": 126
+  },
+  {
+    "doc_id": "wiki_health_043",
+    "source_file": "wiki_health_043.txt",
+    "title": "سر فریڈرک گرانٹ بینٹنگ",
+    "category": "کینیڈین طبی محققین",
+    "doc_word_count": 192
+  },
+  {
+    "doc_id": "wiki_health_044",
+    "source_file": "wiki_health_044.txt",
+    "title": "ختنہ",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 391
+  },
+  {
+    "doc_id": "wiki_health_045",
+    "source_file": "wiki_health_045.txt",
+    "title": "خواب",
+    "category": "نفسیاتی علاج",
+    "doc_word_count": 858
+  },
+  {
+    "doc_id": "wiki_health_046",
+    "source_file": "wiki_health_046.txt",
+    "title": "خواب خرامی",
+    "category": "امراض",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_047",
+    "source_file": "wiki_health_047.txt",
+    "title": "خود کشی",
+    "category": "نفسیاتی علاج",
+    "doc_word_count": 940
+  },
+  {
+    "doc_id": "wiki_health_048",
+    "source_file": "wiki_health_048.txt",
+    "title": "خیارین",
+    "category": "طب",
+    "doc_word_count": 32
+  },
+  {
+    "doc_id": "wiki_health_049",
+    "source_file": "wiki_health_049.txt",
+    "title": "داد",
+    "category": "امراض",
+    "doc_word_count": 84
+  },
+  {
+    "doc_id": "wiki_health_050",
+    "source_file": "wiki_health_050.txt",
+    "title": "دارچینی",
+    "category": "طبی پودے",
+    "doc_word_count": 239
+  },
+  {
+    "doc_id": "wiki_health_051",
+    "source_file": "wiki_health_051.txt",
+    "title": "خوراک مرگ",
+    "category": "طب حادثات",
+    "doc_word_count": 194
+  },
+  {
+    "doc_id": "wiki_health_052",
+    "source_file": "wiki_health_052.txt",
+    "title": "زچگی",
+    "category": "طب",
+    "doc_word_count": 5054
+  },
+  {
+    "doc_id": "wiki_health_053",
+    "source_file": "wiki_health_053.txt",
+    "title": "درد قولنج",
+    "category": "طب",
+    "doc_word_count": 180
+  },
+  {
+    "doc_id": "wiki_health_054",
+    "source_file": "wiki_health_054.txt",
+    "title": "درد کمر",
+    "category": "طب",
+    "doc_word_count": 138
+  },
+  {
+    "doc_id": "wiki_health_055",
+    "source_file": "wiki_health_055.txt",
+    "title": "درد گردہ",
+    "category": "طب",
+    "doc_word_count": 147
+  },
+  {
+    "doc_id": "wiki_health_056",
+    "source_file": "wiki_health_056.txt",
+    "title": "دھتورہ",
+    "category": "قدیم طریقہ علاج",
+    "doc_word_count": 167
+  },
+  {
+    "doc_id": "wiki_health_057",
+    "source_file": "wiki_health_057.txt",
+    "title": "القانون فی الطب",
+    "category": "روایتی ایرانی طب",
+    "doc_word_count": 170
+  },
+  {
+    "doc_id": "wiki_health_058",
+    "source_file": "wiki_health_058.txt",
+    "title": "جنینیات",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 180
+  },
+  {
+    "doc_id": "wiki_health_059",
+    "source_file": "wiki_health_059.txt",
+    "title": "جنین",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 272
+  },
+  {
+    "doc_id": "wiki_health_060",
+    "source_file": "wiki_health_060.txt",
+    "title": "سال حیات بمطابق کیفیت",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 175
+  },
+  {
+    "doc_id": "wiki_health_061",
+    "source_file": "wiki_health_061.txt",
+    "title": "حیات",
+    "category": "طب",
+    "doc_word_count": 2088
+  },
+  {
+    "doc_id": "wiki_health_062",
+    "source_file": "wiki_health_062.txt",
+    "title": "برقی دماغی ترسیم",
+    "category": "طبی ٹیسٹ",
+    "doc_word_count": 190
+  },
+  {
+    "doc_id": "wiki_health_063",
+    "source_file": "wiki_health_063.txt",
+    "title": "مصفی زلف",
+    "category": "حفظان صحت",
+    "doc_word_count": 194
+  },
+  {
+    "doc_id": "wiki_health_064",
+    "source_file": "wiki_health_064.txt",
+    "title": "روح",
+    "category": "طب",
+    "doc_word_count": 992
+  },
+  {
+    "doc_id": "wiki_health_065",
+    "source_file": "wiki_health_065.txt",
+    "title": "بانجھ پن",
+    "category": "طب خصوبہ",
+    "doc_word_count": 1124
+  },
+  {
+    "doc_id": "wiki_health_066",
+    "source_file": "wiki_health_066.txt",
+    "title": "خوناب",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_067",
+    "source_file": "wiki_health_067.txt",
+    "title": "نسیج",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 1982
+  },
+  {
+    "doc_id": "wiki_health_068",
+    "source_file": "wiki_health_068.txt",
+    "title": "خون ٹیسٹ",
+    "category": "طبی تشخیص",
+    "doc_word_count": 980
+  },
+  {
+    "doc_id": "wiki_health_069",
+    "source_file": "wiki_health_069.txt",
+    "title": "تجزیۂ بول",
+    "category": "طب کلیہ",
+    "doc_word_count": 264
+  },
+  {
+    "doc_id": "wiki_health_070",
+    "source_file": "wiki_health_070.txt",
+    "title": "قانون طب",
+    "category": "طب",
+    "doc_word_count": 1252
+  },
+  {
+    "doc_id": "wiki_health_071",
+    "source_file": "wiki_health_071.txt",
+    "title": "گل داؤدی",
+    "category": "طبی پودے",
+    "doc_word_count": 282
+  },
+  {
+    "doc_id": "wiki_health_072",
+    "source_file": "wiki_health_072.txt",
+    "title": "آم",
+    "category": "طبی پودے",
+    "doc_word_count": 584
+  },
+  {
+    "doc_id": "wiki_health_073",
+    "source_file": "wiki_health_073.txt",
+    "title": "چائے",
+    "category": "طبی پودے",
+    "doc_word_count": 354
+  },
+  {
+    "doc_id": "wiki_health_074",
+    "source_file": "wiki_health_074.txt",
+    "title": "فقرالدم",
+    "category": "امراض خون",
+    "doc_word_count": 230
+  },
+  {
+    "doc_id": "wiki_health_075",
+    "source_file": "wiki_health_075.txt",
+    "title": "طب نفسی",
+    "category": "طب نفسی",
+    "doc_word_count": 326
+  },
+  {
+    "doc_id": "wiki_health_076",
+    "source_file": "wiki_health_076.txt",
+    "title": "ہم کیوں بھولتے ہیں؟",
+    "category": "طب نفسی",
+    "doc_word_count": 339
+  },
+  {
+    "doc_id": "wiki_health_077",
+    "source_file": "wiki_health_077.txt",
+    "title": "عدویٰ",
+    "category": "امراض",
+    "doc_word_count": 79
+  },
+  {
+    "doc_id": "wiki_health_078",
+    "source_file": "wiki_health_078.txt",
+    "title": "سلاجیت",
+    "category": "آیور ویدک ادویات",
+    "doc_word_count": 268
+  },
+  {
+    "doc_id": "wiki_health_079",
+    "source_file": "wiki_health_079.txt",
+    "title": "خرد بین",
+    "category": "طب",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_080",
+    "source_file": "wiki_health_080.txt",
+    "title": "P53 (وراثہ)",
+    "category": "طب",
+    "doc_word_count": 983
+  },
+  {
+    "doc_id": "wiki_health_081",
+    "source_file": "wiki_health_081.txt",
+    "title": "عصبی خلیہ",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 453
+  },
+  {
+    "doc_id": "wiki_health_082",
+    "source_file": "wiki_health_082.txt",
+    "title": "محوریہ",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 190
+  },
+  {
+    "doc_id": "wiki_health_083",
+    "source_file": "wiki_health_083.txt",
+    "title": "علم گروہ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 57
+  },
+  {
+    "doc_id": "wiki_health_084",
+    "source_file": "wiki_health_084.txt",
+    "title": "علامت (طب)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 91
+  },
+  {
+    "doc_id": "wiki_health_085",
+    "source_file": "wiki_health_085.txt",
+    "title": "تیمار داری",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 131
+  },
+  {
+    "doc_id": "wiki_health_086",
+    "source_file": "wiki_health_086.txt",
+    "title": "برازی خون مخفی",
+    "category": "طبی ٹیسٹ",
+    "doc_word_count": 856
+  },
+  {
+    "doc_id": "wiki_health_087",
+    "source_file": "wiki_health_087.txt",
+    "title": "سابقات و لاحقات (طب)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 804
+  },
+  {
+    "doc_id": "wiki_health_088",
+    "source_file": "wiki_health_088.txt",
+    "title": "گلاب",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 141
+  },
+  {
+    "doc_id": "wiki_health_089",
+    "source_file": "wiki_health_089.txt",
+    "title": "دیودار",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 215
+  },
+  {
+    "doc_id": "wiki_health_090",
+    "source_file": "wiki_health_090.txt",
+    "title": "اَلفیہ",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 316
+  },
+  {
+    "doc_id": "wiki_health_091",
+    "source_file": "wiki_health_091.txt",
+    "title": "لہسن",
+    "category": "طبی پودے",
+    "doc_word_count": 244
+  },
+  {
+    "doc_id": "wiki_health_092",
+    "source_file": "wiki_health_092.txt",
+    "title": "ہلیون",
+    "category": "افریقا کے طبی پودے",
+    "doc_word_count": 55
+  },
+  {
+    "doc_id": "wiki_health_093",
+    "source_file": "wiki_health_093.txt",
+    "title": "سونف",
+    "category": "طبی پودے",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_094",
+    "source_file": "wiki_health_094.txt",
+    "title": "کلونجی",
+    "category": "طبی پودے",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_095",
+    "source_file": "wiki_health_095.txt",
+    "title": "جائفل",
+    "category": "طبی پودے",
+    "doc_word_count": 660
+  },
+  {
+    "doc_id": "wiki_health_096",
+    "source_file": "wiki_health_096.txt",
+    "title": "پیاز",
+    "category": "طبی پودے",
+    "doc_word_count": 306
+  },
+  {
+    "doc_id": "wiki_health_097",
+    "source_file": "wiki_health_097.txt",
+    "title": "کراث",
+    "category": "طبی پودے",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_098",
+    "source_file": "wiki_health_098.txt",
+    "title": "لہسن دُب",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_099",
+    "source_file": "wiki_health_099.txt",
+    "title": "لہسن رملی",
+    "category": "طبی پودے",
+    "doc_word_count": 81
+  },
+  {
+    "doc_id": "wiki_health_100",
+    "source_file": "wiki_health_100.txt",
+    "title": "ثوم معمر",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 60
+  },
+  {
+    "doc_id": "wiki_health_1000",
+    "source_file": "wiki_health_1000.txt",
+    "title": "انسولین کی اقسام",
+    "category": "ذیابیطس",
+    "doc_word_count": 1493
+  },
+  {
+    "doc_id": "wiki_health_101",
+    "source_file": "wiki_health_101.txt",
+    "title": "سرسوں",
+    "category": "طبی پودے",
+    "doc_word_count": 305
+  },
+  {
+    "doc_id": "wiki_health_102",
+    "source_file": "wiki_health_102.txt",
+    "title": "جیمز ڈی واٹسن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 1342
+  },
+  {
+    "doc_id": "wiki_health_103",
+    "source_file": "wiki_health_103.txt",
+    "title": "چھوئی موئی",
+    "category": "طبی پودے",
+    "doc_word_count": 203
+  },
+  {
+    "doc_id": "wiki_health_104",
+    "source_file": "wiki_health_104.txt",
+    "title": "قفلوط",
+    "category": "طبی پودے",
+    "doc_word_count": 28
+  },
+  {
+    "doc_id": "wiki_health_105",
+    "source_file": "wiki_health_105.txt",
+    "title": "کرداری علوم",
+    "category": "طب",
+    "doc_word_count": 57
+  },
+  {
+    "doc_id": "wiki_health_106",
+    "source_file": "wiki_health_106.txt",
+    "title": "حجم ضربہ",
+    "category": "طب",
+    "doc_word_count": 162
+  },
+  {
+    "doc_id": "wiki_health_107",
+    "source_file": "wiki_health_107.txt",
+    "title": "حکیم اجمل خان",
+    "category": "طب یونانی",
+    "doc_word_count": 913
+  },
+  {
+    "doc_id": "wiki_health_108",
+    "source_file": "wiki_health_108.txt",
+    "title": "ایڈز (آسان)",
+    "category": "جنسی منقولہ امراض",
+    "doc_word_count": 1004
+  },
+  {
+    "doc_id": "wiki_health_109",
+    "source_file": "wiki_health_109.txt",
+    "title": "انجیر",
+    "category": "طبی پودے",
+    "doc_word_count": 247
+  },
+  {
+    "doc_id": "wiki_health_110",
+    "source_file": "wiki_health_110.txt",
+    "title": "پیپل",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 348
+  },
+  {
+    "doc_id": "wiki_health_111",
+    "source_file": "wiki_health_111.txt",
+    "title": "ککروندا",
+    "category": "طبی پودے",
+    "doc_word_count": 138
+  },
+  {
+    "doc_id": "wiki_health_112",
+    "source_file": "wiki_health_112.txt",
+    "title": "پوست",
+    "category": "طبی پودے",
+    "doc_word_count": 109
+  },
+  {
+    "doc_id": "wiki_health_113",
+    "source_file": "wiki_health_113.txt",
+    "title": "سرخ پوپی",
+    "category": "طبی پودے",
+    "doc_word_count": 57
+  },
+  {
+    "doc_id": "wiki_health_114",
+    "source_file": "wiki_health_114.txt",
+    "title": "کنول",
+    "category": "طبی پودے",
+    "doc_word_count": 302
+  },
+  {
+    "doc_id": "wiki_health_115",
+    "source_file": "wiki_health_115.txt",
+    "title": "عزت نفس اور خوداعتمادی",
+    "category": "نفسیاتی علاج",
+    "doc_word_count": 1275
+  },
+  {
+    "doc_id": "wiki_health_116",
+    "source_file": "wiki_health_116.txt",
+    "title": "بطن حاد",
+    "category": "ہاضمہ کے امراض",
+    "doc_word_count": 572
+  },
+  {
+    "doc_id": "wiki_health_117",
+    "source_file": "wiki_health_117.txt",
+    "title": "جراحت",
+    "category": "جراحی",
+    "doc_word_count": 354
+  },
+  {
+    "doc_id": "wiki_health_118",
+    "source_file": "wiki_health_118.txt",
+    "title": "بطن بین جراحت",
+    "category": "جراحی",
+    "doc_word_count": 67
+  },
+  {
+    "doc_id": "wiki_health_119",
+    "source_file": "wiki_health_119.txt",
+    "title": "گل اشرفی",
+    "category": "طبی پودے",
+    "doc_word_count": 100
+  },
+  {
+    "doc_id": "wiki_health_120",
+    "source_file": "wiki_health_120.txt",
+    "title": "گلوری للی",
+    "category": "افریقا کے طبی پودے",
+    "doc_word_count": 95
+  },
+  {
+    "doc_id": "wiki_health_121",
+    "source_file": "wiki_health_121.txt",
+    "title": "الیگزنڈر فلیمنگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 261
+  },
+  {
+    "doc_id": "wiki_health_122",
+    "source_file": "wiki_health_122.txt",
+    "title": "لسٹر",
+    "category": "جراحی",
+    "doc_word_count": 130
+  },
+  {
+    "doc_id": "wiki_health_123",
+    "source_file": "wiki_health_123.txt",
+    "title": "حس",
+    "category": "طب",
+    "doc_word_count": 220
+  },
+  {
+    "doc_id": "wiki_health_124",
+    "source_file": "wiki_health_124.txt",
+    "title": "حسی ادراک",
+    "category": "طب",
+    "doc_word_count": 389
+  },
+  {
+    "doc_id": "wiki_health_125",
+    "source_file": "wiki_health_125.txt",
+    "title": "شعور",
+    "category": "طب",
+    "doc_word_count": 501
+  },
+  {
+    "doc_id": "wiki_health_126",
+    "source_file": "wiki_health_126.txt",
+    "title": "سلعیات",
+    "category": "طب",
+    "doc_word_count": 28
+  },
+  {
+    "doc_id": "wiki_health_127",
+    "source_file": "wiki_health_127.txt",
+    "title": "سلیلہ (مرض)",
+    "category": "طب",
+    "doc_word_count": 419
+  },
+  {
+    "doc_id": "wiki_health_128",
+    "source_file": "wiki_health_128.txt",
+    "title": "بالاصوت",
+    "category": "طبیعیات طب",
+    "doc_word_count": 230
+  },
+  {
+    "doc_id": "wiki_health_129",
+    "source_file": "wiki_health_129.txt",
+    "title": "سر پیٹر مینسفیلڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 318
+  },
+  {
+    "doc_id": "wiki_health_130",
+    "source_file": "wiki_health_130.txt",
+    "title": "صوتی تخطیط",
+    "category": "طب",
+    "doc_word_count": 118
+  },
+  {
+    "doc_id": "wiki_health_131",
+    "source_file": "wiki_health_131.txt",
+    "title": "اسقاط (حمل)",
+    "category": "طب تولید",
+    "doc_word_count": 382
+  },
+  {
+    "doc_id": "wiki_health_132",
+    "source_file": "wiki_health_132.txt",
+    "title": "فرانسس کرک",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 365
+  },
+  {
+    "doc_id": "wiki_health_133",
+    "source_file": "wiki_health_133.txt",
+    "title": "لاشعور",
+    "category": "طب",
+    "doc_word_count": 289
+  },
+  {
+    "doc_id": "wiki_health_134",
+    "source_file": "wiki_health_134.txt",
+    "title": "سر رچرڈ ڈول",
+    "category": "برطانوی طبی محققین",
+    "doc_word_count": 305
+  },
+  {
+    "doc_id": "wiki_health_135",
+    "source_file": "wiki_health_135.txt",
+    "title": "ٹیری شائوو",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 352
+  },
+  {
+    "doc_id": "wiki_health_136",
+    "source_file": "wiki_health_136.txt",
+    "title": "مزاج",
+    "category": "طب",
+    "doc_word_count": 261
+  },
+  {
+    "doc_id": "wiki_health_137",
+    "source_file": "wiki_health_137.txt",
+    "title": "قرحہ چشم",
+    "category": "امراض چشم",
+    "doc_word_count": 1756
+  },
+  {
+    "doc_id": "wiki_health_138",
+    "source_file": "wiki_health_138.txt",
+    "title": "طب العین",
+    "category": "طب العین",
+    "doc_word_count": 75
+  },
+  {
+    "doc_id": "wiki_health_139",
+    "source_file": "wiki_health_139.txt",
+    "title": "واہمہ",
+    "category": "طبی علامتیں",
+    "doc_word_count": 1123
+  },
+  {
+    "doc_id": "wiki_health_140",
+    "source_file": "wiki_health_140.txt",
+    "title": "فریب ِحس",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 312
+  },
+  {
+    "doc_id": "wiki_health_141",
+    "source_file": "wiki_health_141.txt",
+    "title": "احتِشاء",
+    "category": "طب",
+    "doc_word_count": 342
+  },
+  {
+    "doc_id": "wiki_health_142",
+    "source_file": "wiki_health_142.txt",
+    "title": "جنگلی گاجر",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_143",
+    "source_file": "wiki_health_143.txt",
+    "title": "شِبِت",
+    "category": "طبی پودے",
+    "doc_word_count": 55
+  },
+  {
+    "doc_id": "wiki_health_144",
+    "source_file": "wiki_health_144.txt",
+    "title": "گرافکس",
+    "category": "طب",
+    "doc_word_count": 1086
+  },
+  {
+    "doc_id": "wiki_health_145",
+    "source_file": "wiki_health_145.txt",
+    "title": "تولید",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 176
+  },
+  {
+    "doc_id": "wiki_health_146",
+    "source_file": "wiki_health_146.txt",
+    "title": "دایہ گری",
+    "category": "جنسی صحت",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_147",
+    "source_file": "wiki_health_147.txt",
+    "title": "طب مذکر",
+    "category": "طب مذکر",
+    "doc_word_count": 31
+  },
+  {
+    "doc_id": "wiki_health_148",
+    "source_file": "wiki_health_148.txt",
+    "title": "ایلوپیتھی",
+    "category": "طب",
+    "doc_word_count": 176
+  },
+  {
+    "doc_id": "wiki_health_149",
+    "source_file": "wiki_health_149.txt",
+    "title": "منطقۂ موت",
+    "category": "طب",
+    "doc_word_count": 307
+  },
+  {
+    "doc_id": "wiki_health_150",
+    "source_file": "wiki_health_150.txt",
+    "title": "فقر کلام",
+    "category": "طبی علامتیں",
+    "doc_word_count": 137
+  },
+  {
+    "doc_id": "wiki_health_151",
+    "source_file": "wiki_health_151.txt",
+    "title": "خلل کلام",
+    "category": "ابلاغی امراض",
+    "doc_word_count": 400
+  },
+  {
+    "doc_id": "wiki_health_152",
+    "source_file": "wiki_health_152.txt",
+    "title": "ذہانت",
+    "category": "طب نفسی",
+    "doc_word_count": 489
+  },
+  {
+    "doc_id": "wiki_health_153",
+    "source_file": "wiki_health_153.txt",
+    "title": "نیند",
+    "category": "طب نفسی",
+    "doc_word_count": 164
+  },
+  {
+    "doc_id": "wiki_health_154",
+    "source_file": "wiki_health_154.txt",
+    "title": "سنگ مرارہ",
+    "category": "جراحی",
+    "doc_word_count": 92
+  },
+  {
+    "doc_id": "wiki_health_155",
+    "source_file": "wiki_health_155.txt",
+    "title": "طاعون",
+    "category": "جراثیمی امراض",
+    "doc_word_count": 1625
+  },
+  {
+    "doc_id": "wiki_health_156",
+    "source_file": "wiki_health_156.txt",
+    "title": "نقرس",
+    "category": "متعدی امراض",
+    "doc_word_count": 299
+  },
+  {
+    "doc_id": "wiki_health_157",
+    "source_file": "wiki_health_157.txt",
+    "title": "عصبون حرکی مرض",
+    "category": "اعصابیاتی امراض",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_158",
+    "source_file": "wiki_health_158.txt",
+    "title": "اختلال عضلات",
+    "category": "اعصابیاتی امراض",
+    "doc_word_count": 43
+  },
+  {
+    "doc_id": "wiki_health_159",
+    "source_file": "wiki_health_159.txt",
+    "title": "لاشامہ",
+    "category": "اعصابیاتی امراض",
+    "doc_word_count": 32
+  },
+  {
+    "doc_id": "wiki_health_160",
+    "source_file": "wiki_health_160.txt",
+    "title": "دورہ قلب",
+    "category": "قلبی وعائی امراض",
+    "doc_word_count": 328
+  },
+  {
+    "doc_id": "wiki_health_161",
+    "source_file": "wiki_health_161.txt",
+    "title": "بین الاقوامی درجہ بندی امراض",
+    "category": "طب",
+    "doc_word_count": 224
+  },
+  {
+    "doc_id": "wiki_health_162",
+    "source_file": "wiki_health_162.txt",
+    "title": "معطیات امراض",
+    "category": "طب",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_163",
+    "source_file": "wiki_health_163.txt",
+    "title": "ای میڈیسن",
+    "category": "طبی مواقع",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_164",
+    "source_file": "wiki_health_164.txt",
+    "title": "عنوانات موضوعات طب",
+    "category": "طبی تحقیق",
+    "doc_word_count": 67
+  },
+  {
+    "doc_id": "wiki_health_165",
+    "source_file": "wiki_health_165.txt",
+    "title": "عدمِ کلام",
+    "category": "ابلاغی امراض",
+    "doc_word_count": 144
+  },
+  {
+    "doc_id": "wiki_health_166",
+    "source_file": "wiki_health_166.txt",
+    "title": "برصیت",
+    "category": "بیماریاں",
+    "doc_word_count": 177
+  },
+  {
+    "doc_id": "wiki_health_167",
+    "source_file": "wiki_health_167.txt",
+    "title": "انسان میں مینڈلی وراثت",
+    "category": "طب",
+    "doc_word_count": 150
+  },
+  {
+    "doc_id": "wiki_health_168",
+    "source_file": "wiki_health_168.txt",
+    "title": "سلعہ عضلی",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 176
+  },
+  {
+    "doc_id": "wiki_health_169",
+    "source_file": "wiki_health_169.txt",
+    "title": "بین الاقوامی جماعت بندی امراض برائے علم الاورام",
+    "category": "طب",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_170",
+    "source_file": "wiki_health_170.txt",
+    "title": "سیالہ وعائی ہمعضلومہ",
+    "category": "پھیپھڑوں کے امراض",
+    "doc_word_count": 195
+  },
+  {
+    "doc_id": "wiki_health_171",
+    "source_file": "wiki_health_171.txt",
+    "title": "نفث الدم",
+    "category": "تنفسی امراض",
+    "doc_word_count": 144
+  },
+  {
+    "doc_id": "wiki_health_172",
+    "source_file": "wiki_health_172.txt",
+    "title": "انس الدم",
+    "category": "امراض خون",
+    "doc_word_count": 228
+  },
+  {
+    "doc_id": "wiki_health_173",
+    "source_file": "wiki_health_173.txt",
+    "title": "حمریچہ الدم",
+    "category": "امراض خون",
+    "doc_word_count": 23
+  },
+  {
+    "doc_id": "wiki_health_174",
+    "source_file": "wiki_health_174.txt",
+    "title": "تکون جدید",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 274
+  },
+  {
+    "doc_id": "wiki_health_175",
+    "source_file": "wiki_health_175.txt",
+    "title": "نصب الدماغ",
+    "category": "طب",
+    "doc_word_count": 96
+  },
+  {
+    "doc_id": "wiki_health_176",
+    "source_file": "wiki_health_176.txt",
+    "title": "برسا 1",
+    "category": "طب",
+    "doc_word_count": 43
+  },
+  {
+    "doc_id": "wiki_health_177",
+    "source_file": "wiki_health_177.txt",
+    "title": "نفخ",
+    "category": "تنفسی امراض",
+    "doc_word_count": 2766
+  },
+  {
+    "doc_id": "wiki_health_178",
+    "source_file": "wiki_health_178.txt",
+    "title": "مزمن تسددی مرض ریہ",
+    "category": "تنفسی امراض",
+    "doc_word_count": 240
+  },
+  {
+    "doc_id": "wiki_health_179",
+    "source_file": "wiki_health_179.txt",
+    "title": "دمہ",
+    "category": "انسانی امراض اور عارضے",
+    "doc_word_count": 70
+  },
+  {
+    "doc_id": "wiki_health_180",
+    "source_file": "wiki_health_180.txt",
+    "title": "ڈینگی بخار",
+    "category": "امراض",
+    "doc_word_count": 2595
+  },
+  {
+    "doc_id": "wiki_health_181",
+    "source_file": "wiki_health_181.txt",
+    "title": "جسم دافع",
+    "category": "طب",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_182",
+    "source_file": "wiki_health_182.txt",
+    "title": "ممراض",
+    "category": "متعدی امراض",
+    "doc_word_count": 119
+  },
+  {
+    "doc_id": "wiki_health_183",
+    "source_file": "wiki_health_183.txt",
+    "title": "حیاتیاتی سازندہ",
+    "category": "طب",
+    "doc_word_count": 133
+  },
+  {
+    "doc_id": "wiki_health_184",
+    "source_file": "wiki_health_184.txt",
+    "title": "ضد حیوی",
+    "category": "طبی علاج",
+    "doc_word_count": 1802
+  },
+  {
+    "doc_id": "wiki_health_185",
+    "source_file": "wiki_health_185.txt",
+    "title": "عمل احتقان",
+    "category": "طبی علاج",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_186",
+    "source_file": "wiki_health_186.txt",
+    "title": "مِحقِنَہ",
+    "category": "طبی آلات",
+    "doc_word_count": 218
+  },
+  {
+    "doc_id": "wiki_health_187",
+    "source_file": "wiki_health_187.txt",
+    "title": "خلقی",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 146
+  },
+  {
+    "doc_id": "wiki_health_188",
+    "source_file": "wiki_health_188.txt",
+    "title": "حصولی",
+    "category": "امراض",
+    "doc_word_count": 80
+  },
+  {
+    "doc_id": "wiki_health_189",
+    "source_file": "wiki_health_189.txt",
+    "title": "سینے کا درد",
+    "category": "قلبی وعائی امراض",
+    "doc_word_count": 351
+  },
+  {
+    "doc_id": "wiki_health_190",
+    "source_file": "wiki_health_190.txt",
+    "title": "خانِقہ (ضدابہام)",
+    "category": "قلبی وعائی امراض",
+    "doc_word_count": 216
+  },
+  {
+    "doc_id": "wiki_health_191",
+    "source_file": "wiki_health_191.txt",
+    "title": "تاجی متلازمۂ حاد",
+    "category": "قلبی وعائی امراض",
+    "doc_word_count": 133
+  },
+  {
+    "doc_id": "wiki_health_192",
+    "source_file": "wiki_health_192.txt",
+    "title": "اقفار",
+    "category": "قلبی وعائی امراض",
+    "doc_word_count": 128
+  },
+  {
+    "doc_id": "wiki_health_193",
+    "source_file": "wiki_health_193.txt",
+    "title": "تاجی دوران",
+    "category": "قلبی وعائی امراض",
+    "doc_word_count": 160
+  },
+  {
+    "doc_id": "wiki_health_194",
+    "source_file": "wiki_health_194.txt",
+    "title": "اکسیر",
+    "category": "طب",
+    "doc_word_count": 156
+  },
+  {
+    "doc_id": "wiki_health_195",
+    "source_file": "wiki_health_195.txt",
+    "title": "حیاتین",
+    "category": "صحت",
+    "doc_word_count": 105
+  },
+  {
+    "doc_id": "wiki_health_196",
+    "source_file": "wiki_health_196.txt",
+    "title": "قرنین",
+    "category": "طب",
+    "doc_word_count": 149
+  },
+  {
+    "doc_id": "wiki_health_197",
+    "source_file": "wiki_health_197.txt",
+    "title": "خلوی قرنین",
+    "category": "طب",
+    "doc_word_count": 48
+  },
+  {
+    "doc_id": "wiki_health_198",
+    "source_file": "wiki_health_198.txt",
+    "title": "طب جگر",
+    "category": "طب جگر",
+    "doc_word_count": 52
+  },
+  {
+    "doc_id": "wiki_health_199",
+    "source_file": "wiki_health_199.txt",
+    "title": "امراض جگر",
+    "category": "امراض جگر",
+    "doc_word_count": 250
+  },
+  {
+    "doc_id": "wiki_health_200",
+    "source_file": "wiki_health_200.txt",
+    "title": "التہاب جگر",
+    "category": "امراض جگر",
+    "doc_word_count": 309
+  },
+  {
+    "doc_id": "wiki_health_201",
+    "source_file": "wiki_health_201.txt",
+    "title": "فشل جگری",
+    "category": "جگر کے امراض",
+    "doc_word_count": 88
+  },
+  {
+    "doc_id": "wiki_health_202",
+    "source_file": "wiki_health_202.txt",
+    "title": "فشل جگری خاطف",
+    "category": "جگر کے امراض",
+    "doc_word_count": 104
+  },
+  {
+    "doc_id": "wiki_health_203",
+    "source_file": "wiki_health_203.txt",
+    "title": "حاد (مرض)",
+    "category": "انسانی امراض اور عارضے",
+    "doc_word_count": 72
+  },
+  {
+    "doc_id": "wiki_health_204",
+    "source_file": "wiki_health_204.txt",
+    "title": "مزمن",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 66
+  },
+  {
+    "doc_id": "wiki_health_205",
+    "source_file": "wiki_health_205.txt",
+    "title": "التہاب جگر مزمن",
+    "category": "طب جگر",
+    "doc_word_count": 113
+  },
+  {
+    "doc_id": "wiki_health_206",
+    "source_file": "wiki_health_206.txt",
+    "title": "قراری التہاب جگر مزمن",
+    "category": "طب جگر",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_207",
+    "source_file": "wiki_health_207.txt",
+    "title": "ضد ورم مدافعتی تجاوب",
+    "category": "طب",
+    "doc_word_count": 86
+  },
+  {
+    "doc_id": "wiki_health_208",
+    "source_file": "wiki_health_208.txt",
+    "title": "وراثتی امراض",
+    "category": "وراثیاتی امراض",
+    "doc_word_count": 155
+  },
+  {
+    "doc_id": "wiki_health_209",
+    "source_file": "wiki_health_209.txt",
+    "title": "مرض کلب",
+    "category": "منطقہ حارہ کے امراض",
+    "doc_word_count": 134
+  },
+  {
+    "doc_id": "wiki_health_210",
+    "source_file": "wiki_health_210.txt",
+    "title": "اعصابیات",
+    "category": "اختصاصات طب",
+    "doc_word_count": 149
+  },
+  {
+    "doc_id": "wiki_health_211",
+    "source_file": "wiki_health_211.txt",
+    "title": "علم الاعصاب",
+    "category": "طب نفسی",
+    "doc_word_count": 140
+  },
+  {
+    "doc_id": "wiki_health_212",
+    "source_file": "wiki_health_212.txt",
+    "title": "فعلیات",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 194
+  },
+  {
+    "doc_id": "wiki_health_213",
+    "source_file": "wiki_health_213.txt",
+    "title": "امراضیات",
+    "category": "اختصاصات طب",
+    "doc_word_count": 319
+  },
+  {
+    "doc_id": "wiki_health_214",
+    "source_file": "wiki_health_214.txt",
+    "title": "مرض",
+    "category": "امراض",
+    "doc_word_count": 254
+  },
+  {
+    "doc_id": "wiki_health_215",
+    "source_file": "wiki_health_215.txt",
+    "title": "کارسینوما",
+    "category": "طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_216",
+    "source_file": "wiki_health_216.txt",
+    "title": "تجاوز (طب)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 215
+  },
+  {
+    "doc_id": "wiki_health_217",
+    "source_file": "wiki_health_217.txt",
+    "title": "انتقال مرض",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 214
+  },
+  {
+    "doc_id": "wiki_health_218",
+    "source_file": "wiki_health_218.txt",
+    "title": "سلعہ محمودہ",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 139
+  },
+  {
+    "doc_id": "wiki_health_219",
+    "source_file": "wiki_health_219.txt",
+    "title": "حر پیما",
+    "category": "طب",
+    "doc_word_count": 136
+  },
+  {
+    "doc_id": "wiki_health_220",
+    "source_file": "wiki_health_220.txt",
+    "title": "مطب",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_221",
+    "source_file": "wiki_health_221.txt",
+    "title": "معالج",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 169
+  },
+  {
+    "doc_id": "wiki_health_222",
+    "source_file": "wiki_health_222.txt",
+    "title": "پاگل پن",
+    "category": "طب نفسی",
+    "doc_word_count": 388
+  },
+  {
+    "doc_id": "wiki_health_223",
+    "source_file": "wiki_health_223.txt",
+    "title": "اختلال",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 59
+  },
+  {
+    "doc_id": "wiki_health_224",
+    "source_file": "wiki_health_224.txt",
+    "title": "ذہنی خرابی",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 166
+  },
+  {
+    "doc_id": "wiki_health_225",
+    "source_file": "wiki_health_225.txt",
+    "title": "اضطراب خیال",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 102
+  },
+  {
+    "doc_id": "wiki_health_226",
+    "source_file": "wiki_health_226.txt",
+    "title": "غشی",
+    "category": "قلبی وعائی امراض",
+    "doc_word_count": 84
+  },
+  {
+    "doc_id": "wiki_health_227",
+    "source_file": "wiki_health_227.txt",
+    "title": "عابر",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 79
+  },
+  {
+    "doc_id": "wiki_health_228",
+    "source_file": "wiki_health_228.txt",
+    "title": "امراض قلب",
+    "category": "امراض قلب",
+    "doc_word_count": 331
+  },
+  {
+    "doc_id": "wiki_health_229",
+    "source_file": "wiki_health_229.txt",
+    "title": "پیتھی",
+    "category": "طب",
+    "doc_word_count": 233
+  },
+  {
+    "doc_id": "wiki_health_230",
+    "source_file": "wiki_health_230.txt",
+    "title": "بواسیر",
+    "category": "بیماریاں",
+    "doc_word_count": 1233
+  },
+  {
+    "doc_id": "wiki_health_231",
+    "source_file": "wiki_health_231.txt",
+    "title": "تھایوپینٹال سوڈیئم",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 477
+  },
+  {
+    "doc_id": "wiki_health_232",
+    "source_file": "wiki_health_232.txt",
+    "title": "کیٹامین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 322
+  },
+  {
+    "doc_id": "wiki_health_233",
+    "source_file": "wiki_health_233.txt",
+    "title": "نوسمین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 477
+  },
+  {
+    "doc_id": "wiki_health_234",
+    "source_file": "wiki_health_234.txt",
+    "title": "سکسامیتھونیم",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 262
+  },
+  {
+    "doc_id": "wiki_health_235",
+    "source_file": "wiki_health_235.txt",
+    "title": "ہیلوتھین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 322
+  },
+  {
+    "doc_id": "wiki_health_236",
+    "source_file": "wiki_health_236.txt",
+    "title": "داخل رغامی نلی",
+    "category": "طبی سازوسامان",
+    "doc_word_count": 423
+  },
+  {
+    "doc_id": "wiki_health_237",
+    "source_file": "wiki_health_237.txt",
+    "title": "معکوس",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 154
+  },
+  {
+    "doc_id": "wiki_health_238",
+    "source_file": "wiki_health_238.txt",
+    "title": "تخدیر",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 402
+  },
+  {
+    "doc_id": "wiki_health_239",
+    "source_file": "wiki_health_239.txt",
+    "title": "مخدر",
+    "category": "طب",
+    "doc_word_count": 71
+  },
+  {
+    "doc_id": "wiki_health_240",
+    "source_file": "wiki_health_240.txt",
+    "title": "لگنوکین",
+    "category": "ضد بے آہنگی ادویات",
+    "doc_word_count": 500
+  },
+  {
+    "doc_id": "wiki_health_241",
+    "source_file": "wiki_health_241.txt",
+    "title": "بندش قلب",
+    "category": "امراض قلب",
+    "doc_word_count": 1043
+  },
+  {
+    "doc_id": "wiki_health_242",
+    "source_file": "wiki_health_242.txt",
+    "title": "لا انقباض",
+    "category": "امراض قلب",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_243",
+    "source_file": "wiki_health_243.txt",
+    "title": "آلۂ تخدیر",
+    "category": "طبی سازوسامان",
+    "doc_word_count": 474
+  },
+  {
+    "doc_id": "wiki_health_244",
+    "source_file": "wiki_health_244.txt",
+    "title": "دہنی حلقی ہوائی راہ",
+    "category": "طب عاجلہ",
+    "doc_word_count": 222
+  },
+  {
+    "doc_id": "wiki_health_245",
+    "source_file": "wiki_health_245.txt",
+    "title": "احیائے قلبی ریوی",
+    "category": "امراض قلب",
+    "doc_word_count": 1365
+  },
+  {
+    "doc_id": "wiki_health_246",
+    "source_file": "wiki_health_246.txt",
+    "title": "علم الاسباب",
+    "category": "طب",
+    "doc_word_count": 202
+  },
+  {
+    "doc_id": "wiki_health_247",
+    "source_file": "wiki_health_247.txt",
+    "title": "اٹراکوریم",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 357
+  },
+  {
+    "doc_id": "wiki_health_248",
+    "source_file": "wiki_health_248.txt",
+    "title": "رجفان",
+    "category": "امراض قلب",
+    "doc_word_count": 126
+  },
+  {
+    "doc_id": "wiki_health_249",
+    "source_file": "wiki_health_249.txt",
+    "title": "ازالۂ رجفان",
+    "category": "امراض قلب",
+    "doc_word_count": 18
+  },
+  {
+    "doc_id": "wiki_health_250",
+    "source_file": "wiki_health_250.txt",
+    "title": "Laryngeal mask airway",
+    "category": "طب",
+    "doc_word_count": 99
+  },
+  {
+    "doc_id": "wiki_health_251",
+    "source_file": "wiki_health_251.txt",
+    "title": "پروپوفول",
+    "category": "طب بےہوشی",
+    "doc_word_count": 504
+  },
+  {
+    "doc_id": "wiki_health_252",
+    "source_file": "wiki_health_252.txt",
+    "title": "بطینی نقص حاجز",
+    "category": "امراض قلب",
+    "doc_word_count": 68
+  },
+  {
+    "doc_id": "wiki_health_253",
+    "source_file": "wiki_health_253.txt",
+    "title": "نائٹرس آکسائڈ",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 770
+  },
+  {
+    "doc_id": "wiki_health_254",
+    "source_file": "wiki_health_254.txt",
+    "title": "محبت",
+    "category": "ترویج صحت",
+    "doc_word_count": 4006
+  },
+  {
+    "doc_id": "wiki_health_255",
+    "source_file": "wiki_health_255.txt",
+    "title": "سرخ بخار",
+    "category": "امراض",
+    "doc_word_count": 174
+  },
+  {
+    "doc_id": "wiki_health_256",
+    "source_file": "wiki_health_256.txt",
+    "title": "احساس کمتری",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 146
+  },
+  {
+    "doc_id": "wiki_health_257",
+    "source_file": "wiki_health_257.txt",
+    "title": "امراض نظام انہضام",
+    "category": "ہاضمہ کے امراض",
+    "doc_word_count": 66
+  },
+  {
+    "doc_id": "wiki_health_258",
+    "source_file": "wiki_health_258.txt",
+    "title": "نسیجیات",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 74
+  },
+  {
+    "doc_id": "wiki_health_259",
+    "source_file": "wiki_health_259.txt",
+    "title": "سقوط قلب",
+    "category": "امراض قلب",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_260",
+    "source_file": "wiki_health_260.txt",
+    "title": "خون بہنا",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 196
+  },
+  {
+    "doc_id": "wiki_health_261",
+    "source_file": "wiki_health_261.txt",
+    "title": "حمل کے جھٹکے",
+    "category": "امراض",
+    "doc_word_count": 521
+  },
+  {
+    "doc_id": "wiki_health_262",
+    "source_file": "wiki_health_262.txt",
+    "title": "عناصر (طب)",
+    "category": "طب یونانی",
+    "doc_word_count": 319
+  },
+  {
+    "doc_id": "wiki_health_263",
+    "source_file": "wiki_health_263.txt",
+    "title": "مزاج (طب)",
+    "category": "طب یونانی",
+    "doc_word_count": 473
+  },
+  {
+    "doc_id": "wiki_health_264",
+    "source_file": "wiki_health_264.txt",
+    "title": "اخلاط (طب)",
+    "category": "طب یونانی",
+    "doc_word_count": 84
+  },
+  {
+    "doc_id": "wiki_health_265",
+    "source_file": "wiki_health_265.txt",
+    "title": "سیال (مادہ)",
+    "category": "طب",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_266",
+    "source_file": "wiki_health_266.txt",
+    "title": "سوائل جسم",
+    "category": "طب",
+    "doc_word_count": 291
+  },
+  {
+    "doc_id": "wiki_health_267",
+    "source_file": "wiki_health_267.txt",
+    "title": "ارواح (طب)",
+    "category": "طب یونانی",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_268",
+    "source_file": "wiki_health_268.txt",
+    "title": "اجوائن",
+    "category": "طبی پودے",
+    "doc_word_count": 788
+  },
+  {
+    "doc_id": "wiki_health_269",
+    "source_file": "wiki_health_269.txt",
+    "title": "بلڈ گروپ",
+    "category": "طب",
+    "doc_word_count": 1421
+  },
+  {
+    "doc_id": "wiki_health_270",
+    "source_file": "wiki_health_270.txt",
+    "title": "قوت مدافعت",
+    "category": "طب",
+    "doc_word_count": 278
+  },
+  {
+    "doc_id": "wiki_health_271",
+    "source_file": "wiki_health_271.txt",
+    "title": "استتباط",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 861
+  },
+  {
+    "doc_id": "wiki_health_272",
+    "source_file": "wiki_health_272.txt",
+    "title": "حاسہ",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 178
+  },
+  {
+    "doc_id": "wiki_health_273",
+    "source_file": "wiki_health_273.txt",
+    "title": "فقدِ لیانی",
+    "category": "ہاضمہ کے امراض",
+    "doc_word_count": 269
+  },
+  {
+    "doc_id": "wiki_health_274",
+    "source_file": "wiki_health_274.txt",
+    "title": "حرکت دودیہ",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 177
+  },
+  {
+    "doc_id": "wiki_health_275",
+    "source_file": "wiki_health_275.txt",
+    "title": "کبیر توافق نسیجی مختلط",
+    "category": "طب",
+    "doc_word_count": 113
+  },
+  {
+    "doc_id": "wiki_health_276",
+    "source_file": "wiki_health_276.txt",
+    "title": "صغیر توافقِ نسیجی مختلط",
+    "category": "طب",
+    "doc_word_count": 88
+  },
+  {
+    "doc_id": "wiki_health_277",
+    "source_file": "wiki_health_277.txt",
+    "title": "توافق نسیجی مستضد",
+    "category": "طب",
+    "doc_word_count": 198
+  },
+  {
+    "doc_id": "wiki_health_278",
+    "source_file": "wiki_health_278.txt",
+    "title": "جگر",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 161
+  },
+  {
+    "doc_id": "wiki_health_279",
+    "source_file": "wiki_health_279.txt",
+    "title": "سمعیات",
+    "category": "اختصاصات طب",
+    "doc_word_count": 82
+  },
+  {
+    "doc_id": "wiki_health_280",
+    "source_file": "wiki_health_280.txt",
+    "title": "سفیدموتیا",
+    "category": "امراض آنکھ",
+    "doc_word_count": 314
+  },
+  {
+    "doc_id": "wiki_health_281",
+    "source_file": "wiki_health_281.txt",
+    "title": "کالا موتیا",
+    "category": "امراض چشم",
+    "doc_word_count": 693
+  },
+  {
+    "doc_id": "wiki_health_282",
+    "source_file": "wiki_health_282.txt",
+    "title": "بصری میدان",
+    "category": "طب العین",
+    "doc_word_count": 87
+  },
+  {
+    "doc_id": "wiki_health_283",
+    "source_file": "wiki_health_283.txt",
+    "title": "منبہ (فعلیات)",
+    "category": "طب",
+    "doc_word_count": 68
+  },
+  {
+    "doc_id": "wiki_health_284",
+    "source_file": "wiki_health_284.txt",
+    "title": "بصری صراحت",
+    "category": "طب العین",
+    "doc_word_count": 348
+  },
+  {
+    "doc_id": "wiki_health_285",
+    "source_file": "wiki_health_285.txt",
+    "title": "عامل خطرہ",
+    "category": "انسدادی طب",
+    "doc_word_count": 25
+  },
+  {
+    "doc_id": "wiki_health_286",
+    "source_file": "wiki_health_286.txt",
+    "title": "عتاہت",
+    "category": "اعصابیاتی امراض",
+    "doc_word_count": 354
+  },
+  {
+    "doc_id": "wiki_health_287",
+    "source_file": "wiki_health_287.txt",
+    "title": "فشار خون",
+    "category": "امراض قلب",
+    "doc_word_count": 105
+  },
+  {
+    "doc_id": "wiki_health_288",
+    "source_file": "wiki_health_288.txt",
+    "title": "ہاجکن سیالومہ",
+    "category": "امراض خون",
+    "doc_word_count": 154
+  },
+  {
+    "doc_id": "wiki_health_289",
+    "source_file": "wiki_health_289.txt",
+    "title": "گلوکوز",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 581
+  },
+  {
+    "doc_id": "wiki_health_290",
+    "source_file": "wiki_health_290.txt",
+    "title": "کل خلوی قلت",
+    "category": "امراض خون",
+    "doc_word_count": 143
+  },
+  {
+    "doc_id": "wiki_health_291",
+    "source_file": "wiki_health_291.txt",
+    "title": "نکوٹینا مائیڈ",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_292",
+    "source_file": "wiki_health_292.txt",
+    "title": "ڈوپامین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 809
+  },
+  {
+    "doc_id": "wiki_health_293",
+    "source_file": "wiki_health_293.txt",
+    "title": "لاطینی نام (سائنس)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 79
+  },
+  {
+    "doc_id": "wiki_health_294",
+    "source_file": "wiki_health_294.txt",
+    "title": "ڈورلینڈز",
+    "category": "طبی لغات",
+    "doc_word_count": 35
+  },
+  {
+    "doc_id": "wiki_health_295",
+    "source_file": "wiki_health_295.txt",
+    "title": "فراہمی (طب)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 66
+  },
+  {
+    "doc_id": "wiki_health_296",
+    "source_file": "wiki_health_296.txt",
+    "title": "مصدر (طب)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 22
+  },
+  {
+    "doc_id": "wiki_health_297",
+    "source_file": "wiki_health_297.txt",
+    "title": "شریان سباتی ظاہر",
+    "category": "طب اذن و انف و حلق",
+    "doc_word_count": 105
+  },
+  {
+    "doc_id": "wiki_health_298",
+    "source_file": "wiki_health_298.txt",
+    "title": "ہاتھ یا پیر کی انگلی کا حصہ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 245
+  },
+  {
+    "doc_id": "wiki_health_299",
+    "source_file": "wiki_health_299.txt",
+    "title": "انگوٹھا",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 66
+  },
+  {
+    "doc_id": "wiki_health_300",
+    "source_file": "wiki_health_300.txt",
+    "title": "راحت الوجود (وضاحت)",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 613
+  },
+  {
+    "doc_id": "wiki_health_301",
+    "source_file": "wiki_health_301.txt",
+    "title": "انگشت شہادت",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 159
+  },
+  {
+    "doc_id": "wiki_health_302",
+    "source_file": "wiki_health_302.txt",
+    "title": "نمویات",
+    "category": "اختصاصات طب",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_303",
+    "source_file": "wiki_health_303.txt",
+    "title": "ابن الجزار",
+    "category": "ماہرین امراض اطفال",
+    "doc_word_count": 264
+  },
+  {
+    "doc_id": "wiki_health_304",
+    "source_file": "wiki_health_304.txt",
+    "title": "قحط",
+    "category": "وبائی امراض",
+    "doc_word_count": 4697
+  },
+  {
+    "doc_id": "wiki_health_305",
+    "source_file": "wiki_health_305.txt",
+    "title": "عصارۂ فلفل",
+    "category": "طبی پودے",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_306",
+    "source_file": "wiki_health_306.txt",
+    "title": "طب رئوی",
+    "category": "طب رئوی",
+    "doc_word_count": 164
+  },
+  {
+    "doc_id": "wiki_health_307",
+    "source_file": "wiki_health_307.txt",
+    "title": "حیاتی میکانیات",
+    "category": "اختصاصات طب",
+    "doc_word_count": 61
+  },
+  {
+    "doc_id": "wiki_health_308",
+    "source_file": "wiki_health_308.txt",
+    "title": "مناعیات",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 53
+  },
+  {
+    "doc_id": "wiki_health_309",
+    "source_file": "wiki_health_309.txt",
+    "title": "طفیلیات",
+    "category": "اختصاصات طب",
+    "doc_word_count": 69
+  },
+  {
+    "doc_id": "wiki_health_310",
+    "source_file": "wiki_health_310.txt",
+    "title": "اشعاعی حیاتیات",
+    "category": "صحت عامہ",
+    "doc_word_count": 61
+  },
+  {
+    "doc_id": "wiki_health_311",
+    "source_file": "wiki_health_311.txt",
+    "title": "خوگیری",
+    "category": "صحت",
+    "doc_word_count": 222
+  },
+  {
+    "doc_id": "wiki_health_312",
+    "source_file": "wiki_health_312.txt",
+    "title": "طفیلیت",
+    "category": "متعدی امراض",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_313",
+    "source_file": "wiki_health_313.txt",
+    "title": "آنول",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 89
+  },
+  {
+    "doc_id": "wiki_health_314",
+    "source_file": "wiki_health_314.txt",
+    "title": "شفاخانہ",
+    "category": "طب",
+    "doc_word_count": 506
+  },
+  {
+    "doc_id": "wiki_health_315",
+    "source_file": "wiki_health_315.txt",
+    "title": "مریض",
+    "category": "طب",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_316",
+    "source_file": "wiki_health_316.txt",
+    "title": "تشخیص",
+    "category": "طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_317",
+    "source_file": "wiki_health_317.txt",
+    "title": "شعبۂ عاجلہ",
+    "category": "اختصاصات طب",
+    "doc_word_count": 452
+  },
+  {
+    "doc_id": "wiki_health_318",
+    "source_file": "wiki_health_318.txt",
+    "title": "مجروحیت",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 104
+  },
+  {
+    "doc_id": "wiki_health_319",
+    "source_file": "wiki_health_319.txt",
+    "title": "دارالنفسیات",
+    "category": "نفسیاتی ہسپتال",
+    "doc_word_count": 23
+  },
+  {
+    "doc_id": "wiki_health_320",
+    "source_file": "wiki_health_320.txt",
+    "title": "طبّی تحقیق",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 26
+  },
+  {
+    "doc_id": "wiki_health_321",
+    "source_file": "wiki_health_321.txt",
+    "title": "چینی دودھ اسکینڈل",
+    "category": "چین میں آفات صحت",
+    "doc_word_count": 188
+  },
+  {
+    "doc_id": "wiki_health_322",
+    "source_file": "wiki_health_322.txt",
+    "title": "ایسپرین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 39
+  },
+  {
+    "doc_id": "wiki_health_323",
+    "source_file": "wiki_health_323.txt",
+    "title": "ذیابیطس",
+    "category": "ذیابیطس",
+    "doc_word_count": 1100
+  },
+  {
+    "doc_id": "wiki_health_324",
+    "source_file": "wiki_health_324.txt",
+    "title": "ذیابیطس بیذواق",
+    "category": "ذیابیطس",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_325",
+    "source_file": "wiki_health_325.txt",
+    "title": "درمیانی انگلی",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 108
+  },
+  {
+    "doc_id": "wiki_health_326",
+    "source_file": "wiki_health_326.txt",
+    "title": "چوتھی انگلی",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 54
+  },
+  {
+    "doc_id": "wiki_health_327",
+    "source_file": "wiki_health_327.txt",
+    "title": "خنصر",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 52
+  },
+  {
+    "doc_id": "wiki_health_328",
+    "source_file": "wiki_health_328.txt",
+    "title": "سر",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 88
+  },
+  {
+    "doc_id": "wiki_health_329",
+    "source_file": "wiki_health_329.txt",
+    "title": "گردن",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 44
+  },
+  {
+    "doc_id": "wiki_health_330",
+    "source_file": "wiki_health_330.txt",
+    "title": "دھڑ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 72
+  },
+  {
+    "doc_id": "wiki_health_331",
+    "source_file": "wiki_health_331.txt",
+    "title": "پیشانی",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 87
+  },
+  {
+    "doc_id": "wiki_health_332",
+    "source_file": "wiki_health_332.txt",
+    "title": "بانقراس",
+    "category": "ذیابیطس",
+    "doc_word_count": 180
+  },
+  {
+    "doc_id": "wiki_health_333",
+    "source_file": "wiki_health_333.txt",
+    "title": "الکحلی مشروب",
+    "category": "فعال نفسی ادویات",
+    "doc_word_count": 84
+  },
+  {
+    "doc_id": "wiki_health_334",
+    "source_file": "wiki_health_334.txt",
+    "title": "غذائیت",
+    "category": "صحت",
+    "doc_word_count": 128
+  },
+  {
+    "doc_id": "wiki_health_335",
+    "source_file": "wiki_health_335.txt",
+    "title": "انناس",
+    "category": "طبی پودے",
+    "doc_word_count": 1663
+  },
+  {
+    "doc_id": "wiki_health_336",
+    "source_file": "wiki_health_336.txt",
+    "title": "تربوز",
+    "category": "طبی پودے",
+    "doc_word_count": 1310
+  },
+  {
+    "doc_id": "wiki_health_337",
+    "source_file": "wiki_health_337.txt",
+    "title": "فالسہ",
+    "category": "طبی پودے",
+    "doc_word_count": 227
+  },
+  {
+    "doc_id": "wiki_health_338",
+    "source_file": "wiki_health_338.txt",
+    "title": "ہیرہ",
+    "category": "صحت کی دیویاں",
+    "doc_word_count": 139
+  },
+  {
+    "doc_id": "wiki_health_339",
+    "source_file": "wiki_health_339.txt",
+    "title": "ایجنٹ اورنج",
+    "category": "طبی نزاعات",
+    "doc_word_count": 382
+  },
+  {
+    "doc_id": "wiki_health_340",
+    "source_file": "wiki_health_340.txt",
+    "title": "انسانی ناک",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 72
+  },
+  {
+    "doc_id": "wiki_health_341",
+    "source_file": "wiki_health_341.txt",
+    "title": "صیدلیہ",
+    "category": "طب",
+    "doc_word_count": 34
+  },
+  {
+    "doc_id": "wiki_health_342",
+    "source_file": "wiki_health_342.txt",
+    "title": "بولیات",
+    "category": "اختصاصات جراحی",
+    "doc_word_count": 46
+  },
+  {
+    "doc_id": "wiki_health_343",
+    "source_file": "wiki_health_343.txt",
+    "title": "کالج آف فزیشنز اینڈ سرجنز پاکستان",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 210
+  },
+  {
+    "doc_id": "wiki_health_344",
+    "source_file": "wiki_health_344.txt",
+    "title": "کظری غدہ",
+    "category": "دروں افرازی امراض",
+    "doc_word_count": 24
+  },
+  {
+    "doc_id": "wiki_health_345",
+    "source_file": "wiki_health_345.txt",
+    "title": "حنجری ابھار",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 216
+  },
+  {
+    "doc_id": "wiki_health_346",
+    "source_file": "wiki_health_346.txt",
+    "title": "جسم",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 181
+  },
+  {
+    "doc_id": "wiki_health_347",
+    "source_file": "wiki_health_347.txt",
+    "title": "انسانی جسم",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 105
+  },
+  {
+    "doc_id": "wiki_health_348",
+    "source_file": "wiki_health_348.txt",
+    "title": "پسینہ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 107
+  },
+  {
+    "doc_id": "wiki_health_349",
+    "source_file": "wiki_health_349.txt",
+    "title": "عرق ریزی",
+    "category": "طبی تشخیص",
+    "doc_word_count": 141
+  },
+  {
+    "doc_id": "wiki_health_350",
+    "source_file": "wiki_health_350.txt",
+    "title": "پیشاب",
+    "category": "صحت و صفائی",
+    "doc_word_count": 174
+  },
+  {
+    "doc_id": "wiki_health_351",
+    "source_file": "wiki_health_351.txt",
+    "title": "براز",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 171
+  },
+  {
+    "doc_id": "wiki_health_352",
+    "source_file": "wiki_health_352.txt",
+    "title": "ایکس رے",
+    "category": "طبی پروسیجر",
+    "doc_word_count": 115
+  },
+  {
+    "doc_id": "wiki_health_353",
+    "source_file": "wiki_health_353.txt",
+    "title": "فولک تیزاب",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 479
+  },
+  {
+    "doc_id": "wiki_health_354",
+    "source_file": "wiki_health_354.txt",
+    "title": "سالیسائلک تیزاب",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 51
+  },
+  {
+    "doc_id": "wiki_health_355",
+    "source_file": "wiki_health_355.txt",
+    "title": "انسولین",
+    "category": "ذیابیطس",
+    "doc_word_count": 140
+  },
+  {
+    "doc_id": "wiki_health_356",
+    "source_file": "wiki_health_356.txt",
+    "title": "گلوکا گان",
+    "category": "طب جگر",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_357",
+    "source_file": "wiki_health_357.txt",
+    "title": "توقعات (طب)",
+    "category": "امراض",
+    "doc_word_count": 229
+  },
+  {
+    "doc_id": "wiki_health_358",
+    "source_file": "wiki_health_358.txt",
+    "title": "دوا",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 249
+  },
+  {
+    "doc_id": "wiki_health_359",
+    "source_file": "wiki_health_359.txt",
+    "title": "اسہال",
+    "category": "آبی امراض",
+    "doc_word_count": 630
+  },
+  {
+    "doc_id": "wiki_health_360",
+    "source_file": "wiki_health_360.txt",
+    "title": "پیچش",
+    "category": "آبی امراض",
+    "doc_word_count": 212
+  },
+  {
+    "doc_id": "wiki_health_361",
+    "source_file": "wiki_health_361.txt",
+    "title": "بابا آمٹے",
+    "category": "بھارتی فعالیت پسند برائے صحت",
+    "doc_word_count": 357
+  },
+  {
+    "doc_id": "wiki_health_362",
+    "source_file": "wiki_health_362.txt",
+    "title": "جارج حبش",
+    "category": "فلسطینی ماہرین امراض اطفال",
+    "doc_word_count": 398
+  },
+  {
+    "doc_id": "wiki_health_363",
+    "source_file": "wiki_health_363.txt",
+    "title": "انار",
+    "category": "طبی پودے",
+    "doc_word_count": 487
+  },
+  {
+    "doc_id": "wiki_health_364",
+    "source_file": "wiki_health_364.txt",
+    "title": "کیمیائی علاج",
+    "category": "طبی علاج",
+    "doc_word_count": 130
+  },
+  {
+    "doc_id": "wiki_health_365",
+    "source_file": "wiki_health_365.txt",
+    "title": "رحم",
+    "category": "نسوانی صحت",
+    "doc_word_count": 144
+  },
+  {
+    "doc_id": "wiki_health_366",
+    "source_file": "wiki_health_366.txt",
+    "title": "گیندائے قائمہ",
+    "category": "طبی پودے",
+    "doc_word_count": 199
+  },
+  {
+    "doc_id": "wiki_health_367",
+    "source_file": "wiki_health_367.txt",
+    "title": "رنگ اندھا پن",
+    "category": "امراض",
+    "doc_word_count": 143
+  },
+  {
+    "doc_id": "wiki_health_368",
+    "source_file": "wiki_health_368.txt",
+    "title": "سُننا",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 132
+  },
+  {
+    "doc_id": "wiki_health_369",
+    "source_file": "wiki_health_369.txt",
+    "title": "شقاقل",
+    "category": "طبی پودے",
+    "doc_word_count": 18
+  },
+  {
+    "doc_id": "wiki_health_370",
+    "source_file": "wiki_health_370.txt",
+    "title": "آواسٹ",
+    "category": "اینٹی وائرس سافٹ وئیر",
+    "doc_word_count": 87
+  },
+  {
+    "doc_id": "wiki_health_371",
+    "source_file": "wiki_health_371.txt",
+    "title": "منہ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 109
+  },
+  {
+    "doc_id": "wiki_health_372",
+    "source_file": "wiki_health_372.txt",
+    "title": "آنسو",
+    "category": "طب",
+    "doc_word_count": 501
+  },
+  {
+    "doc_id": "wiki_health_373",
+    "source_file": "wiki_health_373.txt",
+    "title": "رونا",
+    "category": "طب",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_374",
+    "source_file": "wiki_health_374.txt",
+    "title": "ریڑھ کی ہڈی",
+    "category": "طب",
+    "doc_word_count": 434
+  },
+  {
+    "doc_id": "wiki_health_375",
+    "source_file": "wiki_health_375.txt",
+    "title": "لعاب",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 95
+  },
+  {
+    "doc_id": "wiki_health_376",
+    "source_file": "wiki_health_376.txt",
+    "title": "چبانا",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 119
+  },
+  {
+    "doc_id": "wiki_health_377",
+    "source_file": "wiki_health_377.txt",
+    "title": "ریوند چینی",
+    "category": "طبی پودے",
+    "doc_word_count": 61
+  },
+  {
+    "doc_id": "wiki_health_378",
+    "source_file": "wiki_health_378.txt",
+    "title": "نگلنا",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 89
+  },
+  {
+    "doc_id": "wiki_health_379",
+    "source_file": "wiki_health_379.txt",
+    "title": "زرد بخار",
+    "category": "منطقہ حارہ کے امراض",
+    "doc_word_count": 131
+  },
+  {
+    "doc_id": "wiki_health_380",
+    "source_file": "wiki_health_380.txt",
+    "title": "زکام",
+    "category": "تنفسی امراض",
+    "doc_word_count": 278
+  },
+  {
+    "doc_id": "wiki_health_381",
+    "source_file": "wiki_health_381.txt",
+    "title": "خرج حیات",
+    "category": "طبی علاج",
+    "doc_word_count": 268
+  },
+  {
+    "doc_id": "wiki_health_382",
+    "source_file": "wiki_health_382.txt",
+    "title": "نرگس (پھول)",
+    "category": "طبی پودے",
+    "doc_word_count": 55
+  },
+  {
+    "doc_id": "wiki_health_383",
+    "source_file": "wiki_health_383.txt",
+    "title": "زبان (تشریح)",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 63
+  },
+  {
+    "doc_id": "wiki_health_384",
+    "source_file": "wiki_health_384.txt",
+    "title": "انسانی کھوپڑی",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 43
+  },
+  {
+    "doc_id": "wiki_health_385",
+    "source_file": "wiki_health_385.txt",
+    "title": "کبیربینی",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 134
+  },
+  {
+    "doc_id": "wiki_health_386",
+    "source_file": "wiki_health_386.txt",
+    "title": "بصری آگہی",
+    "category": "طب العین",
+    "doc_word_count": 163
+  },
+  {
+    "doc_id": "wiki_health_387",
+    "source_file": "wiki_health_387.txt",
+    "title": "حیاتیاتی ہندسیات",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 69
+  },
+  {
+    "doc_id": "wiki_health_388",
+    "source_file": "wiki_health_388.txt",
+    "title": "حیاتی ہندسیات",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 69
+  },
+  {
+    "doc_id": "wiki_health_389",
+    "source_file": "wiki_health_389.txt",
+    "title": "طبی حیاتی ہندسیات",
+    "category": "طب",
+    "doc_word_count": 98
+  },
+  {
+    "doc_id": "wiki_health_390",
+    "source_file": "wiki_health_390.txt",
+    "title": "دانت",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 139
+  },
+  {
+    "doc_id": "wiki_health_391",
+    "source_file": "wiki_health_391.txt",
+    "title": "چانہ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 50
+  },
+  {
+    "doc_id": "wiki_health_392",
+    "source_file": "wiki_health_392.txt",
+    "title": "منظری میدان",
+    "category": "طب العین",
+    "doc_word_count": 41
+  },
+  {
+    "doc_id": "wiki_health_393",
+    "source_file": "wiki_health_393.txt",
+    "title": "لمس پیما",
+    "category": "طبی آلات",
+    "doc_word_count": 119
+  },
+  {
+    "doc_id": "wiki_health_394",
+    "source_file": "wiki_health_394.txt",
+    "title": "خلل تناوبی حرکات",
+    "category": "امراض",
+    "doc_word_count": 172
+  },
+  {
+    "doc_id": "wiki_health_395",
+    "source_file": "wiki_health_395.txt",
+    "title": "نموذج",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 60
+  },
+  {
+    "doc_id": "wiki_health_396",
+    "source_file": "wiki_health_396.txt",
+    "title": "حیاتی شماریات",
+    "category": "صحت عامہ",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_397",
+    "source_file": "wiki_health_397.txt",
+    "title": "صدغ",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 184
+  },
+  {
+    "doc_id": "wiki_health_398",
+    "source_file": "wiki_health_398.txt",
+    "title": "تجربہ بیرون جسم",
+    "category": "طب نفسی",
+    "doc_word_count": 797
+  },
+  {
+    "doc_id": "wiki_health_399",
+    "source_file": "wiki_health_399.txt",
+    "title": "تجربۂ قریب الموت",
+    "category": "طب نفسی",
+    "doc_word_count": 242
+  },
+  {
+    "doc_id": "wiki_health_400",
+    "source_file": "wiki_health_400.txt",
+    "title": "سوداویہ",
+    "category": "طب نفسی",
+    "doc_word_count": 214
+  },
+  {
+    "doc_id": "wiki_health_401",
+    "source_file": "wiki_health_401.txt",
+    "title": "دن کی روشنی",
+    "category": "صحت",
+    "doc_word_count": 69
+  },
+  {
+    "doc_id": "wiki_health_402",
+    "source_file": "wiki_health_402.txt",
+    "title": "وسواسی اجباری اضطراب",
+    "category": "طب نفسی",
+    "doc_word_count": 391
+  },
+  {
+    "doc_id": "wiki_health_403",
+    "source_file": "wiki_health_403.txt",
+    "title": "عصاب",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 101
+  },
+  {
+    "doc_id": "wiki_health_404",
+    "source_file": "wiki_health_404.txt",
+    "title": "ذھان",
+    "category": "طب نفسی",
+    "doc_word_count": 191
+  },
+  {
+    "doc_id": "wiki_health_405",
+    "source_file": "wiki_health_405.txt",
+    "title": "عضلی سو غذائیہ",
+    "category": "امراض",
+    "doc_word_count": 75
+  },
+  {
+    "doc_id": "wiki_health_406",
+    "source_file": "wiki_health_406.txt",
+    "title": "سمع پیما",
+    "category": "ابلاغی امراض",
+    "doc_word_count": 17
+  },
+  {
+    "doc_id": "wiki_health_407",
+    "source_file": "wiki_health_407.txt",
+    "title": "سینہ",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 33
+  },
+  {
+    "doc_id": "wiki_health_408",
+    "source_file": "wiki_health_408.txt",
+    "title": "پستان",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 95
+  },
+  {
+    "doc_id": "wiki_health_409",
+    "source_file": "wiki_health_409.txt",
+    "title": "صدر (تشریح)",
+    "category": "اساسی طبی علوم",
+    "doc_word_count": 51
+  },
+  {
+    "doc_id": "wiki_health_410",
+    "source_file": "wiki_health_410.txt",
+    "title": "رانیٹیڈین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 170
+  },
+  {
+    "doc_id": "wiki_health_411",
+    "source_file": "wiki_health_411.txt",
+    "title": "آئبوپروفین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 221
+  },
+  {
+    "doc_id": "wiki_health_412",
+    "source_file": "wiki_health_412.txt",
+    "title": "کبیر اكتئابی اضطراب",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 165
+  },
+  {
+    "doc_id": "wiki_health_413",
+    "source_file": "wiki_health_413.txt",
+    "title": "جنون",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 175
+  },
+  {
+    "doc_id": "wiki_health_414",
+    "source_file": "wiki_health_414.txt",
+    "title": "پروازِ افکار",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 286
+  },
+  {
+    "doc_id": "wiki_health_415",
+    "source_file": "wiki_health_415.txt",
+    "title": "مسیحا مختلط",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 448
+  },
+  {
+    "doc_id": "wiki_health_416",
+    "source_file": "wiki_health_416.txt",
+    "title": "مسیح (ضد ابہام)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 422
+  },
+  {
+    "doc_id": "wiki_health_417",
+    "source_file": "wiki_health_417.txt",
+    "title": "Para (ضدابہام)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 163
+  },
+  {
+    "doc_id": "wiki_health_418",
+    "source_file": "wiki_health_418.txt",
+    "title": "زَوَر",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 492
+  },
+  {
+    "doc_id": "wiki_health_419",
+    "source_file": "wiki_health_419.txt",
+    "title": "دمیات",
+    "category": "اختصاصات طب",
+    "doc_word_count": 106
+  },
+  {
+    "doc_id": "wiki_health_420",
+    "source_file": "wiki_health_420.txt",
+    "title": "جنون عظمت",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 198
+  },
+  {
+    "doc_id": "wiki_health_421",
+    "source_file": "wiki_health_421.txt",
+    "title": "دیدِ ابداً",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 233
+  },
+  {
+    "doc_id": "wiki_health_422",
+    "source_file": "wiki_health_422.txt",
+    "title": "ڈے ژا وو",
+    "category": "نفسیاتی امراض",
+    "doc_word_count": 135
+  },
+  {
+    "doc_id": "wiki_health_423",
+    "source_file": "wiki_health_423.txt",
+    "title": "کریلا",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 212
+  },
+  {
+    "doc_id": "wiki_health_424",
+    "source_file": "wiki_health_424.txt",
+    "title": "میتھی",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 159
+  },
+  {
+    "doc_id": "wiki_health_425",
+    "source_file": "wiki_health_425.txt",
+    "title": "بند گوبھی",
+    "category": "طبی پودے",
+    "doc_word_count": 81
+  },
+  {
+    "doc_id": "wiki_health_426",
+    "source_file": "wiki_health_426.txt",
+    "title": "کھیرا",
+    "category": "طبی پودے",
+    "doc_word_count": 259
+  },
+  {
+    "doc_id": "wiki_health_427",
+    "source_file": "wiki_health_427.txt",
+    "title": "لوکی",
+    "category": "طبی پودے",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_428",
+    "source_file": "wiki_health_428.txt",
+    "title": "لال مولی",
+    "category": "طبی پودے",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_429",
+    "source_file": "wiki_health_429.txt",
+    "title": "لیموں",
+    "category": "طبی پودے",
+    "doc_word_count": 218
+  },
+  {
+    "doc_id": "wiki_health_430",
+    "source_file": "wiki_health_430.txt",
+    "title": "بھنڈی",
+    "category": "افریقا کے طبی پودے",
+    "doc_word_count": 256
+  },
+  {
+    "doc_id": "wiki_health_431",
+    "source_file": "wiki_health_431.txt",
+    "title": "نزلہ",
+    "category": "تنفسی امراض",
+    "doc_word_count": 147
+  },
+  {
+    "doc_id": "wiki_health_432",
+    "source_file": "wiki_health_432.txt",
+    "title": "انسداد",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 115
+  },
+  {
+    "doc_id": "wiki_health_433",
+    "source_file": "wiki_health_433.txt",
+    "title": "Occult",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 128
+  },
+  {
+    "doc_id": "wiki_health_434",
+    "source_file": "wiki_health_434.txt",
+    "title": "مراقبہ",
+    "category": "نفسیاتی علاج",
+    "doc_word_count": 3900
+  },
+  {
+    "doc_id": "wiki_health_435",
+    "source_file": "wiki_health_435.txt",
+    "title": "سیالویہ ارومی ابیضاض حادی",
+    "category": "طب اطفال",
+    "doc_word_count": 102
+  },
+  {
+    "doc_id": "wiki_health_436",
+    "source_file": "wiki_health_436.txt",
+    "title": "سرطان خون",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 49
+  },
+  {
+    "doc_id": "wiki_health_437",
+    "source_file": "wiki_health_437.txt",
+    "title": "غدومی سلیلت قولونی",
+    "category": "ہاضمہ کے امراض",
+    "doc_word_count": 210
+  },
+  {
+    "doc_id": "wiki_health_438",
+    "source_file": "wiki_health_438.txt",
+    "title": "خون کا عطیہ",
+    "category": "طب",
+    "doc_word_count": 720
+  },
+  {
+    "doc_id": "wiki_health_439",
+    "source_file": "wiki_health_439.txt",
+    "title": "اکائی بیری",
+    "category": "طبی پودے",
+    "doc_word_count": 59
+  },
+  {
+    "doc_id": "wiki_health_440",
+    "source_file": "wiki_health_440.txt",
+    "title": "بلڈ بینک",
+    "category": "نگہداشت صحت",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_441",
+    "source_file": "wiki_health_441.txt",
+    "title": "بے آہنگی",
+    "category": "امراض قلب",
+    "doc_word_count": 127
+  },
+  {
+    "doc_id": "wiki_health_442",
+    "source_file": "wiki_health_442.txt",
+    "title": "جڑی بوٹی",
+    "category": "صحت",
+    "doc_word_count": 498
+  },
+  {
+    "doc_id": "wiki_health_443",
+    "source_file": "wiki_health_443.txt",
+    "title": "فونیم",
+    "category": "طب اذن و انف و حلق",
+    "doc_word_count": 351
+  },
+  {
+    "doc_id": "wiki_health_444",
+    "source_file": "wiki_health_444.txt",
+    "title": "شہتوت (درخت)",
+    "category": "طبی پودے",
+    "doc_word_count": 910
+  },
+  {
+    "doc_id": "wiki_health_445",
+    "source_file": "wiki_health_445.txt",
+    "title": "سرکہ",
+    "category": "روایتی طب",
+    "doc_word_count": 1482
+  },
+  {
+    "doc_id": "wiki_health_446",
+    "source_file": "wiki_health_446.txt",
+    "title": "عرق گلاب",
+    "category": "قدیم طریقہ علاج",
+    "doc_word_count": 149
+  },
+  {
+    "doc_id": "wiki_health_447",
+    "source_file": "wiki_health_447.txt",
+    "title": "جامعہ گومل",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 288
+  },
+  {
+    "doc_id": "wiki_health_448",
+    "source_file": "wiki_health_448.txt",
+    "title": "بغل",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 31
+  },
+  {
+    "doc_id": "wiki_health_449",
+    "source_file": "wiki_health_449.txt",
+    "title": "خون کی بوتل",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 601
+  },
+  {
+    "doc_id": "wiki_health_450",
+    "source_file": "wiki_health_450.txt",
+    "title": "نوری مکثر",
+    "category": "طبی سازوسامان",
+    "doc_word_count": 119
+  },
+  {
+    "doc_id": "wiki_health_451",
+    "source_file": "wiki_health_451.txt",
+    "title": "حمل (طب)",
+    "category": "نسوانی صحت",
+    "doc_word_count": 196
+  },
+  {
+    "doc_id": "wiki_health_452",
+    "source_file": "wiki_health_452.txt",
+    "title": "سیاہ موت",
+    "category": "چودہویں صدی میں آفات صحت",
+    "doc_word_count": 315
+  },
+  {
+    "doc_id": "wiki_health_453",
+    "source_file": "wiki_health_453.txt",
+    "title": "صلابت عصیدہ",
+    "category": "امراض قلب",
+    "doc_word_count": 720
+  },
+  {
+    "doc_id": "wiki_health_454",
+    "source_file": "wiki_health_454.txt",
+    "title": "صلابت مکلس وسطانی",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 260
+  },
+  {
+    "doc_id": "wiki_health_455",
+    "source_file": "wiki_health_455.txt",
+    "title": "امراض کی جماعت بندی",
+    "category": "جماعت بندی امراض",
+    "doc_word_count": 808
+  },
+  {
+    "doc_id": "wiki_health_456",
+    "source_file": "wiki_health_456.txt",
+    "title": "ایوب طب کالج",
+    "category": "پاکستان کی طبی درسگاہیں",
+    "doc_word_count": 471
+  },
+  {
+    "doc_id": "wiki_health_457",
+    "source_file": "wiki_health_457.txt",
+    "title": "طب اذن و انف و حلق",
+    "category": "طب اذن و انف و حلق",
+    "doc_word_count": 75
+  },
+  {
+    "doc_id": "wiki_health_458",
+    "source_file": "wiki_health_458.txt",
+    "title": "اعصابیاتی امراض",
+    "category": "اعصابیاتی امراض",
+    "doc_word_count": 237
+  },
+  {
+    "doc_id": "wiki_health_459",
+    "source_file": "wiki_health_459.txt",
+    "title": "ڈکلوفینک",
+    "category": "طب",
+    "doc_word_count": 207
+  },
+  {
+    "doc_id": "wiki_health_460",
+    "source_file": "wiki_health_460.txt",
+    "title": "ڈاکٹرز ہسپتال، لاہور",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 165
+  },
+  {
+    "doc_id": "wiki_health_461",
+    "source_file": "wiki_health_461.txt",
+    "title": "اخلاقیات طب",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 381
+  },
+  {
+    "doc_id": "wiki_health_462",
+    "source_file": "wiki_health_462.txt",
+    "title": "تشمع",
+    "category": "امراض جگر",
+    "doc_word_count": 100
+  },
+  {
+    "doc_id": "wiki_health_463",
+    "source_file": "wiki_health_463.txt",
+    "title": "قزمہ طب",
+    "category": "طب",
+    "doc_word_count": 70
+  },
+  {
+    "doc_id": "wiki_health_464",
+    "source_file": "wiki_health_464.txt",
+    "title": "مبیضی سرطان",
+    "category": "صحت",
+    "doc_word_count": 24
+  },
+  {
+    "doc_id": "wiki_health_465",
+    "source_file": "wiki_health_465.txt",
+    "title": "سلعہ سودا",
+    "category": "امراض آنکھ",
+    "doc_word_count": 71
+  },
+  {
+    "doc_id": "wiki_health_466",
+    "source_file": "wiki_health_466.txt",
+    "title": "حول (طب)",
+    "category": "امراض چشم",
+    "doc_word_count": 398
+  },
+  {
+    "doc_id": "wiki_health_467",
+    "source_file": "wiki_health_467.txt",
+    "title": "کم نظری",
+    "category": "امراض چشم",
+    "doc_word_count": 222
+  },
+  {
+    "doc_id": "wiki_health_468",
+    "source_file": "wiki_health_468.txt",
+    "title": "حول مائلہ",
+    "category": "امراض چشم",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_469",
+    "source_file": "wiki_health_469.txt",
+    "title": "حول خارجیہ",
+    "category": "امراض چشم",
+    "doc_word_count": 106
+  },
+  {
+    "doc_id": "wiki_health_470",
+    "source_file": "wiki_health_470.txt",
+    "title": "حجامہ",
+    "category": "علاج بالابر",
+    "doc_word_count": 840
+  },
+  {
+    "doc_id": "wiki_health_471",
+    "source_file": "wiki_health_471.txt",
+    "title": "عباسی شہید ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 156
+  },
+  {
+    "doc_id": "wiki_health_472",
+    "source_file": "wiki_health_472.txt",
+    "title": "جناح ہسپتال",
+    "category": "1959ء میں مکمل ہونے والی ہسپتال عمارات",
+    "doc_word_count": 39
+  },
+  {
+    "doc_id": "wiki_health_473",
+    "source_file": "wiki_health_473.txt",
+    "title": "سول ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 983
+  },
+  {
+    "doc_id": "wiki_health_474",
+    "source_file": "wiki_health_474.txt",
+    "title": "لیاری جنرل اسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_475",
+    "source_file": "wiki_health_475.txt",
+    "title": "آغا خان یونیورسٹی ہسپتال، کراچی",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 810
+  },
+  {
+    "doc_id": "wiki_health_476",
+    "source_file": "wiki_health_476.txt",
+    "title": "اسپینسر آئی اسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_477",
+    "source_file": "wiki_health_477.txt",
+    "title": "لیٹن رحمت اللہ آئی اسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 113
+  },
+  {
+    "doc_id": "wiki_health_478",
+    "source_file": "wiki_health_478.txt",
+    "title": "ڈاؤ یونیورسٹی آف ہیلتھ سائنسز",
+    "category": "سندھ میں طبی کالج",
+    "doc_word_count": 448
+  },
+  {
+    "doc_id": "wiki_health_479",
+    "source_file": "wiki_health_479.txt",
+    "title": "غسل (اسلام)",
+    "category": "حفظان صحت",
+    "doc_word_count": 633
+  },
+  {
+    "doc_id": "wiki_health_480",
+    "source_file": "wiki_health_480.txt",
+    "title": "رابرٹ فرشگوٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 149
+  },
+  {
+    "doc_id": "wiki_health_481",
+    "source_file": "wiki_health_481.txt",
+    "title": "زاج",
+    "category": "روایتی طب",
+    "doc_word_count": 57
+  },
+  {
+    "doc_id": "wiki_health_482",
+    "source_file": "wiki_health_482.txt",
+    "title": "دودھ",
+    "category": "صحت",
+    "doc_word_count": 624
+  },
+  {
+    "doc_id": "wiki_health_483",
+    "source_file": "wiki_health_483.txt",
+    "title": "معالجۂ مناعیہ",
+    "category": "طبی علاج",
+    "doc_word_count": 104
+  },
+  {
+    "doc_id": "wiki_health_484",
+    "source_file": "wiki_health_484.txt",
+    "title": "عالمی ادارہ صحت",
+    "category": "عالمی ادارہ صحت",
+    "doc_word_count": 346
+  },
+  {
+    "doc_id": "wiki_health_485",
+    "source_file": "wiki_health_485.txt",
+    "title": "ریکی",
+    "category": "طریقہ ہائے علاج",
+    "doc_word_count": 4546
+  },
+  {
+    "doc_id": "wiki_health_486",
+    "source_file": "wiki_health_486.txt",
+    "title": "جمال",
+    "category": "صحت",
+    "doc_word_count": 87
+  },
+  {
+    "doc_id": "wiki_health_487",
+    "source_file": "wiki_health_487.txt",
+    "title": "ملیریا",
+    "category": "امراض",
+    "doc_word_count": 471
+  },
+  {
+    "doc_id": "wiki_health_488",
+    "source_file": "wiki_health_488.txt",
+    "title": "تمباکو",
+    "category": "فعال نفسی ادویات",
+    "doc_word_count": 1479
+  },
+  {
+    "doc_id": "wiki_health_489",
+    "source_file": "wiki_health_489.txt",
+    "title": "ایسیٹک ایسڈ",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 161
+  },
+  {
+    "doc_id": "wiki_health_490",
+    "source_file": "wiki_health_490.txt",
+    "title": "منہ کھر (بیماری)",
+    "category": "آفات صحت",
+    "doc_word_count": 826
+  },
+  {
+    "doc_id": "wiki_health_491",
+    "source_file": "wiki_health_491.txt",
+    "title": "ہرپیز (جنسی بیماری)",
+    "category": "امراض",
+    "doc_word_count": 315
+  },
+  {
+    "doc_id": "wiki_health_492",
+    "source_file": "wiki_health_492.txt",
+    "title": "کھجور",
+    "category": "طبی پودے",
+    "doc_word_count": 1292
+  },
+  {
+    "doc_id": "wiki_health_493",
+    "source_file": "wiki_health_493.txt",
+    "title": "شوکت خانم میموریل کینسر ہسپتال اور ریسرچ سینٹر",
+    "category": "پاکستان کے ہسپتال",
+    "doc_word_count": 162
+  },
+  {
+    "doc_id": "wiki_health_494",
+    "source_file": "wiki_health_494.txt",
+    "title": "تل",
+    "category": "طبی پودے",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_495",
+    "source_file": "wiki_health_495.txt",
+    "title": "ولیکا ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 51
+  },
+  {
+    "doc_id": "wiki_health_496",
+    "source_file": "wiki_health_496.txt",
+    "title": "امام کلینک",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_497",
+    "source_file": "wiki_health_497.txt",
+    "title": "ندیم میڈیکل سینٹر",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 19
+  },
+  {
+    "doc_id": "wiki_health_498",
+    "source_file": "wiki_health_498.txt",
+    "title": "سوبھراج ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_499",
+    "source_file": "wiki_health_499.txt",
+    "title": "بسم اللہ تقی ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_500",
+    "source_file": "wiki_health_500.txt",
+    "title": "قطر ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 58
+  },
+  {
+    "doc_id": "wiki_health_501",
+    "source_file": "wiki_health_501.txt",
+    "title": "چمڑہ ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 60
+  },
+  {
+    "doc_id": "wiki_health_502",
+    "source_file": "wiki_health_502.txt",
+    "title": "زینب پنجوانی ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 30
+  },
+  {
+    "doc_id": "wiki_health_503",
+    "source_file": "wiki_health_503.txt",
+    "title": "دارالصحت ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 20
+  },
+  {
+    "doc_id": "wiki_health_504",
+    "source_file": "wiki_health_504.txt",
+    "title": "حامد ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 15
+  },
+  {
+    "doc_id": "wiki_health_505",
+    "source_file": "wiki_health_505.txt",
+    "title": "شوکت عمر میموریل ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 46
+  },
+  {
+    "doc_id": "wiki_health_506",
+    "source_file": "wiki_health_506.txt",
+    "title": "معصومین ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 15
+  },
+  {
+    "doc_id": "wiki_health_507",
+    "source_file": "wiki_health_507.txt",
+    "title": "عثمانیہ ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 39
+  },
+  {
+    "doc_id": "wiki_health_508",
+    "source_file": "wiki_health_508.txt",
+    "title": "شان ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 19
+  },
+  {
+    "doc_id": "wiki_health_509",
+    "source_file": "wiki_health_509.txt",
+    "title": "کورنگی لانڈھی میڈیکل سینٹر",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 33
+  },
+  {
+    "doc_id": "wiki_health_510",
+    "source_file": "wiki_health_510.txt",
+    "title": "قومی ادارہ برائے امراض قلب",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 75
+  },
+  {
+    "doc_id": "wiki_health_511",
+    "source_file": "wiki_health_511.txt",
+    "title": "کڈنی سینٹر",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 68
+  },
+  {
+    "doc_id": "wiki_health_512",
+    "source_file": "wiki_health_512.txt",
+    "title": "ساؤتھ سٹی ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 34
+  },
+  {
+    "doc_id": "wiki_health_513",
+    "source_file": "wiki_health_513.txt",
+    "title": "ایسٹ سائڈ ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_514",
+    "source_file": "wiki_health_514.txt",
+    "title": "ہوپ ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 26
+  },
+  {
+    "doc_id": "wiki_health_515",
+    "source_file": "wiki_health_515.txt",
+    "title": "مہرالنسا ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 16
+  },
+  {
+    "doc_id": "wiki_health_516",
+    "source_file": "wiki_health_516.txt",
+    "title": "جمال نور ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 16
+  },
+  {
+    "doc_id": "wiki_health_517",
+    "source_file": "wiki_health_517.txt",
+    "title": "اوجھا انسٹیٹیوٹ برائے امراض سینہ",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 54
+  },
+  {
+    "doc_id": "wiki_health_518",
+    "source_file": "wiki_health_518.txt",
+    "title": "میری ایڈلیڈ لپروسی سینٹر",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 53
+  },
+  {
+    "doc_id": "wiki_health_519",
+    "source_file": "wiki_health_519.txt",
+    "title": "فاطمید",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 57
+  },
+  {
+    "doc_id": "wiki_health_520",
+    "source_file": "wiki_health_520.txt",
+    "title": "انڈس ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 145
+  },
+  {
+    "doc_id": "wiki_health_521",
+    "source_file": "wiki_health_521.txt",
+    "title": "لیڈی ڈفرن ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 53
+  },
+  {
+    "doc_id": "wiki_health_522",
+    "source_file": "wiki_health_522.txt",
+    "title": "برھانی ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 26
+  },
+  {
+    "doc_id": "wiki_health_523",
+    "source_file": "wiki_health_523.txt",
+    "title": "سول سروسز ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 17
+  },
+  {
+    "doc_id": "wiki_health_524",
+    "source_file": "wiki_health_524.txt",
+    "title": "سیفی ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 39
+  },
+  {
+    "doc_id": "wiki_health_525",
+    "source_file": "wiki_health_525.txt",
+    "title": "پٹیل ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 38
+  },
+  {
+    "doc_id": "wiki_health_526",
+    "source_file": "wiki_health_526.txt",
+    "title": "ہل پارک جنرل ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_527",
+    "source_file": "wiki_health_527.txt",
+    "title": "لیاقت نیشنل ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 50
+  },
+  {
+    "doc_id": "wiki_health_528",
+    "source_file": "wiki_health_528.txt",
+    "title": "پولیس ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 21
+  },
+  {
+    "doc_id": "wiki_health_529",
+    "source_file": "wiki_health_529.txt",
+    "title": "انکل سریا ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 26
+  },
+  {
+    "doc_id": "wiki_health_530",
+    "source_file": "wiki_health_530.txt",
+    "title": "آرتھوپیڈک میڈیکل انسٹیٹیوٹ",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 35
+  },
+  {
+    "doc_id": "wiki_health_531",
+    "source_file": "wiki_health_531.txt",
+    "title": "ہولی فیملی ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 43
+  },
+  {
+    "doc_id": "wiki_health_532",
+    "source_file": "wiki_health_532.txt",
+    "title": "نہال ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 32
+  },
+  {
+    "doc_id": "wiki_health_533",
+    "source_file": "wiki_health_533.txt",
+    "title": "نیشنل میڈیکل سینٹر",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 35
+  },
+  {
+    "doc_id": "wiki_health_534",
+    "source_file": "wiki_health_534.txt",
+    "title": "چینوٹ ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 52
+  },
+  {
+    "doc_id": "wiki_health_535",
+    "source_file": "wiki_health_535.txt",
+    "title": "سیون ڈے ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_536",
+    "source_file": "wiki_health_536.txt",
+    "title": "اے او کلینک",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 52
+  },
+  {
+    "doc_id": "wiki_health_537",
+    "source_file": "wiki_health_537.txt",
+    "title": "نوید سرجیکل اینڈ ٹراما سینٹر",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 29
+  },
+  {
+    "doc_id": "wiki_health_538",
+    "source_file": "wiki_health_538.txt",
+    "title": "اشفاق میموریل ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 22
+  },
+  {
+    "doc_id": "wiki_health_539",
+    "source_file": "wiki_health_539.txt",
+    "title": "کراچی نیشنل ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 35
+  },
+  {
+    "doc_id": "wiki_health_540",
+    "source_file": "wiki_health_540.txt",
+    "title": "آبنکاسی",
+    "category": "صحت و صفائی",
+    "doc_word_count": 142
+  },
+  {
+    "doc_id": "wiki_health_541",
+    "source_file": "wiki_health_541.txt",
+    "title": "جو",
+    "category": "طبی پودے",
+    "doc_word_count": 251
+  },
+  {
+    "doc_id": "wiki_health_542",
+    "source_file": "wiki_health_542.txt",
+    "title": "ہمدرد صحت",
+    "category": "صحت کے رسائل",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_543",
+    "source_file": "wiki_health_543.txt",
+    "title": "پپیتا",
+    "category": "شمالی امریکا کے طبی پودے",
+    "doc_word_count": 223
+  },
+  {
+    "doc_id": "wiki_health_544",
+    "source_file": "wiki_health_544.txt",
+    "title": "تاڑ",
+    "category": "طبی پودے",
+    "doc_word_count": 184
+  },
+  {
+    "doc_id": "wiki_health_545",
+    "source_file": "wiki_health_545.txt",
+    "title": "حیاتین ج",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 47
+  },
+  {
+    "doc_id": "wiki_health_546",
+    "source_file": "wiki_health_546.txt",
+    "title": "کٹھل",
+    "category": "طبی پودے",
+    "doc_word_count": 233
+  },
+  {
+    "doc_id": "wiki_health_547",
+    "source_file": "wiki_health_547.txt",
+    "title": "سپاری",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 81
+  },
+  {
+    "doc_id": "wiki_health_548",
+    "source_file": "wiki_health_548.txt",
+    "title": "جامن",
+    "category": "طبی پودے",
+    "doc_word_count": 636
+  },
+  {
+    "doc_id": "wiki_health_549",
+    "source_file": "wiki_health_549.txt",
+    "title": "لوکاٹ",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 119
+  },
+  {
+    "doc_id": "wiki_health_550",
+    "source_file": "wiki_health_550.txt",
+    "title": "ایرانی اخروٹ",
+    "category": "طبی پودے",
+    "doc_word_count": 325
+  },
+  {
+    "doc_id": "wiki_health_551",
+    "source_file": "wiki_health_551.txt",
+    "title": "صحیح (اصطلاح حدیث)",
+    "category": "اقسام حدیث بلحاظ صحت",
+    "doc_word_count": 256
+  },
+  {
+    "doc_id": "wiki_health_552",
+    "source_file": "wiki_health_552.txt",
+    "title": "حسن (اصطلاح حدیث)",
+    "category": "اقسام حدیث بلحاظ صحت",
+    "doc_word_count": 35
+  },
+  {
+    "doc_id": "wiki_health_553",
+    "source_file": "wiki_health_553.txt",
+    "title": "محکم (اصطلاح حدیث)",
+    "category": "اقسام حدیث بلحاظ صحت",
+    "doc_word_count": 28
+  },
+  {
+    "doc_id": "wiki_health_554",
+    "source_file": "wiki_health_554.txt",
+    "title": "موضوع (اصطلاح حدیث)",
+    "category": "اقسام حدیث بلحاظ صحت",
+    "doc_word_count": 210
+  },
+  {
+    "doc_id": "wiki_health_555",
+    "source_file": "wiki_health_555.txt",
+    "title": "قنب",
+    "category": "فعال نفسی ادویات",
+    "doc_word_count": 65
+  },
+  {
+    "doc_id": "wiki_health_556",
+    "source_file": "wiki_health_556.txt",
+    "title": "قنب ہندی",
+    "category": "فعال نفسی ادویات",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_557",
+    "source_file": "wiki_health_557.txt",
+    "title": "سیاہ توت",
+    "category": "طبی پودے",
+    "doc_word_count": 59
+  },
+  {
+    "doc_id": "wiki_health_558",
+    "source_file": "wiki_health_558.txt",
+    "title": "نیل بیری",
+    "category": "شمالی امریکا کے طبی پودے",
+    "doc_word_count": 74
+  },
+  {
+    "doc_id": "wiki_health_559",
+    "source_file": "wiki_health_559.txt",
+    "title": "جارج برنارڈ شا",
+    "category": "ویکسین مخالف فعالت پسند",
+    "doc_word_count": 528
+  },
+  {
+    "doc_id": "wiki_health_560",
+    "source_file": "wiki_health_560.txt",
+    "title": "گلاسگو غشی میزان",
+    "category": "طب",
+    "doc_word_count": 127
+  },
+  {
+    "doc_id": "wiki_health_561",
+    "source_file": "wiki_health_561.txt",
+    "title": "شزرات",
+    "category": "طب العین",
+    "doc_word_count": 159
+  },
+  {
+    "doc_id": "wiki_health_562",
+    "source_file": "wiki_health_562.txt",
+    "title": "تھیلیسیمیا",
+    "category": "امراض",
+    "doc_word_count": 1737
+  },
+  {
+    "doc_id": "wiki_health_563",
+    "source_file": "wiki_health_563.txt",
+    "title": "ویاگرا",
+    "category": "جنسی صحت",
+    "doc_word_count": 39
+  },
+  {
+    "doc_id": "wiki_health_564",
+    "source_file": "wiki_health_564.txt",
+    "title": "دی ماڈرن ہسپتال",
+    "category": "کراچی کے ہسپتال",
+    "doc_word_count": 100
+  },
+  {
+    "doc_id": "wiki_health_565",
+    "source_file": "wiki_health_565.txt",
+    "title": "جونس سالک",
+    "category": "امریکی طبی محققین",
+    "doc_word_count": 4086
+  },
+  {
+    "doc_id": "wiki_health_566",
+    "source_file": "wiki_health_566.txt",
+    "title": "زیتون",
+    "category": "طبی پودے",
+    "doc_word_count": 270
+  },
+  {
+    "doc_id": "wiki_health_567",
+    "source_file": "wiki_health_567.txt",
+    "title": "چنار",
+    "category": "طبی پودے",
+    "doc_word_count": 89
+  },
+  {
+    "doc_id": "wiki_health_568",
+    "source_file": "wiki_health_568.txt",
+    "title": "شاخ گوبھی",
+    "category": "طبی پودے",
+    "doc_word_count": 252
+  },
+  {
+    "doc_id": "wiki_health_569",
+    "source_file": "wiki_health_569.txt",
+    "title": "نارکولیپسی",
+    "category": "امراض نیند",
+    "doc_word_count": 102
+  },
+  {
+    "doc_id": "wiki_health_570",
+    "source_file": "wiki_health_570.txt",
+    "title": "جئی",
+    "category": "طبی پودے",
+    "doc_word_count": 158
+  },
+  {
+    "doc_id": "wiki_health_571",
+    "source_file": "wiki_health_571.txt",
+    "title": "پٹولوئس اسٹیچین ٹیوب",
+    "category": "نایاب بیماریاں",
+    "doc_word_count": 149
+  },
+  {
+    "doc_id": "wiki_health_572",
+    "source_file": "wiki_health_572.txt",
+    "title": "کیلشیم",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 1232
+  },
+  {
+    "doc_id": "wiki_health_573",
+    "source_file": "wiki_health_573.txt",
+    "title": "ایچ آئی وی / ایڈز کا تدارک",
+    "category": "جنسی منقولہ امراض",
+    "doc_word_count": 522
+  },
+  {
+    "doc_id": "wiki_health_574",
+    "source_file": "wiki_health_574.txt",
+    "title": "آغا خان یونیورسٹی",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 967
+  },
+  {
+    "doc_id": "wiki_health_575",
+    "source_file": "wiki_health_575.txt",
+    "title": "ایئر کنڈیشنگ",
+    "category": "عالمی صحت",
+    "doc_word_count": 511
+  },
+  {
+    "doc_id": "wiki_health_576",
+    "source_file": "wiki_health_576.txt",
+    "title": "خوگری",
+    "category": "ذہنی صحت",
+    "doc_word_count": 50
+  },
+  {
+    "doc_id": "wiki_health_577",
+    "source_file": "wiki_health_577.txt",
+    "title": "الزائمر",
+    "category": "امراض",
+    "doc_word_count": 589
+  },
+  {
+    "doc_id": "wiki_health_578",
+    "source_file": "wiki_health_578.txt",
+    "title": "ہیضہ",
+    "category": "آبی امراض",
+    "doc_word_count": 179
+  },
+  {
+    "doc_id": "wiki_health_579",
+    "source_file": "wiki_health_579.txt",
+    "title": "بہرا پن",
+    "category": "ابلاغی امراض",
+    "doc_word_count": 62
+  },
+  {
+    "doc_id": "wiki_health_580",
+    "source_file": "wiki_health_580.txt",
+    "title": "سر درد",
+    "category": "امراض",
+    "doc_word_count": 469
+  },
+  {
+    "doc_id": "wiki_health_581",
+    "source_file": "wiki_health_581.txt",
+    "title": "ناقص غذائیت",
+    "category": "صحت عامہ",
+    "doc_word_count": 288
+  },
+  {
+    "doc_id": "wiki_health_582",
+    "source_file": "wiki_health_582.txt",
+    "title": "شبکوری",
+    "category": "امراض",
+    "doc_word_count": 51
+  },
+  {
+    "doc_id": "wiki_health_583",
+    "source_file": "wiki_health_583.txt",
+    "title": "حیض",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 55
+  },
+  {
+    "doc_id": "wiki_health_584",
+    "source_file": "wiki_health_584.txt",
+    "title": "موٹاپا",
+    "category": "امراض",
+    "doc_word_count": 48
+  },
+  {
+    "doc_id": "wiki_health_585",
+    "source_file": "wiki_health_585.txt",
+    "title": "عالمگیر وبا",
+    "category": "عالمی صحت",
+    "doc_word_count": 81
+  },
+  {
+    "doc_id": "wiki_health_586",
+    "source_file": "wiki_health_586.txt",
+    "title": "نمونیا",
+    "category": "امراض",
+    "doc_word_count": 137
+  },
+  {
+    "doc_id": "wiki_health_587",
+    "source_file": "wiki_health_587.txt",
+    "title": "پولیو",
+    "category": "امراض",
+    "doc_word_count": 1117
+  },
+  {
+    "doc_id": "wiki_health_588",
+    "source_file": "wiki_health_588.txt",
+    "title": "چیچک",
+    "category": "امراض",
+    "doc_word_count": 812
+  },
+  {
+    "doc_id": "wiki_health_589",
+    "source_file": "wiki_health_589.txt",
+    "title": "سرب گندھا",
+    "category": "طبی پودے",
+    "doc_word_count": 268
+  },
+  {
+    "doc_id": "wiki_health_590",
+    "source_file": "wiki_health_590.txt",
+    "title": "کیکر",
+    "category": "طبی پودے",
+    "doc_word_count": 342
+  },
+  {
+    "doc_id": "wiki_health_591",
+    "source_file": "wiki_health_591.txt",
+    "title": "املتاس",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 674
+  },
+  {
+    "doc_id": "wiki_health_592",
+    "source_file": "wiki_health_592.txt",
+    "title": "مرگی",
+    "category": "امراض",
+    "doc_word_count": 874
+  },
+  {
+    "doc_id": "wiki_health_593",
+    "source_file": "wiki_health_593.txt",
+    "title": "فہرست ممالک بلحاظ کمسن اموات",
+    "category": "صحت بلحاظ ملک",
+    "doc_word_count": 3346
+  },
+  {
+    "doc_id": "wiki_health_594",
+    "source_file": "wiki_health_594.txt",
+    "title": "رے فغوھارسن",
+    "category": "کینیڈین طبی محققین",
+    "doc_word_count": 300
+  },
+  {
+    "doc_id": "wiki_health_595",
+    "source_file": "wiki_health_595.txt",
+    "title": "مونتیبیدیو",
+    "category": "یوراگوئے میں صحت",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_596",
+    "source_file": "wiki_health_596.txt",
+    "title": "گھٹنا",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_597",
+    "source_file": "wiki_health_597.txt",
+    "title": "نفتیس",
+    "category": "صحت کی دیویاں",
+    "doc_word_count": 58
+  },
+  {
+    "doc_id": "wiki_health_598",
+    "source_file": "wiki_health_598.txt",
+    "title": "سخمت",
+    "category": "صحت کی دیویاں",
+    "doc_word_count": 33
+  },
+  {
+    "doc_id": "wiki_health_599",
+    "source_file": "wiki_health_599.txt",
+    "title": "آیوڈین",
+    "category": "طب",
+    "doc_word_count": 464
+  },
+  {
+    "doc_id": "wiki_health_600",
+    "source_file": "wiki_health_600.txt",
+    "title": "سروسز انسٹیٹوٹ آف میڈیکل سائنسز",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 115
+  },
+  {
+    "doc_id": "wiki_health_601",
+    "source_file": "wiki_health_601.txt",
+    "title": "علامہ اقبال میڈیکل کالج",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 337
+  },
+  {
+    "doc_id": "wiki_health_602",
+    "source_file": "wiki_health_602.txt",
+    "title": "نواز شریف میڈیکل کالج",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 123
+  },
+  {
+    "doc_id": "wiki_health_603",
+    "source_file": "wiki_health_603.txt",
+    "title": "امیر الدین میڈیکل کالج",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 79
+  },
+  {
+    "doc_id": "wiki_health_604",
+    "source_file": "wiki_health_604.txt",
+    "title": "حشمت میڈیکل اینڈ ڈینٹل کالج",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 119
+  },
+  {
+    "doc_id": "wiki_health_605",
+    "source_file": "wiki_health_605.txt",
+    "title": "یونیورسٹی آف ہیلتھ سائنسز، لاہور",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 68
+  },
+  {
+    "doc_id": "wiki_health_606",
+    "source_file": "wiki_health_606.txt",
+    "title": "جناح ہسپتال، لاہور",
+    "category": "پاکستان کے ہسپتال",
+    "doc_word_count": 112
+  },
+  {
+    "doc_id": "wiki_health_607",
+    "source_file": "wiki_health_607.txt",
+    "title": "سروسز ہسپتال",
+    "category": "پاکستان میں صحت",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_608",
+    "source_file": "wiki_health_608.txt",
+    "title": "کنگ ایڈورڈ میڈیکل یونیورسٹی",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 986
+  },
+  {
+    "doc_id": "wiki_health_609",
+    "source_file": "wiki_health_609.txt",
+    "title": "سیرکت",
+    "category": "صحت کی دیویاں",
+    "doc_word_count": 35
+  },
+  {
+    "doc_id": "wiki_health_610",
+    "source_file": "wiki_health_610.txt",
+    "title": "اینٹی وائرس سافٹ ویئر",
+    "category": "اینٹی وائرس سافٹ وئیر",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_611",
+    "source_file": "wiki_health_611.txt",
+    "title": "مائیکروسافٹ سکیورٹی اسینشلز",
+    "category": "اینٹی وائرس سافٹ وئیر",
+    "doc_word_count": 38
+  },
+  {
+    "doc_id": "wiki_health_612",
+    "source_file": "wiki_health_612.txt",
+    "title": "پارکنسن کی بیماری",
+    "category": "اعصابی بیماریاں",
+    "doc_word_count": 1101
+  },
+  {
+    "doc_id": "wiki_health_613",
+    "source_file": "wiki_health_613.txt",
+    "title": "مطبی علم الاعصاب",
+    "category": "طب نفسی",
+    "doc_word_count": 89
+  },
+  {
+    "doc_id": "wiki_health_614",
+    "source_file": "wiki_health_614.txt",
+    "title": "گڑ مار",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 224
+  },
+  {
+    "doc_id": "wiki_health_615",
+    "source_file": "wiki_health_615.txt",
+    "title": "ناک کے امراض",
+    "category": "امراض",
+    "doc_word_count": 1358
+  },
+  {
+    "doc_id": "wiki_health_616",
+    "source_file": "wiki_health_616.txt",
+    "title": "نیوکلیئر میگنیٹک ریزوننس",
+    "category": "طب",
+    "doc_word_count": 169
+  },
+  {
+    "doc_id": "wiki_health_617",
+    "source_file": "wiki_health_617.txt",
+    "title": "واپڈا",
+    "category": "پاکستان میں فراہمی آب اور صحت و صفائی",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_618",
+    "source_file": "wiki_health_618.txt",
+    "title": "ویزل بلوئر",
+    "category": "صحت عامہ",
+    "doc_word_count": 125
+  },
+  {
+    "doc_id": "wiki_health_619",
+    "source_file": "wiki_health_619.txt",
+    "title": "مرچ",
+    "category": "جنوبی امریکا کے طبی پودے",
+    "doc_word_count": 202
+  },
+  {
+    "doc_id": "wiki_health_620",
+    "source_file": "wiki_health_620.txt",
+    "title": "لیڈی ریڈنگ ہسپتال",
+    "category": "پاکستان کے ہسپتال",
+    "doc_word_count": 501
+  },
+  {
+    "doc_id": "wiki_health_621",
+    "source_file": "wiki_health_621.txt",
+    "title": "جارج ٹاؤن، جزیرہ اسینشن",
+    "category": "مملکت متحدہ کے ہسپتال",
+    "doc_word_count": 53
+  },
+  {
+    "doc_id": "wiki_health_622",
+    "source_file": "wiki_health_622.txt",
+    "title": "ایروسول اسپرے",
+    "category": "ماحولیاتی صحت",
+    "doc_word_count": 73
+  },
+  {
+    "doc_id": "wiki_health_623",
+    "source_file": "wiki_health_623.txt",
+    "title": "چقندر",
+    "category": "طبی پودے",
+    "doc_word_count": 985
+  },
+  {
+    "doc_id": "wiki_health_624",
+    "source_file": "wiki_health_624.txt",
+    "title": "کساوہ",
+    "category": "طبی پودے",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_625",
+    "source_file": "wiki_health_625.txt",
+    "title": "گندم سیاه",
+    "category": "طبی پودے",
+    "doc_word_count": 138
+  },
+  {
+    "doc_id": "wiki_health_626",
+    "source_file": "wiki_health_626.txt",
+    "title": "یورپی مشعر صارفی صحت",
+    "category": "نگہداشت صحت",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_627",
+    "source_file": "wiki_health_627.txt",
+    "title": "حفاظت اطفال - روداد ماؤں کی عالمی کیفیت",
+    "category": "حفظان صحت معیار",
+    "doc_word_count": 558
+  },
+  {
+    "doc_id": "wiki_health_628",
+    "source_file": "wiki_health_628.txt",
+    "title": "فہرست ممالک بلحاظ فی کس مساوی قوت خرید کل صحت اخراجات",
+    "category": "صحت بلحاظ ملک",
+    "doc_word_count": 784
+  },
+  {
+    "doc_id": "wiki_health_629",
+    "source_file": "wiki_health_629.txt",
+    "title": "حشیش",
+    "category": "طبی پودے",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_630",
+    "source_file": "wiki_health_630.txt",
+    "title": "عبد المالک بلوچ",
+    "category": "پاکستانی ماہرین امراض چشم",
+    "doc_word_count": 347
+  },
+  {
+    "doc_id": "wiki_health_631",
+    "source_file": "wiki_health_631.txt",
+    "title": "شمن پرستی",
+    "category": "متبادل طبی نظام",
+    "doc_word_count": 538
+  },
+  {
+    "doc_id": "wiki_health_632",
+    "source_file": "wiki_health_632.txt",
+    "title": "بخار",
+    "category": "طب",
+    "doc_word_count": 61
+  },
+  {
+    "doc_id": "wiki_health_633",
+    "source_file": "wiki_health_633.txt",
+    "title": "نواک جوکووچ",
+    "category": "ویکسین مخالف فعالت پسند",
+    "doc_word_count": 154
+  },
+  {
+    "doc_id": "wiki_health_634",
+    "source_file": "wiki_health_634.txt",
+    "title": "دماغی شریان",
+    "category": "طب",
+    "doc_word_count": 177
+  },
+  {
+    "doc_id": "wiki_health_635",
+    "source_file": "wiki_health_635.txt",
+    "title": "فہرست امریکی ریاستیں بلحاظ متوقع زندگی",
+    "category": "ریاستہائے متحدہ میں صحت",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_636",
+    "source_file": "wiki_health_636.txt",
+    "title": "ریاست ہائے متحدہ میں موٹاپا",
+    "category": "ریاستہائے متحدہ میں صحت",
+    "doc_word_count": 352
+  },
+  {
+    "doc_id": "wiki_health_637",
+    "source_file": "wiki_health_637.txt",
+    "title": "ریاست ہائے متحدہ میں بندوق تشدد بلحاظ ریاست",
+    "category": "ریاستہائے متحدہ میں صحت",
+    "doc_word_count": 225
+  },
+  {
+    "doc_id": "wiki_health_638",
+    "source_file": "wiki_health_638.txt",
+    "title": "نفاس",
+    "category": "نسوانی صحت",
+    "doc_word_count": 354
+  },
+  {
+    "doc_id": "wiki_health_639",
+    "source_file": "wiki_health_639.txt",
+    "title": "پاکستان میں بچہ مزدوری",
+    "category": "ماہرین امراض اطفال",
+    "doc_word_count": 610
+  },
+  {
+    "doc_id": "wiki_health_640",
+    "source_file": "wiki_health_640.txt",
+    "title": "بوگن ویلیا",
+    "category": "طبی پودے",
+    "doc_word_count": 45
+  },
+  {
+    "doc_id": "wiki_health_641",
+    "source_file": "wiki_health_641.txt",
+    "title": "آڑو",
+    "category": "طبی پودے",
+    "doc_word_count": 151
+  },
+  {
+    "doc_id": "wiki_health_642",
+    "source_file": "wiki_health_642.txt",
+    "title": "واجد علی خان برکی",
+    "category": "پاکستانی ماہرین امراض چشم",
+    "doc_word_count": 148
+  },
+  {
+    "doc_id": "wiki_health_643",
+    "source_file": "wiki_health_643.txt",
+    "title": "روسی وفاقی موضوعات کی فہرست بلحاظ نشہ آور اشیا کا غلط استعمال",
+    "category": "روس میں نگہداشت صحت",
+    "doc_word_count": 2555
+  },
+  {
+    "doc_id": "wiki_health_644",
+    "source_file": "wiki_health_644.txt",
+    "title": "خناق",
+    "category": "ویکسین سے روکے جانے والے امراض",
+    "doc_word_count": 1951
+  },
+  {
+    "doc_id": "wiki_health_645",
+    "source_file": "wiki_health_645.txt",
+    "title": "فہرست چینی انتظامی تقسیم بلحاظ متوقع زندگی",
+    "category": "چین میں صحت",
+    "doc_word_count": 143
+  },
+  {
+    "doc_id": "wiki_health_646",
+    "source_file": "wiki_health_646.txt",
+    "title": "ایبٹ لیباریٹریز",
+    "category": "ریاستہائے متحدہ میں جانوروں کی ادویات",
+    "doc_word_count": 116
+  },
+  {
+    "doc_id": "wiki_health_647",
+    "source_file": "wiki_health_647.txt",
+    "title": "ویل پوائنٹ",
+    "category": "ریاستہائے متحدہ میں صحت",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_648",
+    "source_file": "wiki_health_648.txt",
+    "title": "غلونکی",
+    "category": "امراض آنکھ",
+    "doc_word_count": 337
+  },
+  {
+    "doc_id": "wiki_health_649",
+    "source_file": "wiki_health_649.txt",
+    "title": "آسٹراگیلس ممبرانیسی اس",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 155
+  },
+  {
+    "doc_id": "wiki_health_650",
+    "source_file": "wiki_health_650.txt",
+    "title": "مشیل باشیلے",
+    "category": "ماہرین امراض اطفال",
+    "doc_word_count": 205
+  },
+  {
+    "doc_id": "wiki_health_651",
+    "source_file": "wiki_health_651.txt",
+    "title": "جیسکا بیال",
+    "category": "ویکسین مخالف فعالت پسند",
+    "doc_word_count": 141
+  },
+  {
+    "doc_id": "wiki_health_652",
+    "source_file": "wiki_health_652.txt",
+    "title": "لیزا بونت",
+    "category": "ویکسین مخالف فعالت پسند",
+    "doc_word_count": 112
+  },
+  {
+    "doc_id": "wiki_health_653",
+    "source_file": "wiki_health_653.txt",
+    "title": "سارہ کیتھرین گلبرٹ",
+    "category": "مملکت متحدہ میں کورونا وائرس کی وبا، 2020ء",
+    "doc_word_count": 480
+  },
+  {
+    "doc_id": "wiki_health_654",
+    "source_file": "wiki_health_654.txt",
+    "title": "جینی میکارتھی",
+    "category": "ویکسین مخالف فعالت پسند",
+    "doc_word_count": 170
+  },
+  {
+    "doc_id": "wiki_health_655",
+    "source_file": "wiki_health_655.txt",
+    "title": "ایلیسیا سلورسٹون",
+    "category": "ویکسین مخالف فعالت پسند",
+    "doc_word_count": 140
+  },
+  {
+    "doc_id": "wiki_health_656",
+    "source_file": "wiki_health_656.txt",
+    "title": "مانع حمل",
+    "category": "نسوانی صحت",
+    "doc_word_count": 648
+  },
+  {
+    "doc_id": "wiki_health_657",
+    "source_file": "wiki_health_657.txt",
+    "title": "اعصابی بیماریاں",
+    "category": "اعصابی بیماریاں",
+    "doc_word_count": 28
+  },
+  {
+    "doc_id": "wiki_health_658",
+    "source_file": "wiki_health_658.txt",
+    "title": "نورلڈ کا یونیورسٹی ہسپتال",
+    "category": "1907ء میں مکمل ہونے والی ہسپتال عمارات",
+    "doc_word_count": 110
+  },
+  {
+    "doc_id": "wiki_health_659",
+    "source_file": "wiki_health_659.txt",
+    "title": "قات",
+    "category": "طبی پودے",
+    "doc_word_count": 325
+  },
+  {
+    "doc_id": "wiki_health_660",
+    "source_file": "wiki_health_660.txt",
+    "title": "ایہود اولمرت",
+    "category": "اسرائیل کے وزرائے صحت",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_661",
+    "source_file": "wiki_health_661.txt",
+    "title": "آرئیل شارون",
+    "category": "اسرائیل کے وزرائے صحت",
+    "doc_word_count": 126
+  },
+  {
+    "doc_id": "wiki_health_662",
+    "source_file": "wiki_health_662.txt",
+    "title": "اسحاق رابین",
+    "category": "اسرائیل کے وزرائے صحت",
+    "doc_word_count": 161
+  },
+  {
+    "doc_id": "wiki_health_663",
+    "source_file": "wiki_health_663.txt",
+    "title": "لی چنگ یوئن",
+    "category": "روایتی چینی طب",
+    "doc_word_count": 693
+  },
+  {
+    "doc_id": "wiki_health_664",
+    "source_file": "wiki_health_664.txt",
+    "title": "مسواک",
+    "category": "روایتی طب",
+    "doc_word_count": 1405
+  },
+  {
+    "doc_id": "wiki_health_665",
+    "source_file": "wiki_health_665.txt",
+    "title": "شیر خوار اموات",
+    "category": "صحت عامہ",
+    "doc_word_count": 104
+  },
+  {
+    "doc_id": "wiki_health_666",
+    "source_file": "wiki_health_666.txt",
+    "title": "روزہ",
+    "category": "طبی علاج",
+    "doc_word_count": 1068
+  },
+  {
+    "doc_id": "wiki_health_667",
+    "source_file": "wiki_health_667.txt",
+    "title": "فہرست بھارتی ریاستیں بلحاظ ویکسین تحفظ",
+    "category": "نگہداشت صحت",
+    "doc_word_count": 156
+  },
+  {
+    "doc_id": "wiki_health_668",
+    "source_file": "wiki_health_668.txt",
+    "title": "تالو",
+    "category": "طب اذن و انف و حلق",
+    "doc_word_count": 62
+  },
+  {
+    "doc_id": "wiki_health_669",
+    "source_file": "wiki_health_669.txt",
+    "title": "نرم تالو",
+    "category": "طب اذن و انف و حلق",
+    "doc_word_count": 35
+  },
+  {
+    "doc_id": "wiki_health_670",
+    "source_file": "wiki_health_670.txt",
+    "title": "نسوانی ختنہ",
+    "category": "نسوانی صحت",
+    "doc_word_count": 3421
+  },
+  {
+    "doc_id": "wiki_health_671",
+    "source_file": "wiki_health_671.txt",
+    "title": "آرتمیس",
+    "category": "صحت کی دیویاں",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_672",
+    "source_file": "wiki_health_672.txt",
+    "title": "اندام نہانی",
+    "category": "نسوانی صحت",
+    "doc_word_count": 480
+  },
+  {
+    "doc_id": "wiki_health_673",
+    "source_file": "wiki_health_673.txt",
+    "title": "ایبولا وائرس بیماری",
+    "category": "افریقا میں صحت",
+    "doc_word_count": 705
+  },
+  {
+    "doc_id": "wiki_health_674",
+    "source_file": "wiki_health_674.txt",
+    "title": "ہاسپٹل دے لاس رے ییس کاتولی کوس",
+    "category": "ہسپانیہ کے ہسپتال",
+    "doc_word_count": 180
+  },
+  {
+    "doc_id": "wiki_health_675",
+    "source_file": "wiki_health_675.txt",
+    "title": "ایبولا وائرس",
+    "category": "منطقہ حارہ کے امراض",
+    "doc_word_count": 131
+  },
+  {
+    "doc_id": "wiki_health_676",
+    "source_file": "wiki_health_676.txt",
+    "title": "محمد ابن زکریا الرازی",
+    "category": "طب",
+    "doc_word_count": 110
+  },
+  {
+    "doc_id": "wiki_health_677",
+    "source_file": "wiki_health_677.txt",
+    "title": "وبائیات شیزو فرینیا",
+    "category": "ذہنی صحت بلحاظ ملک",
+    "doc_word_count": 63
+  },
+  {
+    "doc_id": "wiki_health_678",
+    "source_file": "wiki_health_678.txt",
+    "title": "فہرست ممالک بلحاظ شرح سرطان",
+    "category": "صحت",
+    "doc_word_count": 133
+  },
+  {
+    "doc_id": "wiki_health_679",
+    "source_file": "wiki_health_679.txt",
+    "title": "فہرست انجمن اقتصادی تعاون و ترقی ممالک بلحاظ نتائج نگہداشت صحت",
+    "category": "صحت",
+    "doc_word_count": 662
+  },
+  {
+    "doc_id": "wiki_health_680",
+    "source_file": "wiki_health_680.txt",
+    "title": "فہرست ممالک بلحاظ ہسپتال بستر",
+    "category": "صحت",
+    "doc_word_count": 103
+  },
+  {
+    "doc_id": "wiki_health_681",
+    "source_file": "wiki_health_681.txt",
+    "title": "فہرست ممالک بلحاظ احاطہ اخراجات صحت منجانب حکومت",
+    "category": "صحت",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_682",
+    "source_file": "wiki_health_682.txt",
+    "title": "فہرست ممالک بلحاظ غیر متعدی مرض سے موت کا خطرہ",
+    "category": "صحت",
+    "doc_word_count": 173
+  },
+  {
+    "doc_id": "wiki_health_683",
+    "source_file": "wiki_health_683.txt",
+    "title": "فرسودگی (نفسیات)",
+    "category": "ذہنی صحت",
+    "doc_word_count": 483
+  },
+  {
+    "doc_id": "wiki_health_684",
+    "source_file": "wiki_health_684.txt",
+    "title": "کشتہ",
+    "category": "طب یونانی",
+    "doc_word_count": 3981
+  },
+  {
+    "doc_id": "wiki_health_685",
+    "source_file": "wiki_health_685.txt",
+    "title": "فورایور (ٹی وی سلسلہ)",
+    "category": "امریکی طبی ٹیلی ویژن سلسلے",
+    "doc_word_count": 1295
+  },
+  {
+    "doc_id": "wiki_health_686",
+    "source_file": "wiki_health_686.txt",
+    "title": "ابتدائی طبی امداد",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 182
+  },
+  {
+    "doc_id": "wiki_health_687",
+    "source_file": "wiki_health_687.txt",
+    "title": "علاج",
+    "category": "علاج",
+    "doc_word_count": 196
+  },
+  {
+    "doc_id": "wiki_health_688",
+    "source_file": "wiki_health_688.txt",
+    "title": "زمبابوے میں ایڈز بیداری مہم",
+    "category": "بیماریاں",
+    "doc_word_count": 127
+  },
+  {
+    "doc_id": "wiki_health_689",
+    "source_file": "wiki_health_689.txt",
+    "title": "عبد الرحمان انتولے",
+    "category": "بھارت کے وزرائے صحت",
+    "doc_word_count": 184
+  },
+  {
+    "doc_id": "wiki_health_690",
+    "source_file": "wiki_health_690.txt",
+    "title": "شہید محترمہ بے نظیر بھٹو میڈیکل یونیورسٹی",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 151
+  },
+  {
+    "doc_id": "wiki_health_691",
+    "source_file": "wiki_health_691.txt",
+    "title": "ہلدی",
+    "category": "تجرباتی طبی علاج",
+    "doc_word_count": 303
+  },
+  {
+    "doc_id": "wiki_health_692",
+    "source_file": "wiki_health_692.txt",
+    "title": "لونگ",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 701
+  },
+  {
+    "doc_id": "wiki_health_693",
+    "source_file": "wiki_health_693.txt",
+    "title": "کالی مرچ",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 65
+  },
+  {
+    "doc_id": "wiki_health_694",
+    "source_file": "wiki_health_694.txt",
+    "title": "ادرک",
+    "category": "طبی پودے",
+    "doc_word_count": 174
+  },
+  {
+    "doc_id": "wiki_health_695",
+    "source_file": "wiki_health_695.txt",
+    "title": "زیرہ",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 65
+  },
+  {
+    "doc_id": "wiki_health_696",
+    "source_file": "wiki_health_696.txt",
+    "title": "ناریل",
+    "category": "طبی پودے",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_697",
+    "source_file": "wiki_health_697.txt",
+    "title": "قرآن اور طب",
+    "category": "مذہب اور طب",
+    "doc_word_count": 1254
+  },
+  {
+    "doc_id": "wiki_health_698",
+    "source_file": "wiki_health_698.txt",
+    "title": "السی",
+    "category": "طبی پودے",
+    "doc_word_count": 186
+  },
+  {
+    "doc_id": "wiki_health_699",
+    "source_file": "wiki_health_699.txt",
+    "title": "کاجو",
+    "category": "جنوبی امریکا کے طبی پودے",
+    "doc_word_count": 134
+  },
+  {
+    "doc_id": "wiki_health_700",
+    "source_file": "wiki_health_700.txt",
+    "title": "چنا",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 233
+  },
+  {
+    "doc_id": "wiki_health_701",
+    "source_file": "wiki_health_701.txt",
+    "title": "پالک",
+    "category": "طبی پودے",
+    "doc_word_count": 177
+  },
+  {
+    "doc_id": "wiki_health_702",
+    "source_file": "wiki_health_702.txt",
+    "title": "کنڈوم",
+    "category": "جنسی صحت",
+    "doc_word_count": 97
+  },
+  {
+    "doc_id": "wiki_health_703",
+    "source_file": "wiki_health_703.txt",
+    "title": "زندگی کے بعد زندگی (کتاب)",
+    "category": "طب نفسی",
+    "doc_word_count": 334
+  },
+  {
+    "doc_id": "wiki_health_704",
+    "source_file": "wiki_health_704.txt",
+    "title": "ایڈورڈ موزر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 79
+  },
+  {
+    "doc_id": "wiki_health_705",
+    "source_file": "wiki_health_705.txt",
+    "title": "مے برٹ موزر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 108
+  },
+  {
+    "doc_id": "wiki_health_706",
+    "source_file": "wiki_health_706.txt",
+    "title": "جان او کیفے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 106
+  },
+  {
+    "doc_id": "wiki_health_707",
+    "source_file": "wiki_health_707.txt",
+    "title": "نوبل انعام برائے فعلیات و طب",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 73
+  },
+  {
+    "doc_id": "wiki_health_708",
+    "source_file": "wiki_health_708.txt",
+    "title": "کلورین",
+    "category": "عالمی ادارہ صحت کی بنیادی ادویات",
+    "doc_word_count": 1076
+  },
+  {
+    "doc_id": "wiki_health_709",
+    "source_file": "wiki_health_709.txt",
+    "title": "حکیم سید ظل الرحمن",
+    "category": "بھارتی طبی محققین",
+    "doc_word_count": 504
+  },
+  {
+    "doc_id": "wiki_health_710",
+    "source_file": "wiki_health_710.txt",
+    "title": "لیپوسکشن",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 288
+  },
+  {
+    "doc_id": "wiki_health_711",
+    "source_file": "wiki_health_711.txt",
+    "title": "انسانی غذا کے اجزا",
+    "category": "صحت",
+    "doc_word_count": 1967
+  },
+  {
+    "doc_id": "wiki_health_712",
+    "source_file": "wiki_health_712.txt",
+    "title": "وٹامن بی 12",
+    "category": "صحت",
+    "doc_word_count": 597
+  },
+  {
+    "doc_id": "wiki_health_713",
+    "source_file": "wiki_health_713.txt",
+    "title": "طب نبوی",
+    "category": "طب اسلامی",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_714",
+    "source_file": "wiki_health_714.txt",
+    "title": "جامعہ ہمدرد",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 546
+  },
+  {
+    "doc_id": "wiki_health_715",
+    "source_file": "wiki_health_715.txt",
+    "title": "عالمی یوم آب",
+    "category": "صحت و صفائی",
+    "doc_word_count": 203
+  },
+  {
+    "doc_id": "wiki_health_716",
+    "source_file": "wiki_health_716.txt",
+    "title": "جرمنونگز پرواز 9525",
+    "category": "ذہنی صحت",
+    "doc_word_count": 149
+  },
+  {
+    "doc_id": "wiki_health_717",
+    "source_file": "wiki_health_717.txt",
+    "title": "الخدمت فاؤنڈیشن",
+    "category": "صحت",
+    "doc_word_count": 252
+  },
+  {
+    "doc_id": "wiki_health_718",
+    "source_file": "wiki_health_718.txt",
+    "title": "ایس آئی وی",
+    "category": "وائرسی امراض",
+    "doc_word_count": 226
+  },
+  {
+    "doc_id": "wiki_health_719",
+    "source_file": "wiki_health_719.txt",
+    "title": "بھارت میں طب یونانی",
+    "category": "بھارت میں طب یونانی",
+    "doc_word_count": 136
+  },
+  {
+    "doc_id": "wiki_health_720",
+    "source_file": "wiki_health_720.txt",
+    "title": "جرمن خسرہ",
+    "category": "امراض",
+    "doc_word_count": 1225
+  },
+  {
+    "doc_id": "wiki_health_721",
+    "source_file": "wiki_health_721.txt",
+    "title": "گمبٹ",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_722",
+    "source_file": "wiki_health_722.txt",
+    "title": "نابینا پن",
+    "category": "امراض آنکھ",
+    "doc_word_count": 30
+  },
+  {
+    "doc_id": "wiki_health_723",
+    "source_file": "wiki_health_723.txt",
+    "title": "شوکت خانم میموریل ہسپتال",
+    "category": "پاکستان کے ہسپتال",
+    "doc_word_count": 42
+  },
+  {
+    "doc_id": "wiki_health_724",
+    "source_file": "wiki_health_724.txt",
+    "title": "مونگ پھلی",
+    "category": "طبی پودے",
+    "doc_word_count": 151
+  },
+  {
+    "doc_id": "wiki_health_725",
+    "source_file": "wiki_health_725.txt",
+    "title": "کابل طبی جامعہ",
+    "category": "افغانستان میں طبی درسگاہیں",
+    "doc_word_count": 65
+  },
+  {
+    "doc_id": "wiki_health_726",
+    "source_file": "wiki_health_726.txt",
+    "title": "روپانزل سنڈروم",
+    "category": "آنتوں کے امراض",
+    "doc_word_count": 73
+  },
+  {
+    "doc_id": "wiki_health_727",
+    "source_file": "wiki_health_727.txt",
+    "title": "آلو بخارہ",
+    "category": "طبی پودے",
+    "doc_word_count": 100
+  },
+  {
+    "doc_id": "wiki_health_728",
+    "source_file": "wiki_health_728.txt",
+    "title": "سندھ تہذیب کا شہری منصوبہ بندی اور بلدیاتی نظام",
+    "category": "پاکستان میں فراہمی آب اور صحت و صفائی",
+    "doc_word_count": 2134
+  },
+  {
+    "doc_id": "wiki_health_729",
+    "source_file": "wiki_health_729.txt",
+    "title": "دھلائی",
+    "category": "صحت و صفائی",
+    "doc_word_count": 72
+  },
+  {
+    "doc_id": "wiki_health_730",
+    "source_file": "wiki_health_730.txt",
+    "title": "حفظان صحت",
+    "category": "حفظان صحت",
+    "doc_word_count": 146
+  },
+  {
+    "doc_id": "wiki_health_731",
+    "source_file": "wiki_health_731.txt",
+    "title": "پاکستان میں طبی سیاحت",
+    "category": "پاکستان میں صحت",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_732",
+    "source_file": "wiki_health_732.txt",
+    "title": "طبی سیاحت",
+    "category": "طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_733",
+    "source_file": "wiki_health_733.txt",
+    "title": "جان بویڈ اور",
+    "category": "سکاٹش طبی محققین",
+    "doc_word_count": 166
+  },
+  {
+    "doc_id": "wiki_health_734",
+    "source_file": "wiki_health_734.txt",
+    "title": "عالمی طبیعاتدان برائے روک تھام نیوکلیائی جنگ",
+    "category": "طبی انجمنیں",
+    "doc_word_count": 117
+  },
+  {
+    "doc_id": "wiki_health_735",
+    "source_file": "wiki_health_735.txt",
+    "title": "البرٹ شویتزر",
+    "category": "گیبون میں صحت",
+    "doc_word_count": 159
+  },
+  {
+    "doc_id": "wiki_health_736",
+    "source_file": "wiki_health_736.txt",
+    "title": "یوراگوئے کے محکمہ جات",
+    "category": "یوراگوئے میں صحت",
+    "doc_word_count": 175
+  },
+  {
+    "doc_id": "wiki_health_737",
+    "source_file": "wiki_health_737.txt",
+    "title": "شنٹ (طب)",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 46
+  },
+  {
+    "doc_id": "wiki_health_738",
+    "source_file": "wiki_health_738.txt",
+    "title": "کلائین لیون سینڈروم",
+    "category": "نایاب بیماریاں",
+    "doc_word_count": 120
+  },
+  {
+    "doc_id": "wiki_health_739",
+    "source_file": "wiki_health_739.txt",
+    "title": "نوبل انعام برائے فعلیات و طب وصول کنندگان کی فہرست",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 2086
+  },
+  {
+    "doc_id": "wiki_health_740",
+    "source_file": "wiki_health_740.txt",
+    "title": "گلرنگ",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 63
+  },
+  {
+    "doc_id": "wiki_health_741",
+    "source_file": "wiki_health_741.txt",
+    "title": "پورٹیج، مشی گن",
+    "category": "کووڈ-19 ویکسین",
+    "doc_word_count": 96
+  },
+  {
+    "doc_id": "wiki_health_742",
+    "source_file": "wiki_health_742.txt",
+    "title": "بید مجنوں",
+    "category": "طبی پودے",
+    "doc_word_count": 59
+  },
+  {
+    "doc_id": "wiki_health_743",
+    "source_file": "wiki_health_743.txt",
+    "title": "حکیم عبد الحمید",
+    "category": "بھارت میں طب یونانی",
+    "doc_word_count": 122
+  },
+  {
+    "doc_id": "wiki_health_744",
+    "source_file": "wiki_health_744.txt",
+    "title": "دار الشفا، بھارت",
+    "category": "بھارت کے ہسپتال",
+    "doc_word_count": 34
+  },
+  {
+    "doc_id": "wiki_health_745",
+    "source_file": "wiki_health_745.txt",
+    "title": "ڈھوک گجراں",
+    "category": "پاکستان میں صحت",
+    "doc_word_count": 38
+  },
+  {
+    "doc_id": "wiki_health_746",
+    "source_file": "wiki_health_746.txt",
+    "title": "گریفتھ کا تجربہ",
+    "category": "امراض",
+    "doc_word_count": 496
+  },
+  {
+    "doc_id": "wiki_health_747",
+    "source_file": "wiki_health_747.txt",
+    "title": "فینگ شوئی",
+    "category": "طب متبادل",
+    "doc_word_count": 435
+  },
+  {
+    "doc_id": "wiki_health_748",
+    "source_file": "wiki_health_748.txt",
+    "title": "پری اون",
+    "category": "امراض",
+    "doc_word_count": 1189
+  },
+  {
+    "doc_id": "wiki_health_749",
+    "source_file": "wiki_health_749.txt",
+    "title": "ہونٹوں کی داد",
+    "category": "وائرسی امراض",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_750",
+    "source_file": "wiki_health_750.txt",
+    "title": "فیو میگیشن",
+    "category": "حفظان صحت",
+    "doc_word_count": 63
+  },
+  {
+    "doc_id": "wiki_health_751",
+    "source_file": "wiki_health_751.txt",
+    "title": "عبد العزیز رنتیسی",
+    "category": "فلسطینی ماہرین امراض اطفال",
+    "doc_word_count": 1574
+  },
+  {
+    "doc_id": "wiki_health_752",
+    "source_file": "wiki_health_752.txt",
+    "title": "ذہنی صحت کا عالمی دن",
+    "category": "ذہنی صحت",
+    "doc_word_count": 230
+  },
+  {
+    "doc_id": "wiki_health_753",
+    "source_file": "wiki_health_753.txt",
+    "title": "عالمی یوم التہاب جگر",
+    "category": "عالمی ادارہ صحت",
+    "doc_word_count": 195
+  },
+  {
+    "doc_id": "wiki_health_754",
+    "source_file": "wiki_health_754.txt",
+    "title": "عزیز سنجر",
+    "category": "ترکی طبی محققین",
+    "doc_word_count": 135
+  },
+  {
+    "doc_id": "wiki_health_755",
+    "source_file": "wiki_health_755.txt",
+    "title": "عالمی یوم ذیابیطس",
+    "category": "ذیابیطس",
+    "doc_word_count": 208
+  },
+  {
+    "doc_id": "wiki_health_756",
+    "source_file": "wiki_health_756.txt",
+    "title": "عالمی یوم ایڈز",
+    "category": "عالمی ادارہ صحت",
+    "doc_word_count": 194
+  },
+  {
+    "doc_id": "wiki_health_757",
+    "source_file": "wiki_health_757.txt",
+    "title": "ہڈی کے گودے کا معائنہ",
+    "category": "علوم صحت وطب",
+    "doc_word_count": 80
+  },
+  {
+    "doc_id": "wiki_health_758",
+    "source_file": "wiki_health_758.txt",
+    "title": "عسر الطمث",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 289
+  },
+  {
+    "doc_id": "wiki_health_759",
+    "source_file": "wiki_health_759.txt",
+    "title": "ہپاٹائٹس اے",
+    "category": "ویکسین سے روکے جانے والے امراض",
+    "doc_word_count": 519
+  },
+  {
+    "doc_id": "wiki_health_760",
+    "source_file": "wiki_health_760.txt",
+    "title": "گڑھے والا بیت الخلا",
+    "category": "صحت و صفائی",
+    "doc_word_count": 706
+  },
+  {
+    "doc_id": "wiki_health_761",
+    "source_file": "wiki_health_761.txt",
+    "title": "ولیم سی . کیمپ بل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 133
+  },
+  {
+    "doc_id": "wiki_health_762",
+    "source_file": "wiki_health_762.txt",
+    "title": "ساتوشی اومورا",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 117
+  },
+  {
+    "doc_id": "wiki_health_763",
+    "source_file": "wiki_health_763.txt",
+    "title": "تو یویو",
+    "category": "چینی طبی محققین",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_764",
+    "source_file": "wiki_health_764.txt",
+    "title": "بروسیلا",
+    "category": "سوائن بیماریاں",
+    "doc_word_count": 347
+  },
+  {
+    "doc_id": "wiki_health_765",
+    "source_file": "wiki_health_765.txt",
+    "title": "تھوجا",
+    "category": "طبی پودے",
+    "doc_word_count": 169
+  },
+  {
+    "doc_id": "wiki_health_766",
+    "source_file": "wiki_health_766.txt",
+    "title": "سوچھ بھارت ابھیان",
+    "category": "صحت و صفائی",
+    "doc_word_count": 1674
+  },
+  {
+    "doc_id": "wiki_health_767",
+    "source_file": "wiki_health_767.txt",
+    "title": "سشما سوراج",
+    "category": "بھارت کے وزرائے صحت",
+    "doc_word_count": 850
+  },
+  {
+    "doc_id": "wiki_health_768",
+    "source_file": "wiki_health_768.txt",
+    "title": "مینگو ائیرلائن",
+    "category": "طبی پودے",
+    "doc_word_count": 80
+  },
+  {
+    "doc_id": "wiki_health_769",
+    "source_file": "wiki_health_769.txt",
+    "title": "گل سہ پہری",
+    "category": "طبی پودے بلحاظ روایت",
+    "doc_word_count": 67
+  },
+  {
+    "doc_id": "wiki_health_770",
+    "source_file": "wiki_health_770.txt",
+    "title": "طبی لغت",
+    "category": "طبی لغات",
+    "doc_word_count": 214
+  },
+  {
+    "doc_id": "wiki_health_771",
+    "source_file": "wiki_health_771.txt",
+    "title": "آرون کلگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 172
+  },
+  {
+    "doc_id": "wiki_health_772",
+    "source_file": "wiki_health_772.txt",
+    "title": "طبی اصطلاحات",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 275
+  },
+  {
+    "doc_id": "wiki_health_773",
+    "source_file": "wiki_health_773.txt",
+    "title": "مائیکل سمتھ (کیمیا دان)",
+    "category": "کینیڈین طبی محققین",
+    "doc_word_count": 81
+  },
+  {
+    "doc_id": "wiki_health_774",
+    "source_file": "wiki_health_774.txt",
+    "title": "اورام ہرشکو",
+    "category": "وولف انعام برائے طب وصول کنندگان",
+    "doc_word_count": 103
+  },
+  {
+    "doc_id": "wiki_health_775",
+    "source_file": "wiki_health_775.txt",
+    "title": "راجر ٹسین",
+    "category": "وولف انعام برائے طب وصول کنندگان",
+    "doc_word_count": 144
+  },
+  {
+    "doc_id": "wiki_health_776",
+    "source_file": "wiki_health_776.txt",
+    "title": "امیل وون بیرنگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 69
+  },
+  {
+    "doc_id": "wiki_health_777",
+    "source_file": "wiki_health_777.txt",
+    "title": "رونالڈ روس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 206
+  },
+  {
+    "doc_id": "wiki_health_778",
+    "source_file": "wiki_health_778.txt",
+    "title": "نیلس ریبرگ فنسن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 50
+  },
+  {
+    "doc_id": "wiki_health_779",
+    "source_file": "wiki_health_779.txt",
+    "title": "ایوان پاؤلوف",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 144
+  },
+  {
+    "doc_id": "wiki_health_780",
+    "source_file": "wiki_health_780.txt",
+    "title": "رابرٹ کوچ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_781",
+    "source_file": "wiki_health_781.txt",
+    "title": "کیمیلو گولگی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_782",
+    "source_file": "wiki_health_782.txt",
+    "title": "سانتیاگو رامون ای کاخال",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 70
+  },
+  {
+    "doc_id": "wiki_health_783",
+    "source_file": "wiki_health_783.txt",
+    "title": "چارلس لیوس الفونسے لاورن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 87
+  },
+  {
+    "doc_id": "wiki_health_784",
+    "source_file": "wiki_health_784.txt",
+    "title": "الئی مٹینیکو",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 92
+  },
+  {
+    "doc_id": "wiki_health_785",
+    "source_file": "wiki_health_785.txt",
+    "title": "پاول اہرلچ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 405
+  },
+  {
+    "doc_id": "wiki_health_786",
+    "source_file": "wiki_health_786.txt",
+    "title": "ایمل تھیوڈر کوچر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 59
+  },
+  {
+    "doc_id": "wiki_health_787",
+    "source_file": "wiki_health_787.txt",
+    "title": "البرچٹ کوسل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 56
+  },
+  {
+    "doc_id": "wiki_health_788",
+    "source_file": "wiki_health_788.txt",
+    "title": "الورگلسٹرینڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_789",
+    "source_file": "wiki_health_789.txt",
+    "title": "الیکسس کارل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 86
+  },
+  {
+    "doc_id": "wiki_health_790",
+    "source_file": "wiki_health_790.txt",
+    "title": "چارلس رچٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 82
+  },
+  {
+    "doc_id": "wiki_health_791",
+    "source_file": "wiki_health_791.txt",
+    "title": "رابرٹ برانی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 65
+  },
+  {
+    "doc_id": "wiki_health_792",
+    "source_file": "wiki_health_792.txt",
+    "title": "جیولس بورڈٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 393
+  },
+  {
+    "doc_id": "wiki_health_793",
+    "source_file": "wiki_health_793.txt",
+    "title": "اگسٹ گروٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 87
+  },
+  {
+    "doc_id": "wiki_health_794",
+    "source_file": "wiki_health_794.txt",
+    "title": "ارکیبالڈ ہل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 112
+  },
+  {
+    "doc_id": "wiki_health_795",
+    "source_file": "wiki_health_795.txt",
+    "title": "اوٹو فرٹز مئیر ہوف",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 64
+  },
+  {
+    "doc_id": "wiki_health_796",
+    "source_file": "wiki_health_796.txt",
+    "title": "جان جیمز رکرڈ میکلاؤڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 79
+  },
+  {
+    "doc_id": "wiki_health_797",
+    "source_file": "wiki_health_797.txt",
+    "title": "ویلم ائینتھون",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 66
+  },
+  {
+    "doc_id": "wiki_health_798",
+    "source_file": "wiki_health_798.txt",
+    "title": "جوہانس فائبگر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 92
+  },
+  {
+    "doc_id": "wiki_health_799",
+    "source_file": "wiki_health_799.txt",
+    "title": "جولیس واگنر-جاورگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 82
+  },
+  {
+    "doc_id": "wiki_health_800",
+    "source_file": "wiki_health_800.txt",
+    "title": "چارلس نکولے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 69
+  },
+  {
+    "doc_id": "wiki_health_801",
+    "source_file": "wiki_health_801.txt",
+    "title": "کرسچیناجک مین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 54
+  },
+  {
+    "doc_id": "wiki_health_802",
+    "source_file": "wiki_health_802.txt",
+    "title": "فریڈرک گولینڈ ہوپکنس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 123
+  },
+  {
+    "doc_id": "wiki_health_803",
+    "source_file": "wiki_health_803.txt",
+    "title": "اوٹو ہنرچ وار برک",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 112
+  },
+  {
+    "doc_id": "wiki_health_804",
+    "source_file": "wiki_health_804.txt",
+    "title": "چارلس اسکاٹ شرنگ ٹن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_805",
+    "source_file": "wiki_health_805.txt",
+    "title": "ایڈگار ایڈرئین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 73
+  },
+  {
+    "doc_id": "wiki_health_806",
+    "source_file": "wiki_health_806.txt",
+    "title": "تھامس ہنٹ مورگن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 112
+  },
+  {
+    "doc_id": "wiki_health_807",
+    "source_file": "wiki_health_807.txt",
+    "title": "جارج ویپل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_808",
+    "source_file": "wiki_health_808.txt",
+    "title": "جارج مانٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_809",
+    "source_file": "wiki_health_809.txt",
+    "title": "ولیم پی مارفی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_810",
+    "source_file": "wiki_health_810.txt",
+    "title": "ہنس سپیمین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_811",
+    "source_file": "wiki_health_811.txt",
+    "title": "اوٹو لوئی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 73
+  },
+  {
+    "doc_id": "wiki_health_812",
+    "source_file": "wiki_health_812.txt",
+    "title": "البرٹ سزنٹ-گیورگی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 153
+  },
+  {
+    "doc_id": "wiki_health_813",
+    "source_file": "wiki_health_813.txt",
+    "title": "ہنرک ڈیم",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 87
+  },
+  {
+    "doc_id": "wiki_health_814",
+    "source_file": "wiki_health_814.txt",
+    "title": "ایدوارڈ اڈلبرٹڈویسی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 83
+  },
+  {
+    "doc_id": "wiki_health_815",
+    "source_file": "wiki_health_815.txt",
+    "title": "جوزف ارلینگر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_816",
+    "source_file": "wiki_health_816.txt",
+    "title": "ہورڈ فلوری",
+    "category": "آسٹریلوی طبی محققین",
+    "doc_word_count": 131
+  },
+  {
+    "doc_id": "wiki_health_817",
+    "source_file": "wiki_health_817.txt",
+    "title": "ارنسٹ بوری چین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 145
+  },
+  {
+    "doc_id": "wiki_health_818",
+    "source_file": "wiki_health_818.txt",
+    "title": "برناڈو ہاوسے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 101
+  },
+  {
+    "doc_id": "wiki_health_819",
+    "source_file": "wiki_health_819.txt",
+    "title": "پاول ہرمن میولر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 49
+  },
+  {
+    "doc_id": "wiki_health_820",
+    "source_file": "wiki_health_820.txt",
+    "title": "والٹر روڈلف ہیس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 96
+  },
+  {
+    "doc_id": "wiki_health_821",
+    "source_file": "wiki_health_821.txt",
+    "title": "انتونیو اگاس مونیس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 95
+  },
+  {
+    "doc_id": "wiki_health_822",
+    "source_file": "wiki_health_822.txt",
+    "title": "اڈوارڈ کیلون کینڈل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_823",
+    "source_file": "wiki_health_823.txt",
+    "title": "تادؤش رائشتائن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 80
+  },
+  {
+    "doc_id": "wiki_health_824",
+    "source_file": "wiki_health_824.txt",
+    "title": "فلپ شوالٹر ہنچ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 99
+  },
+  {
+    "doc_id": "wiki_health_825",
+    "source_file": "wiki_health_825.txt",
+    "title": "میورس ولیکنس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 107
+  },
+  {
+    "doc_id": "wiki_health_826",
+    "source_file": "wiki_health_826.txt",
+    "title": "میکس تھیلر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 125
+  },
+  {
+    "doc_id": "wiki_health_827",
+    "source_file": "wiki_health_827.txt",
+    "title": "عیل مین والکمین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 96
+  },
+  {
+    "doc_id": "wiki_health_828",
+    "source_file": "wiki_health_828.txt",
+    "title": "فرٹز البرٹ لیپ مین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 155
+  },
+  {
+    "doc_id": "wiki_health_829",
+    "source_file": "wiki_health_829.txt",
+    "title": "جان فرینکلن اینڈرز",
+    "category": "امریکی طبی محققین",
+    "doc_word_count": 120
+  },
+  {
+    "doc_id": "wiki_health_830",
+    "source_file": "wiki_health_830.txt",
+    "title": "تھامس ہکلر ویلر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 88
+  },
+  {
+    "doc_id": "wiki_health_831",
+    "source_file": "wiki_health_831.txt",
+    "title": "فریڈرک کیپمین رابنس",
+    "category": "امریکی ماہرین امراض اطفال",
+    "doc_word_count": 85
+  },
+  {
+    "doc_id": "wiki_health_832",
+    "source_file": "wiki_health_832.txt",
+    "title": "ہوگو تھیورل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 79
+  },
+  {
+    "doc_id": "wiki_health_833",
+    "source_file": "wiki_health_833.txt",
+    "title": "انڈری فریڈرک کونینڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 120
+  },
+  {
+    "doc_id": "wiki_health_834",
+    "source_file": "wiki_health_834.txt",
+    "title": "ورنر فورس مین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 125
+  },
+  {
+    "doc_id": "wiki_health_835",
+    "source_file": "wiki_health_835.txt",
+    "title": "جارج ویل بیڈل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 119
+  },
+  {
+    "doc_id": "wiki_health_836",
+    "source_file": "wiki_health_836.txt",
+    "title": "ایڈوارڈ لاورک ٹاوٹم",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 101
+  },
+  {
+    "doc_id": "wiki_health_837",
+    "source_file": "wiki_health_837.txt",
+    "title": "جیشوا لیڈربرگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 142
+  },
+  {
+    "doc_id": "wiki_health_838",
+    "source_file": "wiki_health_838.txt",
+    "title": "سیویرو اوچاو",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 120
+  },
+  {
+    "doc_id": "wiki_health_839",
+    "source_file": "wiki_health_839.txt",
+    "title": "آرتھر کورن برگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 152
+  },
+  {
+    "doc_id": "wiki_health_840",
+    "source_file": "wiki_health_840.txt",
+    "title": "فرینک میکفر لین برنٹ",
+    "category": "آسٹریلوی طبی محققین",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_841",
+    "source_file": "wiki_health_841.txt",
+    "title": "پیٹر میڈاوار",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 114
+  },
+  {
+    "doc_id": "wiki_health_842",
+    "source_file": "wiki_health_842.txt",
+    "title": "جارج وون بیکسی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 120
+  },
+  {
+    "doc_id": "wiki_health_843",
+    "source_file": "wiki_health_843.txt",
+    "title": "جان ایکلس",
+    "category": "آسٹریلوی طبی محققین",
+    "doc_word_count": 126
+  },
+  {
+    "doc_id": "wiki_health_844",
+    "source_file": "wiki_health_844.txt",
+    "title": "ایلن لائیڈ ہاجکین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 96
+  },
+  {
+    "doc_id": "wiki_health_845",
+    "source_file": "wiki_health_845.txt",
+    "title": "انڈریو ہکسلے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 97
+  },
+  {
+    "doc_id": "wiki_health_846",
+    "source_file": "wiki_health_846.txt",
+    "title": "کونارڈ ایمل بلوک",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 154
+  },
+  {
+    "doc_id": "wiki_health_847",
+    "source_file": "wiki_health_847.txt",
+    "title": "فیوڈر فیلکس کونارڈ لینن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 101
+  },
+  {
+    "doc_id": "wiki_health_848",
+    "source_file": "wiki_health_848.txt",
+    "title": "فرانکیوس جیکب",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 98
+  },
+  {
+    "doc_id": "wiki_health_849",
+    "source_file": "wiki_health_849.txt",
+    "title": "جیکس مونوڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 83
+  },
+  {
+    "doc_id": "wiki_health_850",
+    "source_file": "wiki_health_850.txt",
+    "title": "انڈری مائیکل لوف",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 97
+  },
+  {
+    "doc_id": "wiki_health_851",
+    "source_file": "wiki_health_851.txt",
+    "title": "فرانسس پیٹر روس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_852",
+    "source_file": "wiki_health_852.txt",
+    "title": "چارلس برنٹن ہگس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 82
+  },
+  {
+    "doc_id": "wiki_health_853",
+    "source_file": "wiki_health_853.txt",
+    "title": "راگنر گرانٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_854",
+    "source_file": "wiki_health_854.txt",
+    "title": "ہالڈن کیفر ہارٹ لائن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 88
+  },
+  {
+    "doc_id": "wiki_health_855",
+    "source_file": "wiki_health_855.txt",
+    "title": "جارج والڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 102
+  },
+  {
+    "doc_id": "wiki_health_856",
+    "source_file": "wiki_health_856.txt",
+    "title": "رابرٹ ڈبلیو ہولی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 81
+  },
+  {
+    "doc_id": "wiki_health_857",
+    "source_file": "wiki_health_857.txt",
+    "title": "ہر گوبند کھرانا",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 285
+  },
+  {
+    "doc_id": "wiki_health_858",
+    "source_file": "wiki_health_858.txt",
+    "title": "مارشل وارن نارنبرگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 113
+  },
+  {
+    "doc_id": "wiki_health_859",
+    "source_file": "wiki_health_859.txt",
+    "title": "میکس ڈیلبرگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_860",
+    "source_file": "wiki_health_860.txt",
+    "title": "الفرڈ ہرشے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_861",
+    "source_file": "wiki_health_861.txt",
+    "title": "سیلواڈور لوریا",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 108
+  },
+  {
+    "doc_id": "wiki_health_862",
+    "source_file": "wiki_health_862.txt",
+    "title": "برنارڈ کٹز",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 108
+  },
+  {
+    "doc_id": "wiki_health_863",
+    "source_file": "wiki_health_863.txt",
+    "title": "جیولیوس ایکزل روڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 126
+  },
+  {
+    "doc_id": "wiki_health_864",
+    "source_file": "wiki_health_864.txt",
+    "title": "الف وون ایولر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 83
+  },
+  {
+    "doc_id": "wiki_health_865",
+    "source_file": "wiki_health_865.txt",
+    "title": "گیرالڈ ایڈر مین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 232
+  },
+  {
+    "doc_id": "wiki_health_866",
+    "source_file": "wiki_health_866.txt",
+    "title": "روڈنی رابرٹ پوٹر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_867",
+    "source_file": "wiki_health_867.txt",
+    "title": "نکولاس ٹنبرجن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 108
+  },
+  {
+    "doc_id": "wiki_health_868",
+    "source_file": "wiki_health_868.txt",
+    "title": "البرٹ کلاوڈی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 474
+  },
+  {
+    "doc_id": "wiki_health_869",
+    "source_file": "wiki_health_869.txt",
+    "title": "کرسچن ڈی دووی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 97
+  },
+  {
+    "doc_id": "wiki_health_870",
+    "source_file": "wiki_health_870.txt",
+    "title": "جارج ایمل پلاڈے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_871",
+    "source_file": "wiki_health_871.txt",
+    "title": "ڈیوڈ بلٹی مور",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 107
+  },
+  {
+    "doc_id": "wiki_health_872",
+    "source_file": "wiki_health_872.txt",
+    "title": "ریناٹو ڈلبیکو",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 96
+  },
+  {
+    "doc_id": "wiki_health_873",
+    "source_file": "wiki_health_873.txt",
+    "title": "مائینروا",
+    "category": "صحت کی دیویاں",
+    "doc_word_count": 196
+  },
+  {
+    "doc_id": "wiki_health_874",
+    "source_file": "wiki_health_874.txt",
+    "title": "برسیم",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 122
+  },
+  {
+    "doc_id": "wiki_health_875",
+    "source_file": "wiki_health_875.txt",
+    "title": "باروچ سیمیول بلوم برگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 132
+  },
+  {
+    "doc_id": "wiki_health_876",
+    "source_file": "wiki_health_876.txt",
+    "title": "ڈینئیل کارلیٹون گیجڈسک",
+    "category": "امریکی ماہرین امراض اطفال",
+    "doc_word_count": 131
+  },
+  {
+    "doc_id": "wiki_health_877",
+    "source_file": "wiki_health_877.txt",
+    "title": "روگر گولیمنن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_878",
+    "source_file": "wiki_health_878.txt",
+    "title": "انڈریو شیلی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 72
+  },
+  {
+    "doc_id": "wiki_health_879",
+    "source_file": "wiki_health_879.txt",
+    "title": "روزالن سوسمین یالو",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 135
+  },
+  {
+    "doc_id": "wiki_health_880",
+    "source_file": "wiki_health_880.txt",
+    "title": "ورنر اربر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_881",
+    "source_file": "wiki_health_881.txt",
+    "title": "ہملٹن او سمتھ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 86
+  },
+  {
+    "doc_id": "wiki_health_882",
+    "source_file": "wiki_health_882.txt",
+    "title": "الان مکلیوڈ کورمک",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 145
+  },
+  {
+    "doc_id": "wiki_health_883",
+    "source_file": "wiki_health_883.txt",
+    "title": "خیبر میڈیکل یونیورسٹی",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 616
+  },
+  {
+    "doc_id": "wiki_health_884",
+    "source_file": "wiki_health_884.txt",
+    "title": "باروخ بن الصراف",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 144
+  },
+  {
+    "doc_id": "wiki_health_885",
+    "source_file": "wiki_health_885.txt",
+    "title": "جان دوسے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_886",
+    "source_file": "wiki_health_886.txt",
+    "title": "جارج ڈیوڈ سنل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_887",
+    "source_file": "wiki_health_887.txt",
+    "title": "راجر والکاٹ سپیری",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_888",
+    "source_file": "wiki_health_888.txt",
+    "title": "ٹورسٹن ویسل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 120
+  },
+  {
+    "doc_id": "wiki_health_889",
+    "source_file": "wiki_health_889.txt",
+    "title": "سیون برگ سٹورم",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 70
+  },
+  {
+    "doc_id": "wiki_health_890",
+    "source_file": "wiki_health_890.txt",
+    "title": "بنغت آئی سیمیولسن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 98
+  },
+  {
+    "doc_id": "wiki_health_891",
+    "source_file": "wiki_health_891.txt",
+    "title": "جان وین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 106
+  },
+  {
+    "doc_id": "wiki_health_892",
+    "source_file": "wiki_health_892.txt",
+    "title": "باربرا مک کلنٹک",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 124
+  },
+  {
+    "doc_id": "wiki_health_893",
+    "source_file": "wiki_health_893.txt",
+    "title": "نیل کاج جرنی",
+    "category": "ڈینش طبی محققین",
+    "doc_word_count": 106
+  },
+  {
+    "doc_id": "wiki_health_894",
+    "source_file": "wiki_health_894.txt",
+    "title": "جارجز جے ایف کوہلر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 52
+  },
+  {
+    "doc_id": "wiki_health_895",
+    "source_file": "wiki_health_895.txt",
+    "title": "سیسر میلسٹین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 98
+  },
+  {
+    "doc_id": "wiki_health_896",
+    "source_file": "wiki_health_896.txt",
+    "title": "مائیکل سٹاورٹ براون",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 91
+  },
+  {
+    "doc_id": "wiki_health_897",
+    "source_file": "wiki_health_897.txt",
+    "title": "جوزف گولڈ سٹین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 93
+  },
+  {
+    "doc_id": "wiki_health_898",
+    "source_file": "wiki_health_898.txt",
+    "title": "سٹینلی کوہن (حیاتیاتی کیمیادان)",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 133
+  },
+  {
+    "doc_id": "wiki_health_899",
+    "source_file": "wiki_health_899.txt",
+    "title": "ریٹالیوی -مونٹلسینی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 133
+  },
+  {
+    "doc_id": "wiki_health_900",
+    "source_file": "wiki_health_900.txt",
+    "title": "سسوموٹونیگوا",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 83
+  },
+  {
+    "doc_id": "wiki_health_901",
+    "source_file": "wiki_health_901.txt",
+    "title": "جیمز بلیک (ادویاتدان)",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 125
+  },
+  {
+    "doc_id": "wiki_health_902",
+    "source_file": "wiki_health_902.txt",
+    "title": "گرٹروڈ بی۔ الیون",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 134
+  },
+  {
+    "doc_id": "wiki_health_903",
+    "source_file": "wiki_health_903.txt",
+    "title": "جارج ایچ ہائیچنگ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 62
+  },
+  {
+    "doc_id": "wiki_health_904",
+    "source_file": "wiki_health_904.txt",
+    "title": "جے مائیکل بشوپ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 92
+  },
+  {
+    "doc_id": "wiki_health_905",
+    "source_file": "wiki_health_905.txt",
+    "title": "جوزف میورے",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_906",
+    "source_file": "wiki_health_906.txt",
+    "title": "ای ڈونالڈ تھامس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 59
+  },
+  {
+    "doc_id": "wiki_health_907",
+    "source_file": "wiki_health_907.txt",
+    "title": "چرنوبل حادثہ",
+    "category": "یوکرین میں صحت",
+    "doc_word_count": 198
+  },
+  {
+    "doc_id": "wiki_health_908",
+    "source_file": "wiki_health_908.txt",
+    "title": "ارون نیہر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 86
+  },
+  {
+    "doc_id": "wiki_health_909",
+    "source_file": "wiki_health_909.txt",
+    "title": "برٹ سیکمین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_910",
+    "source_file": "wiki_health_910.txt",
+    "title": "ایڈمنڈ ایچ فشر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 84
+  },
+  {
+    "doc_id": "wiki_health_911",
+    "source_file": "wiki_health_911.txt",
+    "title": "ایڈون جی کربس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 77
+  },
+  {
+    "doc_id": "wiki_health_912",
+    "source_file": "wiki_health_912.txt",
+    "title": "رچرڈ جے رابرٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 109
+  },
+  {
+    "doc_id": "wiki_health_913",
+    "source_file": "wiki_health_913.txt",
+    "title": "فلپ الن شارپ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 433
+  },
+  {
+    "doc_id": "wiki_health_914",
+    "source_file": "wiki_health_914.txt",
+    "title": "الفرڈ جی گلمین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 85
+  },
+  {
+    "doc_id": "wiki_health_915",
+    "source_file": "wiki_health_915.txt",
+    "title": "مارٹن روڈبل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 85
+  },
+  {
+    "doc_id": "wiki_health_916",
+    "source_file": "wiki_health_916.txt",
+    "title": "ایڈوارڈ بی لیوس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 113
+  },
+  {
+    "doc_id": "wiki_health_917",
+    "source_file": "wiki_health_917.txt",
+    "title": "ارک ایف. وسچاوس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_918",
+    "source_file": "wiki_health_918.txt",
+    "title": "پیٹر سی ڈوہرٹی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 95
+  },
+  {
+    "doc_id": "wiki_health_919",
+    "source_file": "wiki_health_919.txt",
+    "title": "رولف ایم زنکرنیج",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 94
+  },
+  {
+    "doc_id": "wiki_health_920",
+    "source_file": "wiki_health_920.txt",
+    "title": "سٹینلی بی پروسینر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 97
+  },
+  {
+    "doc_id": "wiki_health_921",
+    "source_file": "wiki_health_921.txt",
+    "title": "لیوس اگارو",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 92
+  },
+  {
+    "doc_id": "wiki_health_922",
+    "source_file": "wiki_health_922.txt",
+    "title": "فیڑڈ میراڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 78
+  },
+  {
+    "doc_id": "wiki_health_923",
+    "source_file": "wiki_health_923.txt",
+    "title": "اروڈ کارلسن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 80
+  },
+  {
+    "doc_id": "wiki_health_924",
+    "source_file": "wiki_health_924.txt",
+    "title": "پاول گرین گارڈ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 104
+  },
+  {
+    "doc_id": "wiki_health_925",
+    "source_file": "wiki_health_925.txt",
+    "title": "ارک کینڈل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 110
+  },
+  {
+    "doc_id": "wiki_health_926",
+    "source_file": "wiki_health_926.txt",
+    "title": "لیلینڈ ایچ ہرٹ ویل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 69
+  },
+  {
+    "doc_id": "wiki_health_927",
+    "source_file": "wiki_health_927.txt",
+    "title": "پاول نرس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 102
+  },
+  {
+    "doc_id": "wiki_health_928",
+    "source_file": "wiki_health_928.txt",
+    "title": "ٹم ہنٹ",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 101
+  },
+  {
+    "doc_id": "wiki_health_929",
+    "source_file": "wiki_health_929.txt",
+    "title": "سڈنی برینر",
+    "category": "وصول کنندگان بین الاقوامی شاہ فیصل اعزاز برائے طب",
+    "doc_word_count": 145
+  },
+  {
+    "doc_id": "wiki_health_930",
+    "source_file": "wiki_health_930.txt",
+    "title": "ایچ رابرٹ ہروٹز",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 84
+  },
+  {
+    "doc_id": "wiki_health_931",
+    "source_file": "wiki_health_931.txt",
+    "title": "جان سلسٹن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 75
+  },
+  {
+    "doc_id": "wiki_health_932",
+    "source_file": "wiki_health_932.txt",
+    "title": "پاول لیوٹربر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 108
+  },
+  {
+    "doc_id": "wiki_health_933",
+    "source_file": "wiki_health_933.txt",
+    "title": "رچرڈ اکزل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 82
+  },
+  {
+    "doc_id": "wiki_health_934",
+    "source_file": "wiki_health_934.txt",
+    "title": "لنڈابی بک",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 133
+  },
+  {
+    "doc_id": "wiki_health_935",
+    "source_file": "wiki_health_935.txt",
+    "title": "بارے مارشل",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 83
+  },
+  {
+    "doc_id": "wiki_health_936",
+    "source_file": "wiki_health_936.txt",
+    "title": "رابن وارن",
+    "category": "آسٹریلوی طبی محققین",
+    "doc_word_count": 70
+  },
+  {
+    "doc_id": "wiki_health_937",
+    "source_file": "wiki_health_937.txt",
+    "title": "انڈریو فائر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 101
+  },
+  {
+    "doc_id": "wiki_health_938",
+    "source_file": "wiki_health_938.txt",
+    "title": "ماریو کیپیکی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 147
+  },
+  {
+    "doc_id": "wiki_health_939",
+    "source_file": "wiki_health_939.txt",
+    "title": "مارٹن ایوانس",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 71
+  },
+  {
+    "doc_id": "wiki_health_940",
+    "source_file": "wiki_health_940.txt",
+    "title": "اولیور سمیتھز",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 117
+  },
+  {
+    "doc_id": "wiki_health_941",
+    "source_file": "wiki_health_941.txt",
+    "title": "ہیرالڈ زر ہاوسن",
+    "category": "جرمن طبی محققین",
+    "doc_word_count": 81
+  },
+  {
+    "doc_id": "wiki_health_942",
+    "source_file": "wiki_health_942.txt",
+    "title": "لک مونٹیگنئیر",
+    "category": "فرانسیسی طبی محققین",
+    "doc_word_count": 109
+  },
+  {
+    "doc_id": "wiki_health_943",
+    "source_file": "wiki_health_943.txt",
+    "title": "فرانسیوس باری سنوسی",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 109
+  },
+  {
+    "doc_id": "wiki_health_944",
+    "source_file": "wiki_health_944.txt",
+    "title": "الزیبتھ بلیک برن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 142
+  },
+  {
+    "doc_id": "wiki_health_945",
+    "source_file": "wiki_health_945.txt",
+    "title": "جیک ڈبلیو. سزوسٹک",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 103
+  },
+  {
+    "doc_id": "wiki_health_946",
+    "source_file": "wiki_health_946.txt",
+    "title": "رابرٹ جی ایڈوارڈز",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 92
+  },
+  {
+    "doc_id": "wiki_health_947",
+    "source_file": "wiki_health_947.txt",
+    "title": "بروس بیوٹلر",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 85
+  },
+  {
+    "doc_id": "wiki_health_948",
+    "source_file": "wiki_health_948.txt",
+    "title": "جیولس اے. ہوف مین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 105
+  },
+  {
+    "doc_id": "wiki_health_949",
+    "source_file": "wiki_health_949.txt",
+    "title": "رالف ایم سٹین مین",
+    "category": "کینیڈین طبی محققین",
+    "doc_word_count": 120
+  },
+  {
+    "doc_id": "wiki_health_950",
+    "source_file": "wiki_health_950.txt",
+    "title": "جان بی گرڈن",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_951",
+    "source_file": "wiki_health_951.txt",
+    "title": "شنیا یاماناکا",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 111
+  },
+  {
+    "doc_id": "wiki_health_952",
+    "source_file": "wiki_health_952.txt",
+    "title": "جیمز روتھ مین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 97
+  },
+  {
+    "doc_id": "wiki_health_953",
+    "source_file": "wiki_health_953.txt",
+    "title": "رینڈی شیک مین",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 100
+  },
+  {
+    "doc_id": "wiki_health_954",
+    "source_file": "wiki_health_954.txt",
+    "title": "تھامس سی۔ سڈہوف",
+    "category": "نوبل انعام یافتگان برائے فعلیات و طب",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_955",
+    "source_file": "wiki_health_955.txt",
+    "title": "علاج بالابر",
+    "category": "علاج بالابر",
+    "doc_word_count": 262
+  },
+  {
+    "doc_id": "wiki_health_956",
+    "source_file": "wiki_health_956.txt",
+    "title": "سوائن فلو",
+    "category": "آفات صحت",
+    "doc_word_count": 590
+  },
+  {
+    "doc_id": "wiki_health_957",
+    "source_file": "wiki_health_957.txt",
+    "title": "سرجو کاناویرو",
+    "category": "جراحی",
+    "doc_word_count": 110
+  },
+  {
+    "doc_id": "wiki_health_958",
+    "source_file": "wiki_health_958.txt",
+    "title": "کیرولنسکا انسٹیٹیوٹ",
+    "category": "سویڈن میں طبی درسگاہیں",
+    "doc_word_count": 82
+  },
+  {
+    "doc_id": "wiki_health_959",
+    "source_file": "wiki_health_959.txt",
+    "title": "کنو",
+    "category": "طبی پودے",
+    "doc_word_count": 61
+  },
+  {
+    "doc_id": "wiki_health_960",
+    "source_file": "wiki_health_960.txt",
+    "title": "سیزیرین سیکشن",
+    "category": "نسوانی صحت",
+    "doc_word_count": 1138
+  },
+  {
+    "doc_id": "wiki_health_961",
+    "source_file": "wiki_health_961.txt",
+    "title": "افیون",
+    "category": "طبی پودے",
+    "doc_word_count": 193
+  },
+  {
+    "doc_id": "wiki_health_962",
+    "source_file": "wiki_health_962.txt",
+    "title": "زیکا وائرس",
+    "category": "وائرسی امراض",
+    "doc_word_count": 554
+  },
+  {
+    "doc_id": "wiki_health_963",
+    "source_file": "wiki_health_963.txt",
+    "title": "روٹا وائرس",
+    "category": "طب اطفال",
+    "doc_word_count": 127
+  },
+  {
+    "doc_id": "wiki_health_964",
+    "source_file": "wiki_health_964.txt",
+    "title": "بین جنس",
+    "category": "طبی نزاعات",
+    "doc_word_count": 312
+  },
+  {
+    "doc_id": "wiki_health_965",
+    "source_file": "wiki_health_965.txt",
+    "title": "مریم گوکھرد",
+    "category": "طبی پودے",
+    "doc_word_count": 207
+  },
+  {
+    "doc_id": "wiki_health_966",
+    "source_file": "wiki_health_966.txt",
+    "title": "مریم گلی",
+    "category": "طبی پودے",
+    "doc_word_count": 268
+  },
+  {
+    "doc_id": "wiki_health_967",
+    "source_file": "wiki_health_967.txt",
+    "title": "یورپی سرخدار",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 182
+  },
+  {
+    "doc_id": "wiki_health_968",
+    "source_file": "wiki_health_968.txt",
+    "title": "آکونیٹوم ناپيللوس",
+    "category": "طبی پودے",
+    "doc_word_count": 121
+  },
+  {
+    "doc_id": "wiki_health_969",
+    "source_file": "wiki_health_969.txt",
+    "title": "سیلفی کے باعث حادثات اور اموات",
+    "category": "صحت متعلقہ فہارست",
+    "doc_word_count": 404
+  },
+  {
+    "doc_id": "wiki_health_970",
+    "source_file": "wiki_health_970.txt",
+    "title": "ماحولیاتی نسائیت",
+    "category": "نسائیت اور صحت",
+    "doc_word_count": 199
+  },
+  {
+    "doc_id": "wiki_health_971",
+    "source_file": "wiki_health_971.txt",
+    "title": "ارکان (درخت)",
+    "category": "طبی پودے",
+    "doc_word_count": 256
+  },
+  {
+    "doc_id": "wiki_health_972",
+    "source_file": "wiki_health_972.txt",
+    "title": "ہينگ",
+    "category": "طبی پودے",
+    "doc_word_count": 136
+  },
+  {
+    "doc_id": "wiki_health_973",
+    "source_file": "wiki_health_973.txt",
+    "title": "مرہم",
+    "category": "روایتی طب",
+    "doc_word_count": 385
+  },
+  {
+    "doc_id": "wiki_health_974",
+    "source_file": "wiki_health_974.txt",
+    "title": "اندرائن",
+    "category": "طبی پودے",
+    "doc_word_count": 221
+  },
+  {
+    "doc_id": "wiki_health_975",
+    "source_file": "wiki_health_975.txt",
+    "title": "ریمانیہ",
+    "category": "طبی پودے",
+    "doc_word_count": 379
+  },
+  {
+    "doc_id": "wiki_health_976",
+    "source_file": "wiki_health_976.txt",
+    "title": "اليزاروف آلات",
+    "category": "ہڈیوں کا علاج",
+    "doc_word_count": 160
+  },
+  {
+    "doc_id": "wiki_health_977",
+    "source_file": "wiki_health_977.txt",
+    "title": "حاشا",
+    "category": "طبی پودے",
+    "doc_word_count": 313
+  },
+  {
+    "doc_id": "wiki_health_978",
+    "source_file": "wiki_health_978.txt",
+    "title": "پیلو (پھل)",
+    "category": "طبی پودے",
+    "doc_word_count": 305
+  },
+  {
+    "doc_id": "wiki_health_979",
+    "source_file": "wiki_health_979.txt",
+    "title": "نوزائیدہ",
+    "category": "طب اطفال",
+    "doc_word_count": 104
+  },
+  {
+    "doc_id": "wiki_health_980",
+    "source_file": "wiki_health_980.txt",
+    "title": "بلوچستان کے شمسی بچے",
+    "category": "طبی نادر واقعات",
+    "doc_word_count": 166
+  },
+  {
+    "doc_id": "wiki_health_981",
+    "source_file": "wiki_health_981.txt",
+    "title": "چلمچی",
+    "category": "حفظان صحت",
+    "doc_word_count": 43
+  },
+  {
+    "doc_id": "wiki_health_982",
+    "source_file": "wiki_health_982.txt",
+    "title": "وفاقی طبی اور دندان سازی کالج",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 86
+  },
+  {
+    "doc_id": "wiki_health_983",
+    "source_file": "wiki_health_983.txt",
+    "title": "خصی",
+    "category": "طبی علاج",
+    "doc_word_count": 253
+  },
+  {
+    "doc_id": "wiki_health_984",
+    "source_file": "wiki_health_984.txt",
+    "title": "غیر ملکی لہجے کی بیماری",
+    "category": "صوتی امراض",
+    "doc_word_count": 100
+  },
+  {
+    "doc_id": "wiki_health_985",
+    "source_file": "wiki_health_985.txt",
+    "title": "یرقان",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 55
+  },
+  {
+    "doc_id": "wiki_health_986",
+    "source_file": "wiki_health_986.txt",
+    "title": "خدمت خلق",
+    "category": "نگہداشت صحت کے پیشے",
+    "doc_word_count": 90
+  },
+  {
+    "doc_id": "wiki_health_987",
+    "source_file": "wiki_health_987.txt",
+    "title": "قائد اعظم کالج برائے طب",
+    "category": "پاکستان میں طبی درسگاہیں",
+    "doc_word_count": 339
+  },
+  {
+    "doc_id": "wiki_health_988",
+    "source_file": "wiki_health_988.txt",
+    "title": "میو ہسپتال",
+    "category": "1870ء میں مکمل ہونے والی ہسپتال عمارات",
+    "doc_word_count": 893
+  },
+  {
+    "doc_id": "wiki_health_989",
+    "source_file": "wiki_health_989.txt",
+    "title": "مرگ آسان",
+    "category": "اخلاقیات طب",
+    "doc_word_count": 362
+  },
+  {
+    "doc_id": "wiki_health_990",
+    "source_file": "wiki_health_990.txt",
+    "title": "کریمین ہیمریجک کانگو بخار",
+    "category": "طبی اصطلاحات",
+    "doc_word_count": 756
+  },
+  {
+    "doc_id": "wiki_health_991",
+    "source_file": "wiki_health_991.txt",
+    "title": "کیسپر اسکی لیب",
+    "category": "اینٹی وائرس سافٹ وئیر",
+    "doc_word_count": 134
+  },
+  {
+    "doc_id": "wiki_health_992",
+    "source_file": "wiki_health_992.txt",
+    "title": "کالا آزار",
+    "category": "منطقہ حارہ کے امراض",
+    "doc_word_count": 412
+  },
+  {
+    "doc_id": "wiki_health_993",
+    "source_file": "wiki_health_993.txt",
+    "title": "پچولی",
+    "category": "روایتی چینی طب میں استعمال پودے",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_994",
+    "source_file": "wiki_health_994.txt",
+    "title": "تلسی نازبو",
+    "category": "ایشیا کے طبی پودے",
+    "doc_word_count": 376
+  },
+  {
+    "doc_id": "wiki_health_995",
+    "source_file": "wiki_health_995.txt",
+    "title": "پودینہ جبلی",
+    "category": "طبی پودے",
+    "doc_word_count": 76
+  },
+  {
+    "doc_id": "wiki_health_996",
+    "source_file": "wiki_health_996.txt",
+    "title": "زوفا",
+    "category": "طبی پودے",
+    "doc_word_count": 199
+  },
+  {
+    "doc_id": "wiki_health_997",
+    "source_file": "wiki_health_997.txt",
+    "title": "سپورٹ گروپ",
+    "category": "نفسیاتی علاج",
+    "doc_word_count": 373
+  },
+  {
+    "doc_id": "wiki_health_998",
+    "source_file": "wiki_health_998.txt",
+    "title": "انگریزی اسطو خودوس",
+    "category": "طبی پودے",
+    "doc_word_count": 134
+  },
+  {
+    "doc_id": "wiki_health_999",
+    "source_file": "wiki_health_999.txt",
+    "title": "خواب کی تعبیر",
+    "category": "نفسیاتی علاج",
+    "doc_word_count": 1032
+  }
+]

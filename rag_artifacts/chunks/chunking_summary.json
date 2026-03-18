@@ -1,0 +1,23 @@
+[
+  {
+    "strategy": "fixed",
+    "total_chunks": 2055,
+    "avg_chunk_words": 213.2,
+    "min_chunk_words": 15,
+    "max_chunk_words": 300
+  },
+  {
+    "strategy": "recursive",
+    "total_chunks": 1970,
+    "avg_chunk_words": 214.98,
+    "min_chunk_words": 1,
+    "max_chunk_words": 320
+  },
+  {
+    "strategy": "sentence",
+    "total_chunks": 4688,
+    "avg_chunk_words": 122.28,
+    "min_chunk_words": 6,
+    "max_chunk_words": 260
+  }
+]
