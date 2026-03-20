@@ -8,7 +8,11 @@ import numpy as np
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from generate_answer import retrieve_chunks, build_prompt, call_github_models_with_fallback
+from generate_answer import (
+    retrieve_chunks,
+    build_prompt,
+    call_github_models_with_fallback,
+)
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 import os
@@ -21,11 +25,12 @@ st.set_page_config(
     page_title="Urdu Medical RAG",
     page_icon="🏥",
     layout="wide",
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="collapsed",
 )
 
 # Custom CSS for professional appearance
-st.markdown("""
+st.markdown(
+    """
 <style>
     /* Main container */
     .main {
@@ -93,18 +98,24 @@ st.markdown("""
         background-color: #0d47a1;
     }
 </style>
-""", unsafe_allow_html=True)
+""",
+    unsafe_allow_html=True,
+)
 
 # ==============================================================================
 # Initialize Session & Config
 # ==============================================================================
 load_dotenv()
 
+
 @st.cache_resource
 def load_models():
     """Load embedder model once."""
-    embedder = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+    embedder = SentenceTransformer(
+        "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    )
     return embedder
+
 
 @st.cache_resource
 def get_retrieval_args():
@@ -130,6 +141,7 @@ def get_retrieval_args():
     )
     return args
 
+
 def cosine_similarity(a: np.ndarray, b: np.ndarray) -> float:
     """Compute cosine similarity."""
     denom = np.linalg.norm(a) * np.linalg.norm(b)
@@ -137,8 +149,11 @@ def cosine_similarity(a: np.ndarray, b: np.ndarray) -> float:
         return 0.0
     return float(np.dot(a, b) / denom)
 
+
 @st.cache_data
-def compute_answer_metrics(answer: str, query: str, _embedder: SentenceTransformer) -> Dict:
+def compute_answer_metrics(
+    answer: str, query: str, _embedder: SentenceTransformer
+) -> Dict:
     """
     Compute basic heuristic metrics for demo purposes.
     In production, these would come from LLM-as-Judge.
@@ -147,15 +162,16 @@ def compute_answer_metrics(answer: str, query: str, _embedder: SentenceTransform
     query_emb = _embedder.encode([query], normalize_embeddings=True)[0]
     answer_emb = _embedder.encode([answer], normalize_embeddings=True)[0]
     relevancy = cosine_similarity(query_emb, answer_emb)
-    
+
     # Heuristic faithfulness: presence of citations (very basic)
     has_citations = "[" in answer and "]" in answer
     faithfulness = 0.85 if has_citations else 0.65
-    
+
     return {
         "faithfulness": round(faithfulness, 4),
         "relevancy": round(relevancy, 4),
     }
+
 
 # ==============================================================================
 # Main UI Layout
@@ -169,10 +185,14 @@ with st.sidebar:
     strategy = st.selectbox(
         "Chunking Strategy",
         options=["fixed", "recursive", "sentence"],
-        help="Document chunking approach"
+        help="Document chunking approach",
     )
-    use_hybrid = st.checkbox("Use Hybrid Search", value=True, help="BM25 + Semantic + RRF")
-    use_rerank = st.checkbox("Use Re-ranking", value=True, help="Cross-Encoder re-ranking")
+    retrieval_mode = st.radio(
+        "Retrieval Mode",
+        options=["Semantic-Only", "Hybrid+Re-ranking"],
+        index=1,
+        help="Choose retrieval pipeline behavior",
+    )
 
 # Main query section
 st.markdown("### 🔍 Query Input")
@@ -183,7 +203,7 @@ with col1:
         "Enter your medical question in Urdu:",
         placeholder="مثال: ذیابیطس کی علامات کیا ہیں؟",
         height=80,
-        label_visibility="collapsed"
+        label_visibility="collapsed",
     )
 
 with col2:
@@ -198,42 +218,56 @@ if submit_btn and query.strip():
             retrieval_args = get_retrieval_args()
             retrieval_args.query = query
             retrieval_args.strategy = strategy
-            retrieval_args.use_reranker = use_rerank
-            retrieval_args.bm25_only = not use_hybrid
-            
+
+            if retrieval_mode == "Semantic-Only":
+                retrieval_args.bm25_only = False
+                retrieval_args.bm25_top_k = 0
+                retrieval_args.semantic_top_k = 30
+                retrieval_args.use_reranker = False
+            else:
+                retrieval_args.bm25_only = False
+                retrieval_args.bm25_top_k = 30
+                retrieval_args.semantic_top_k = 30
+                retrieval_args.use_reranker = True
+
             # Retrieve context
             hits = retrieve_chunks(retrieval_args, embedder=embedder)
-            context_text = "\n\n".join([h.get("text", "") for h in hits if h.get("text")])
-            
+            context_text = "\n\n".join(
+                [h.get("text", "") for h in hits if h.get("text")]
+            )
+
             # Build prompt and generate answer
             prompt = build_prompt(query, hits, max_context_chars=10000)
-            
+
             github_token = os.getenv("GITHUB_TOKEN", "").strip()
             answer, _, model_used = call_github_models_with_fallback(
                 prompt=prompt,
-                primary_model="openai/gpt-4.1-nano",
-                fallback_models=["openai/gpt-4.1-mini"],
+                primary_model="openai/gpt-4.1-mini",
+                fallback_models=["openai/gpt-4.1-nano"],
                 github_token=github_token,
                 max_new_tokens=300,
                 temperature=0.2,
                 top_p=0.9,
             )
-            
+
             # Compute metrics
             metrics = compute_answer_metrics(answer, query, _embedder=embedder)
-            
+
             # Display results in tabs
             tab1, tab2, tab3 = st.tabs(["📄 Answer", "🔗 Context", "📊 Metrics"])
-            
+
             with tab1:
                 st.markdown("#### Generated Answer")
-                st.markdown(f"""
+                st.markdown(
+                    f"""
                 <div class="answer-box">
                     {answer}
                 </div>
-                """, unsafe_allow_html=True)
+                """,
+                    unsafe_allow_html=True,
+                )
                 st.caption(f"Generated using: {model_used}")
-            
+
             with tab2:
                 st.markdown(f"#### Retrieved Context ({len(hits)} chunks)")
                 for i, hit in enumerate(hits, 1):
@@ -241,53 +275,69 @@ if submit_btn and query.strip():
                         st.markdown(f"**Source:** {hit.get('source_file', 'N/A')}")
                         st.markdown(f"**Chunk ID:** `{hit.get('chunk_id', 'N/A')}`")
                         st.markdown("---")
-                        st.markdown(f"""
+                        st.markdown(
+                            f"""
                         <div class="context-box">
-                            {hit.get('text', '')[:500]}...
+                            {hit.get("text", "")[:500]}...
                         </div>
-                        """, unsafe_allow_html=True)
-            
+                        """,
+                            unsafe_allow_html=True,
+                        )
+
             with tab3:
                 st.markdown("#### Performance Metrics")
                 col1, col2 = st.columns(2)
-                
+
                 with col1:
-                    st.markdown(f"""
+                    st.markdown(
+                        f"""
                     <div class="metric-box">
                         <h3>Faithfulness</h3>
-                        <h1>{metrics['faithfulness']:.2%}</h1>
+                        <h1>{metrics["faithfulness"]:.2%}</h1>
                         <p>Claim verification score</p>
                     </div>
-                    """, unsafe_allow_html=True)
-                
+                    """,
+                        unsafe_allow_html=True,
+                    )
+
                 with col2:
-                    st.markdown(f"""
+                    st.markdown(
+                        f"""
                     <div class="metric-box">
                         <h3>Relevancy</h3>
-                        <h1>{metrics['relevancy']:.2%}</h1>
+                        <h1>{metrics["relevancy"]:.2%}</h1>
                         <p>Answer relevance to query</p>
                     </div>
-                    """, unsafe_allow_html=True)
-                
+                    """,
+                        unsafe_allow_html=True,
+                    )
+
                 # Additional info
                 st.markdown("---")
                 col1, col2, col3 = st.columns(3)
                 col1.metric("Retrieved Chunks", len(hits))
-                col2.metric("Hybrid Search", "✓" if use_hybrid else "✗")
-                col3.metric("Re-ranking", "✓" if use_rerank else "✗")
-        
+                col2.metric("Mode", retrieval_mode)
+                col3.metric(
+                    "Re-ranking", "✓" if retrieval_mode == "Hybrid+Re-ranking" else "✗"
+                )
+
         except Exception as e:
             st.error(f"❌ Error processing query: {str(e)}")
-            st.info("Please check your GITHUB_TOKEN environment variable and try again.")
+            st.info(
+                "Please check your GITHUB_TOKEN environment variable and try again."
+            )
 
 elif submit_btn:
     st.warning("⚠️ Please enter a query in Urdu first.")
 
 # Footer
 st.markdown("---")
-st.markdown("""
+st.markdown(
+    """
 <div style="text-align: center; color: #666; font-size: 0.9rem;">
     <p><strong>Urdu Medical RAG System</strong> | Built with Streamlit, Pinecone & LLMs</p>
     <p>For questions or issues, refer to the project documentation.</p>
 </div>
-""", unsafe_allow_html=True)
+""",
+    unsafe_allow_html=True,
+)

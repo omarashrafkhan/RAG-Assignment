@@ -165,7 +165,8 @@ def rerank(
 
 
 def chunk_path_from_strategy(strategy: str) -> Path:
-    base = Path("rag_artifacts") / "chunks"
+    # Resolve from the source directory so this works no matter the current cwd.
+    base = Path(__file__).resolve().parent / "rag_artifacts" / "chunks"
     return base / f"chunks_{strategy}.jsonl"
 
 
