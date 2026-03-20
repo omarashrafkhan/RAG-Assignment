@@ -1,0 +1,8 @@
+.env
+urwiki-latest-pages-articles.xml.bz2
+urdu_medical_rag_FINAL.json
+DEPLOYMENT.md
+requirements_app.txt
+.streamlit
+
+__pycache__

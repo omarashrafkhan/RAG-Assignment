@@ -1,0 +1,7 @@
+run_name,strategy,retrieval_mode,reranking,n_queries,avg_faithfulness,avg_relevancy,generation_model,judge_model,source_file,note
+fixed__hybrid__rerank,fixed,Hybrid (BM25+Semantic+RRF),Yes,10,0.875,0.8394,openai/gpt-4.1-nano,openai/gpt-4.1-nano,rag_artifacts/eval/eval_fixed_hybrid_rerank.json,full-test
+fixed__semantic_only__no_rerank,fixed,Semantic-only,No,10,0.7633,0.8017,openai/gpt-4.1-nano,openai/gpt-4.1-nano,rag_artifacts/eval/eval_fixed_semantic_only.json,full-test
+recursive__hybrid__rerank,recursive,Hybrid (BM25+Semantic+RRF),Yes,10,0.9467,0.7711,openai/gpt-4.1-nano,openai/gpt-4.1-nano,rag_artifacts/eval/eval_recursive_hybrid_rerank.json,full-test
+recursive__semantic_only__no_rerank,recursive,Semantic-only,No,10,0.7933,0.8131,openai/gpt-4.1-nano,openai/gpt-4.1-nano,rag_artifacts/eval/eval_recursive_semantic_only.json,full-test
+sentence__hybrid__rerank,sentence,Hybrid (BM25+Semantic+RRF),Yes,10,0.8933,0.8053,openai/gpt-4.1-mini,openai/gpt-4.1-mini,rag_artifacts/eval/eval_sentence_hybrid_rerank.json,full-test
+sentence__semantic_only__no_rerank,sentence,Semantic-only,No,10,0.8267,0.7238,openai/gpt-4.1-mini,openai/gpt-4.1-mini,rag_artifacts/eval/eval_sentence_semantic_only.json,full-test
