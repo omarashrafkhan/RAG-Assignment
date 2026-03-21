@@ -223,20 +223,25 @@ def llm_judge_once(
     token: str,
 ) -> Dict:
     prompt = f"""
-آپ ایک جج ہیں۔ نیچے سوال، جواب، اور سیاق دیا گیا ہے۔
-آپ نے صرف JSON object واپس کرنا ہے (کوئی اضافی متن نہیں):
+آپ ایک جج ہیں جو دعوے کی سچائی کو دیے گئے سیاق و سباق کی بنیاد پر پرکھتا ہے۔
+
+نیچے سوال، جواب، اور سیاق دیا گیا ہے۔
+
+آپ نے صرف اور صرف ایک درست JSON object واپس کرنا ہے۔ کوئی اضافی متن نہ دیں۔
 
 {{
   "claims": [
-    {{"claim": "...", "verdict": "SUPPORTED یا NOT_SUPPORTED", "reason": "مختصر وجہ"}}
+        {{"claim": "یہ دعویٰ یہاں", "verdict": "SUPPORTED یا NOT_SUPPORTED", "reason": "مختصر وجہ یہاں"}}
   ],
-  "alternate_questions": ["...", "...", "..."]
+    "alternate_questions": ["متبادل سوال 1", "متبادل سوال 2"]
 }}
 
 قواعد:
-1) جواب سے 3 تا 6 قابلِ تصدیق دعوے نکالیں۔
-2) ہر دعوے کو صرف دیے گئے سیاق کی بنیاد پر SUPPORTED یا NOT_SUPPORTED کریں۔
-3) اسی جواب/سوال کی بنیاد پر 3 متبادل سوالات دیں۔
+1) جواب سے اہم اور قابل تصدیق دعوے نکالیں۔ تعداد پر خود فیصلہ کریں۔
+2) ہر دعوے کے لیے صرف دیے گئے سیاق کی بنیاد پر SUPPORTED یا NOT_SUPPORTED دیں۔
+3) وجہ کو مختصر اور واضح لکھیں، صرف حقائق پر مبنی۔
+4) اسی جواب/سوال کی بنیاد پر متبادل سوالات دیں، تعداد خود منتخب کریں۔
+5) JSON کو ہمیشہ درست اور parse-able رکھیں۔
 
 اصل سوال:
 {query}
@@ -280,7 +285,7 @@ def llm_judge_once(
     # **FALLBACK: If JSON extraction failed, generate synthetic claims/questions**
     if not verifications or not alt_questions:
         safe_print(
-            f"  [FALLBACK] JSON extraction failed or returned empty. Generating synthetic claims/questions."
+            "  [FALLBACK] JSON extraction failed or returned empty. Generating synthetic claims/questions."
         )
         verifications, alt_questions = generate_fallback_claims_and_questions(
             answer=answer,
