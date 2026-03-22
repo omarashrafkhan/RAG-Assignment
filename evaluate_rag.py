@@ -23,6 +23,7 @@ def safe_print(msg: str) -> None:
     """Print message with UTF-8 encoding support for Urdu/Unicode text."""
     sys.stdout.buffer.write(msg.encode("utf-8"))
     sys.stdout.buffer.write(b"\n")
+    sys.stdout.flush()
 
 
 def read_json(path: Path):
@@ -458,6 +459,9 @@ def llm_judge_once(
     used_models: List[str] = []
     sentence_count = len(split_sentences(answer))
     min_claims = 2 if sentence_count >= 2 else 1
+    safe_print(
+        f"  [JUDGE] answer_chars={len(answer)} | context_chars={len(context_text)} | min_claims={min_claims}"
+    )
 
     extract_claims_prompt = f"""
 دیے گئے جواب سے اہم اور الگ الگ دعوے نکالیں۔
@@ -490,11 +494,18 @@ JSON:
     )
     if claims_model:
         used_models.append(claims_model)
+    safe_print(
+        f"  [JUDGE] claims_extraction model={claims_model} | raw_chars={len(claims_text or '')}"
+    )
 
     claims_obj = extract_json_object(claims_text)
     claim_candidates = parse_claim_candidates(claims_obj)
     if len(claim_candidates) < min_claims:
         claim_candidates = [s for s in split_sentences(answer)[:3] if s]
+        safe_print(
+            "  [JUDGE] claims_extraction parsed too few claims, using sentence fallback"
+        )
+    safe_print(f"  [JUDGE] claims_extraction parsed_claims={len(claim_candidates)}")
 
     claims_bulleted = "\n".join([f"- {c}" for c in claim_candidates])
     verify_prompt = f"""
@@ -532,6 +543,9 @@ JSON:
     )
     if verify_model:
         used_models.append(verify_model)
+    safe_print(
+        f"  [JUDGE] verification model={verify_model} | raw_chars={len(verify_text or '')}"
+    )
 
     verify_obj = extract_json_object(verify_text)
     verifications, _ = parse_judge_payload(verify_obj)
@@ -539,8 +553,9 @@ JSON:
         recovered_verify = parse_claims_from_jsonish(verify_text)
         if len(recovered_verify) > len(verifications):
             verifications = recovered_verify
+    safe_print(f"  [JUDGE] verification parsed_claims={len(verifications)}")
 
-        alt_prompt = f"""
+    alt_prompt = f"""
 آپ کا کام صرف متبادل سوالات بنانا ہے، اور وہ صرف جواب کی عبارت پر مبنی ہوں۔
 
 اہم ہدایت:
@@ -567,9 +582,13 @@ JSON:
     )
     if alt_model:
         used_models.append(alt_model)
+    safe_print(
+        f"  [JUDGE] alternate_questions model={alt_model} | raw_chars={len(alt_text or '')}"
+    )
 
     alt_obj = extract_json_object(alt_text)
     _, alt_questions = parse_judge_payload(alt_obj)
+    safe_print(f"  [JUDGE] alternate_questions parsed_count={len(alt_questions)}")
 
     # Single-pass mode: one call for alternate questions.
 
@@ -582,6 +601,9 @@ JSON:
             answer=answer,
             context_text=context_text,
         )
+    safe_print(
+        f"  [JUDGE] final claims={len(verifications)} | final alt_questions={len(alt_questions)}"
+    )
 
     return {
         "claim_verification": verifications,
@@ -602,10 +624,15 @@ def evaluate_single_query(
     github_token: str,
     embedder: SentenceTransformer,
 ) -> Dict:
+    safe_print(
+        f"  [PIPELINE] retrieval strategy={retrieval_args.strategy} | bm25_top_k={retrieval_args.bm25_top_k} | semantic_top_k={retrieval_args.semantic_top_k} | reranker={retrieval_args.use_reranker}"
+    )
     hits = retrieve_chunks(retrieval_args, embedder=embedder)
+    safe_print(f"  [PIPELINE] retrieved_chunks={len(hits)}")
     prompt = build_prompt(
         query, hits, max_context_chars=retrieval_args.max_context_chars
     )
+    safe_print(f"  [PIPELINE] prompt_chars={len(prompt)}")
     answer, _, used_generation_model = call_github_models_with_fallback(
         prompt=prompt,
         primary_model=generation_model,
@@ -615,8 +642,12 @@ def evaluate_single_query(
         temperature=retrieval_args.temperature,
         top_p=retrieval_args.top_p,
     )
+    safe_print(
+        f"  [PIPELINE] generation model={used_generation_model} | answer_chars={len(answer)}"
+    )
 
     context_text = "\n\n".join([h.get("text", "") for h in hits if h.get("text")])
+    safe_print(f"  [PIPELINE] context_chars={len(context_text)}")
 
     judged = llm_judge_once(
         answer=answer,
@@ -638,6 +669,9 @@ def evaluate_single_query(
         q_emb = embedder.encode([q], normalize_embeddings=True)[0]
         rel_scores.append(cosine(query_emb, q_emb))
     relevancy = float(np.mean(rel_scores)) if rel_scores else 0.0
+    safe_print(
+        f"  [PIPELINE] scores faithfulness={faithfulness:.4f} | relevancy={relevancy:.4f}"
+    )
 
     return {
         "query": query,
@@ -663,6 +697,12 @@ def evaluate_single_query(
 
 
 def main() -> None:
+    try:
+        sys.stdout.reconfigure(line_buffering=True, write_through=True)
+        sys.stderr.reconfigure(line_buffering=True, write_through=True)
+    except Exception:
+        pass
+
     load_dotenv()
 
     parser = argparse.ArgumentParser(
@@ -848,11 +888,10 @@ def main() -> None:
     out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
     # Print with UTF-8 encoding
-    import sys
-
     summary_str = json.dumps(summary, ensure_ascii=False, indent=2)
     sys.stdout.buffer.write(summary_str.encode("utf-8"))
     sys.stdout.buffer.write(b"\n")
+    sys.stdout.flush()
     print(f"Saved evaluation to {out}")
 
 
