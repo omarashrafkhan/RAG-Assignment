@@ -47,8 +47,15 @@ def ensure_index(
 
 
 def chunk_path_from_strategy(strategy: str) -> Path:
-    base = Path("rag_artifacts") / "chunks"
-    return base / f"chunks_{strategy}.jsonl"
+    base = Path(__file__).resolve().parent
+    # utils/ is one level below repo root in this project.
+    c1 = base.parent / "rag_artifacts" / "chunks"
+    if c1.exists():
+        return c1 / f"chunks_{strategy}.jsonl"
+
+    # Fallback for layouts where code is nested under src/
+    c2 = base.parent.parent / "rag_artifacts" / "chunks"
+    return c2 / f"chunks_{strategy}.jsonl"
 
 
 def build_metadata(row: Dict, include_text: bool = True) -> Dict:
@@ -130,7 +137,11 @@ def main() -> None:
         raise RuntimeError("Missing PINECONE_API_KEY in environment or .env file.")
 
     namespace = args.namespace.strip() or args.strategy
-    chunk_file = Path(args.chunk_file) if args.chunk_file else chunk_path_from_strategy(args.strategy)
+    chunk_file = (
+        Path(args.chunk_file)
+        if args.chunk_file
+        else chunk_path_from_strategy(args.strategy)
+    )
     if not chunk_file.exists():
         raise FileNotFoundError(f"Chunk file not found: {chunk_file}")
 
@@ -173,7 +184,9 @@ def main() -> None:
                 {
                     "id": vector_id,
                     "values": emb,
-                    "metadata": build_metadata(row, include_text=args.include_text_metadata),
+                    "metadata": build_metadata(
+                        row, include_text=args.include_text_metadata
+                    ),
                 }
             )
 
@@ -183,7 +196,9 @@ def main() -> None:
             print(f"Upserted {total}/{len(rows)}")
 
     elapsed = round(time.time() - start, 2)
-    print(f"Done. Upserted {total} vectors in {elapsed}s into index={args.index_name}, namespace={namespace}")
+    print(
+        f"Done. Upserted {total} vectors in {elapsed}s into index={args.index_name}, namespace={namespace}"
+    )
 
 
 if __name__ == "__main__":

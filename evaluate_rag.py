@@ -5,7 +5,7 @@ import re
 import sys
 import time
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 import numpy as np
 from dotenv import load_dotenv
@@ -29,6 +29,41 @@ def read_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def resolve_path(path_str: str) -> Path:
+    p = Path(path_str)
+    if p.is_absolute() and p.exists():
+        return p
+    if p.exists():
+        return p
+
+    base = Path(__file__).resolve().parent
+    c1 = base / p
+    if c1.exists():
+        return c1
+
+    c2 = base.parent / p
+    if c2.exists():
+        return c2
+
+    return p
+
+
+def resolve_output_path(path_str: str) -> Path:
+    p = Path(path_str)
+    if p.is_absolute():
+        return p
+    base = Path(__file__).resolve().parent
+    c1 = base / p
+    c2 = base.parent / p
+
+    # Prefer current relative path when possible, else src-relative, else root-relative.
+    if p.parent.exists() or p.parent == Path("."):
+        return p
+    if c1.parent.exists():
+        return c1
+    return c2
+
+
 def extract_json_array(text: str) -> List[str]:
     match = re.search(r"\[[\s\S]*\]", text)
     if not match:
@@ -48,33 +83,55 @@ def extract_json_object(text: str, strict=False) -> Dict:
     if not text or not isinstance(text, str):
         return {}
 
-    # Try to find and extract JSON object
-    match = re.search(r"\{[\s\S]*\}", text)
-    if not match:
+    text = text.strip()
+    text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*```$", "", text)
+
+    preferred_keys = {
+        "claims",
+        "claim_verification",
+        "verifications",
+        "claims_and_verdicts",
+        "alternate_questions",
+        "alternate_queries",
+        "generated_questions",
+    }
+
+    decoder = json.JSONDecoder()
+    starts = [i for i, ch in enumerate(text) if ch == "{"]
+    first_obj: Optional[Dict] = None
+    for start in starts:
+        try:
+            data, _ = decoder.raw_decode(text[start:])
+            if isinstance(data, dict):
+                if first_obj is None:
+                    first_obj = data
+                if any(k in data for k in preferred_keys):
+                    return data
+        except json.JSONDecodeError:
+            continue
+
+    if first_obj is not None:
+        has_schema_hint = any(f'"{k}"' in text for k in preferred_keys)
+        if has_schema_hint and not any(k in first_obj for k in preferred_keys):
+            return {}
+        return first_obj
+
+    if strict:
         return {}
 
-    raw = match.group(0)
-
-    # Try to parse directly
+    first = text.find("{")
+    if first == -1:
+        return {}
+    raw = text[first:]
+    fixed = raw.replace("\u201c", '"').replace("\u201d", '"').replace("\u2019", "'")
+    fixed = re.sub(r",\s*([}\]])", r"\1", fixed)
     try:
-        data = json.loads(raw)
+        data, _ = decoder.raw_decode(fixed)
         if isinstance(data, dict):
             return data
     except json.JSONDecodeError:
-        pass
-
-    # If strict parsing fails, try removing incomplete structures
-    if not strict:
-        # Try to fix common issues: remove trailing commas, incomplete arrays
-        for attempt in range(3):
-            try:
-                fixed = re.sub(r",\s*([}\]])", r"\1", raw)  # Remove trailing commas
-                data = json.loads(fixed)
-                if isinstance(data, dict):
-                    return data
-            except json.JSONDecodeError:
-                raw = raw[:-1]  # Remove last char and retry
-
+        return {}
     return {}
 
 
@@ -90,9 +147,180 @@ def split_sentences(text: str) -> List[str]:
     return [p.strip() for p in parts if p.strip()]
 
 
+def parse_claims_from_jsonish(text: str) -> List[Dict]:
+    src = text or ""
+    claim_pat = re.compile(r'"claim"\s*:\s*"(?P<claim>.*?)"', flags=re.DOTALL)
+    verdict_pat = re.compile(r'"verdict"\s*:\s*"(?P<verdict>SUPPORTED|NOT_SUPPORTED)"')
+    reason_pat = re.compile(r'"reason"\s*:\s*"(?P<reason>.*?)"', flags=re.DOTALL)
+
+    rows: List[Dict] = []
+    seen = set()
+    claim_matches = list(claim_pat.finditer(src))
+
+    for i, cm in enumerate(claim_matches):
+        claim = re.sub(r"\s+", " ", cm.group("claim")).strip()
+        if not claim:
+            continue
+
+        end = claim_matches[i + 1].start() if i + 1 < len(claim_matches) else len(src)
+        segment = src[cm.end() : end]
+
+        vm = verdict_pat.search(segment)
+        verdict = normalize_verdict(vm.group("verdict") if vm else "NOT_SUPPORTED")
+
+        rm = reason_pat.search(segment)
+        reason = (
+            re.sub(r"\s+", " ", rm.group("reason")).strip()
+            if rm
+            else "Recovered from truncated judge JSON output."
+        )
+
+        key = (claim, verdict)
+        if key in seen:
+            continue
+        seen.add(key)
+        rows.append({"claim": claim, "verdict": verdict, "reason": reason})
+
+    return rows
+
+
+def parse_claim_lines(text: str) -> List[Dict]:
+    rows: List[Dict] = []
+    for raw_line in (text or "").splitlines():
+        line = raw_line.strip().lstrip("-*")
+        if not line:
+            continue
+        parts = re.split(r"\t|\|\|", line)
+        parts = [p.strip() for p in parts if p.strip()]
+        if len(parts) < 2:
+            continue
+        claim = parts[0]
+        verdict = normalize_verdict(parts[1])
+        reason = (
+            parts[2] if len(parts) >= 3 else "Recovered from non-JSON judge output."
+        )
+        if claim:
+            rows.append({"claim": claim, "verdict": verdict, "reason": reason})
+    return rows
+
+
+def normalize_verdict(raw_verdict: str) -> str:
+    cleaned = re.sub(r"[^A-Z_]", "", str(raw_verdict).upper())
+    if cleaned in {"SUPPORTED", "SUPPORT"}:
+        return "SUPPORTED"
+    if cleaned in {"NOTSUPPORTED", "NOT_SUPPORTED", "UNSUPPORTED"}:
+        return "NOT_SUPPORTED"
+    return "NOT_SUPPORTED"
+
+
+def parse_judge_payload(obj: Dict) -> tuple:
+    if not isinstance(obj, dict):
+        return [], []
+
+    # Some model outputs are a single claim object instead of {"claims": [...]}.
+    if (
+        "claims" not in obj
+        and "claim_verification" not in obj
+        and "verifications" not in obj
+        and "claims_and_verdicts" not in obj
+        and ("claim" in obj or "statement" in obj)
+    ):
+        obj = {"claims": [obj]}
+
+    claims_raw = (
+        obj.get("claims")
+        or obj.get("claim_verification")
+        or obj.get("verifications")
+        or obj.get("claims_and_verdicts")
+        or obj.get("دعوے")
+        or []
+    )
+    alt_raw = (
+        obj.get("alternate_questions")
+        or obj.get("alternate_queries")
+        or obj.get("generated_questions")
+        or obj.get("متبادل_سوالات")
+        or []
+    )
+
+    if isinstance(claims_raw, dict):
+        claims_raw = [claims_raw]
+    if isinstance(alt_raw, str):
+        alt_raw = [alt_raw]
+
+    verifications = []
+    for item in claims_raw:
+        if isinstance(item, dict):
+            claim = str(
+                item.get("claim", "")
+                or item.get("text", "")
+                or item.get("statement", "")
+            ).strip()
+            verdict = normalize_verdict(
+                item.get("verdict", "NOT_SUPPORTED")
+                or item.get("label", "NOT_SUPPORTED")
+                or item.get("status", "NOT_SUPPORTED")
+            )
+            reason = str(item.get("reason", "") or item.get("why", "")).strip()
+            if claim:
+                verifications.append(
+                    {"claim": claim, "verdict": verdict, "reason": reason}
+                )
+        elif isinstance(item, str) and item.strip():
+            verifications.append(
+                {
+                    "claim": item.strip(),
+                    "verdict": "NOT_SUPPORTED",
+                    "reason": "Claim parsed from string-only judge output.",
+                }
+            )
+
+    alt_questions = [str(q).strip() for q in alt_raw if str(q).strip()][:3]
+    return verifications, alt_questions
+
+
+def parse_claim_candidates(obj: Dict) -> List[str]:
+    if not isinstance(obj, dict):
+        return []
+
+    raw = (
+        obj.get("claims")
+        or obj.get("claims_list")
+        or obj.get("extracted_claims")
+        or obj.get("statements")
+        or []
+    )
+
+    if isinstance(raw, str):
+        raw = [raw]
+    if isinstance(raw, dict):
+        raw = [raw]
+
+    claims: List[str] = []
+    for item in raw:
+        claim = ""
+        if isinstance(item, dict):
+            claim = str(
+                item.get("claim", "")
+                or item.get("text", "")
+                or item.get("statement", "")
+            ).strip()
+        elif isinstance(item, str):
+            claim = item.strip()
+        if claim:
+            claims.append(claim)
+
+    deduped: List[str] = []
+    seen = set()
+    for c in claims:
+        if c not in seen:
+            deduped.append(c)
+            seen.add(c)
+    return deduped[:5]
+
+
 def generate_fallback_claims_and_questions(
     answer: str,
-    query: str,
     context_text: str,
 ) -> tuple:
     """Generate synthetic claims (by splitting answer) and alternate questions when LLM fails."""
@@ -129,12 +357,18 @@ def generate_fallback_claims_and_questions(
             }
         )
 
-    # Generate alternate questions
+    answer_sentences = split_sentences(answer)
     alt_questions = [
-        f"{query} کی تفصیلات کیا ہیں؟",
-        f"{query} سے بچاؤ کے طریقے کیا ہیں؟",
-        f"{query} کے علاج یا انتظام کے بارے میں کیا معلومات ہیں؟",
+        f"{s[:90]} کے بارے میں مزید وضاحت کیا ہے؟" for s in answer_sentences[:3] if s
     ]
+    if len(alt_questions) < 3:
+        alt_questions.extend(
+            [
+                "دیے گئے جواب کے اہم نکات کیا ہیں؟",
+                "جواب میں بیان کردہ معلومات کی سادہ تشریح کیا ہے؟",
+                "جواب کے مطابق بنیادی طبی رہنمائی کیا بنتی ہے؟",
+            ][: 3 - len(alt_questions)]
+        )
 
     return verifications, alt_questions
 
@@ -215,88 +449,146 @@ def heuristic_evaluate_single_query(
 
 
 def llm_judge_once(
-    query: str,
     answer: str,
     context_text: str,
     model_id: str,
     fallback_models: List[str],
     token: str,
 ) -> Dict:
-    prompt = f"""
-آپ ایک جج ہیں جو دعوے کی سچائی کو دیے گئے سیاق و سباق کی بنیاد پر پرکھتا ہے۔
+    used_models: List[str] = []
+    sentence_count = len(split_sentences(answer))
+    min_claims = 2 if sentence_count >= 2 else 1
 
-نیچے سوال، جواب، اور سیاق دیا گیا ہے۔
-
-آپ نے صرف اور صرف ایک درست JSON object واپس کرنا ہے۔ کوئی اضافی متن نہ دیں۔
-
-{{
-  "claims": [
-        {{"claim": "یہ دعویٰ یہاں", "verdict": "SUPPORTED یا NOT_SUPPORTED", "reason": "مختصر وجہ یہاں"}}
-  ],
-    "alternate_questions": ["متبادل سوال 1", "متبادل سوال 2"]
-}}
+    extract_claims_prompt = f"""
+دیے گئے جواب سے اہم اور الگ الگ دعوے نکالیں۔
 
 قواعد:
-1) جواب سے اہم اور قابل تصدیق دعوے نکالیں۔ تعداد پر خود فیصلہ کریں۔
-2) ہر دعوے کے لیے صرف دیے گئے سیاق کی بنیاد پر SUPPORTED یا NOT_SUPPORTED دیں۔
-3) وجہ کو مختصر اور واضح لکھیں، صرف حقائق پر مبنی۔
-4) اسی جواب/سوال کی بنیاد پر متبادل سوالات دیں، تعداد خود منتخب کریں۔
-5) JSON کو ہمیشہ درست اور parse-able رکھیں۔
+1) ہر دعویٰ ایک مکمل اور مختصر جملہ ہو۔
+2) دعوے ایک دوسرے سے مختلف ہوں اور ایک ہی بات کو بار بار نہ دہرائیں۔
+3) ہر دعویٰ جواب میں موجود معلومات پر مبنی ہو، کوئی نئی بات شامل نہ کریں۔
+4) غیر ضروری یا کم اہم باتوں کو شامل نہ کریں۔
+5) صرف valid JSON object دیں، کوئی اضافی متن نہ لکھیں۔
 
-اصل سوال:
-{query}
+JSON:
+{{
+    "claims": ["دعویٰ 1", "دعویٰ 2", "..."]
+}}
 
 جواب:
 {answer}
+""".strip()
+
+    claims_text, _, claims_model = call_github_models_with_fallback(
+        prompt=extract_claims_prompt,
+        primary_model=model_id,
+        fallback_models=fallback_models,
+        github_token=token,
+        max_new_tokens=400,
+        temperature=0.0,
+        top_p=1.0,
+        force_json=True,
+    )
+    if claims_model:
+        used_models.append(claims_model)
+
+    claims_obj = extract_json_object(claims_text)
+    claim_candidates = parse_claim_candidates(claims_obj)
+    if len(claim_candidates) < min_claims:
+        claim_candidates = [s for s in split_sentences(answer)[:3] if s]
+
+    claims_bulleted = "\n".join([f"- {c}" for c in claim_candidates])
+    verify_prompt = f"""
+نیچے دیے گئے دعوؤں کو صرف سیاق کی بنیاد پر چیک کریں۔
+
+قواعد:
+1) دعووں کا متن نہ بدلیں۔
+2) ہر دعویٰ کے لیے verdict دیں: SUPPORTED یا NOT_SUPPORTED
+3) reason مختصر رکھیں (زیادہ سے زیادہ 20 الفاظ)
+4) صرف valid JSON object دیں۔
+
+JSON:
+{{
+  "claims": [
+    {{"claim": "...", "verdict": "SUPPORTED یا NOT_SUPPORTED", "reason": "..."}}
+  ]
+}}
+
+دعوے:
+{claims_bulleted}
 
 سیاق:
 {context_text}
 """.strip()
 
-    text, _, used_model = call_github_models_with_fallback(
-        prompt=prompt,
+    verify_text, _, verify_model = call_github_models_with_fallback(
+        prompt=verify_prompt,
         primary_model=model_id,
         fallback_models=fallback_models,
         github_token=token,
-        max_new_tokens=420,
+        max_new_tokens=1000,
         temperature=0.0,
         top_p=1.0,
+        force_json=True,
     )
+    if verify_model:
+        used_models.append(verify_model)
 
-    obj = extract_json_object(text)
-    claims_raw = obj.get("claims", []) if isinstance(obj, dict) else []
-    alt_raw = obj.get("alternate_questions", []) if isinstance(obj, dict) else []
+    verify_obj = extract_json_object(verify_text)
+    verifications, _ = parse_judge_payload(verify_obj)
+    if len(verifications) < min_claims:
+        recovered_verify = parse_claims_from_jsonish(verify_text)
+        if len(recovered_verify) > len(verifications):
+            verifications = recovered_verify
 
-    verifications = []
-    for item in claims_raw:
-        if not isinstance(item, dict):
-            continue
-        claim = str(item.get("claim", "")).strip()
-        verdict = str(item.get("verdict", "NOT_SUPPORTED")).strip().upper()
-        reason = str(item.get("reason", "")).strip()
-        if not claim:
-            continue
-        if verdict not in {"SUPPORTED", "NOT_SUPPORTED"}:
-            verdict = "NOT_SUPPORTED"
-        verifications.append({"claim": claim, "verdict": verdict, "reason": reason})
+        alt_prompt = f"""
+آپ کا کام صرف متبادل سوالات بنانا ہے، اور وہ صرف جواب کی عبارت پر مبنی ہوں۔
 
-    alt_questions = [str(q).strip() for q in alt_raw if str(q).strip()][:3]
+اہم ہدایت:
+1) جواب سے 3 متبادل سوالات بنائیں۔
+2) صرف valid JSON object دیں۔
+
+{{
+    "alternate_questions": ["سوال 1", "سوال 2", "سوال 3"]
+}}
+
+جواب:
+{answer}
+""".strip()
+
+    alt_text, _, alt_model = call_github_models_with_fallback(
+        prompt=alt_prompt,
+        primary_model=model_id,
+        fallback_models=fallback_models,
+        github_token=token,
+        max_new_tokens=250,
+        temperature=0.0,
+        top_p=1.0,
+        force_json=True,
+    )
+    if alt_model:
+        used_models.append(alt_model)
+
+    alt_obj = extract_json_object(alt_text)
+    _, alt_questions = parse_judge_payload(alt_obj)
+
+    # Single-pass mode: one call for alternate questions.
 
     # **FALLBACK: If JSON extraction failed, generate synthetic claims/questions**
-    if not verifications or not alt_questions:
+    if len(verifications) < min_claims or not alt_questions:
         safe_print(
             "  [FALLBACK] JSON extraction failed or returned empty. Generating synthetic claims/questions."
         )
         verifications, alt_questions = generate_fallback_claims_and_questions(
             answer=answer,
-            query=query,
             context_text=context_text,
         )
 
     return {
         "claim_verification": verifications,
         "alternate_questions": alt_questions,
-        "used_judge_model": used_model,
+        "used_judge_model": " + ".join(
+            [m for i, m in enumerate(used_models) if m and m not in used_models[:i]]
+        ),
     }
 
 
@@ -327,7 +619,6 @@ def evaluate_single_query(
     context_text = "\n\n".join([h.get("text", "") for h in hits if h.get("text")])
 
     judged = llm_judge_once(
-        query=query,
         answer=answer,
         context_text=context_text,
         model_id=judge_model,
@@ -463,7 +754,7 @@ def main() -> None:
     if not github_token:
         raise RuntimeError("Missing GITHUB_TOKEN in environment or .env file.")
 
-    q_path = Path(args.queries_file)
+    q_path = resolve_path(args.queries_file)
     if not q_path.exists():
         raise FileNotFoundError(f"Queries file not found: {q_path}")
 
@@ -552,7 +843,7 @@ def main() -> None:
         "failed": failed_rows,
     }
 
-    out = Path(args.save_json)
+    out = resolve_output_path(args.save_json)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 

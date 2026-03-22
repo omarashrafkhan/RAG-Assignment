@@ -92,9 +92,12 @@ def build_prompt(query: str, hits: List[Dict], max_context_chars: int = 10000) -
 
     return f"""
 آپ ایک طبی سوال جواب نظام ہیں۔
-صرف دیے گئے سیاق (context) سے جواب دیں۔
-اگر سیاق میں جواب موجود نہ ہو تو صاف لکھیں: "دی گئی معلومات میں واضح جواب موجود نہیں"۔
-جواب اردو میں دیں، مختصر اور درست رکھیں، اور ہر اہم دعوے کے ساتھ حوالہ [1] [2] جیسی شکل میں دیں۔
+صرف دیے گئے سیاق (context) کی بنیاد پر جواب دیں۔
+اگر سیاق میں جواب موجود نہ ہو تو لکھیں: "دی گئی معلومات میں واضح جواب موجود نہیں"۔
+
+جواب اردو میں دیں، مختصر اور واضح رکھیں۔
+ہر اہم نکتے کے ساتھ حوالہ دیں جیسے [1] [2]۔
+کوئی ایسی بات شامل نہ کریں جس کا حوالہ موجود نہ ہو۔
 
 سوال:
 {query}
@@ -102,7 +105,7 @@ def build_prompt(query: str, hits: List[Dict], max_context_chars: int = 10000) -
 سیاق:
 {joined_context}
 
-متوقع جواب (اردو + حوالہ جات):
+جواب (اردو + حوالہ جات):
 """.strip()
 
 
@@ -113,6 +116,7 @@ def call_github_models(
     max_new_tokens: int,
     temperature: float,
     top_p: float,
+    force_json: bool = False,
 ) -> Tuple[str, Dict]:
     client = OpenAI(api_key=github_token, base_url="https://models.github.ai/inference")
 
@@ -121,19 +125,37 @@ def call_github_models(
 
     for delay in backoffs:
         try:
-            chat = client.chat.completions.create(
-                model=model_id,
-                messages=[{"role": "user", "content": prompt}],
-                max_tokens=max_new_tokens,
-                temperature=temperature,
-                top_p=top_p,
-            )
+            req = {
+                "model": model_id,
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": max_new_tokens,
+                "temperature": temperature,
+                "top_p": top_p,
+            }
+            if force_json:
+                req["response_format"] = {"type": "json_object"}
+            chat = client.chat.completions.create(**req)
             if chat and chat.choices:
                 text = (chat.choices[0].message.content or "").strip()
                 if text:
                     return text, {"raw": "chat.completions"}
         except Exception as exc:
             errors.append(f"chat.completions: {str(exc)[:220]}")
+            if force_json:
+                try:
+                    chat = client.chat.completions.create(
+                        model=model_id,
+                        messages=[{"role": "user", "content": prompt}],
+                        max_tokens=max_new_tokens,
+                        temperature=temperature,
+                        top_p=top_p,
+                    )
+                    if chat and chat.choices:
+                        text = (chat.choices[0].message.content or "").strip()
+                        if text:
+                            return text, {"raw": "chat.completions"}
+                except Exception as exc2:
+                    errors.append(f"chat.completions(non-json): {str(exc2)[:220]}")
 
         time.sleep(delay)
 
@@ -155,6 +177,7 @@ def call_github_models_with_fallback(
     max_new_tokens: int,
     temperature: float,
     top_p: float,
+    force_json: bool = False,
 ) -> Tuple[str, Dict, str]:
     # Keep GPT-4 mini as reliable fallback (widely available on GitHub Models).
     candidates = [primary_model] + fallback_models + ["openai/gpt-4.1-mini"]
@@ -175,6 +198,7 @@ def call_github_models_with_fallback(
                 max_new_tokens=max_new_tokens,
                 temperature=temperature,
                 top_p=top_p,
+                force_json=force_json,
             )
             return text, meta, model_id
         except Exception as exc:
@@ -230,7 +254,7 @@ def main() -> None:
         help="Comma-separated fallback model IDs used when primary model fails.",
     )
     parser.add_argument("--max-context-chars", type=int, default=10000)
-    parser.add_argument("--max-new-tokens", type=int, default=300)
+    parser.add_argument("--max-new-tokens", type=int, default=200)
     parser.add_argument("--temperature", type=float, default=0.2)
     parser.add_argument("--top-p", type=float, default=0.9)
     parser.add_argument("--save-json", type=str, default="")
