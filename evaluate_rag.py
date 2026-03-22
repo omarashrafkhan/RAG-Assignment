@@ -747,6 +747,8 @@ def main() -> None:
         "--generation-model",
         type=str,
         default="openai/gpt-4.1-mini",
+        choices=["openai/gpt-4.1-mini", "openai/gpt-4o-mini", "openai/gpt-4.1-nano"],
+        help="Generation model. Includes explicit support for openai/gpt-4o-mini.",
     )
     parser.add_argument(
         "--generation-fallback-models",
@@ -758,6 +760,7 @@ def main() -> None:
         "--judge-model",
         type=str,
         default="openai/gpt-4.1-mini",
+        choices=["openai/gpt-4.1-mini", "openai/gpt-4o-mini", "openai/gpt-4.1-nano"],
         help="GitHub Models judge model for claim checks and alternate questions.",
     )
     parser.add_argument(
