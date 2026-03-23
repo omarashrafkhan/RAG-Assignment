@@ -503,8 +503,8 @@ def build_report():
     
     members = [
         ["Omar Ashraf Khan", "26985"],
-        ["Ibrahim Farid", "26986"],
-        ["Jawad Maqsood", "26987"]
+        ["Ibrahim Farid", "27098"],
+        ["Jawad Maqsood", "27080"]
     ]
     
     member_table = Table(members, colWidths=[6 * cm, 4 * cm])
