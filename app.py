@@ -544,7 +544,6 @@ st.markdown(
         </svg>
     </div>
     <h1 class="main-title">Urdu Medical RAG</h1>
-    <h2 class="urdu-logo">ذیابیطس میڈیکل اسسٹنٹ</h2>
 </div>
 """,
     unsafe_allow_html=True,
