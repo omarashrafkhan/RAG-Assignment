@@ -500,8 +500,8 @@ endobj
 endobj
 47 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260327005433+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260327005433+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/Author (Omar Ashraf Khan, Ibrahim Farid, Jawad Maqsood) /CreationDate (D:20260327010854+05'00') /Creator (ReportLab Generation Script) /Keywords () /ModDate (D:20260327010854+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (NLP with Deep Learning \(Spring 2026\)) /Title (RAG-based Question-Answering System Report) /Trapped /False
 >>
 endobj
 48 0 obj
@@ -665,26 +665,26 @@ xref
 0000786052 00000 n 
 0000787952 00000 n 
 0000788022 00000 n 
-0000788303 00000 n 
-0000788463 00000 n 
-0000789411 00000 n 
-0000792452 00000 n 
-0000794450 00000 n 
-0000796403 00000 n 
-0000798690 00000 n 
-0000800571 00000 n 
-0000801984 00000 n 
-0000802535 00000 n 
-0000804566 00000 n 
-0000806389 00000 n 
-0000807846 00000 n 
-0000809769 00000 n 
-0000812548 00000 n 
-0000815160 00000 n 
+0000788400 00000 n 
+0000788560 00000 n 
+0000789508 00000 n 
+0000792549 00000 n 
+0000794547 00000 n 
+0000796500 00000 n 
+0000798787 00000 n 
+0000800668 00000 n 
+0000802081 00000 n 
+0000802632 00000 n 
+0000804663 00000 n 
+0000806486 00000 n 
+0000807943 00000 n 
+0000809866 00000 n 
+0000812645 00000 n 
+0000815257 00000 n 
 trailer
 <<
 /ID 
-[<2f318bbe77f889ec68137daeaac7cc68><2f318bbe77f889ec68137daeaac7cc68>]
+[<091cf397a993c6f0f7f194023eb51ffa><091cf397a993c6f0f7f194023eb51ffa>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 47 0 R
@@ -692,5 +692,5 @@ trailer
 /Size 64
 >>
 startxref
-817486
+817583
 %%EOF

@@ -464,6 +464,10 @@ def build_report():
         str(OUT_PDF), pagesize=A4,
         leftMargin=1.8 * cm, rightMargin=1.8 * cm,
         topMargin=2.0 * cm, bottomMargin=2.0 * cm,
+        title="RAG-based Question-Answering System Report",
+        author="Omar Ashraf Khan, Ibrahim Farid, Jawad Maqsood",
+        subject="NLP with Deep Learning (Spring 2026)",
+        creator="ReportLab Generation Script"
     )
 
     story = []
